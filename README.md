@@ -130,7 +130,3 @@ policy context. The source report itself and third-party figures are not bundled
 See [v4 validation](reference/v4-validation.md) for performed checks and limits. This delivery is
 the portable framework, not an installed service or a generated classroom slide/Word package.
 Keep the complete folder together; the new selection metadata is optional for existing plans.
-
-## Proposal writing
-
-[NSF Lemelson preliminary-work drafts](proposals/nsf-lemelson/README.md), including the latest version and its evidence ledger, are retained for PI review.
