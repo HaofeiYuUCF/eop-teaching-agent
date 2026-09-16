@@ -7,8 +7,8 @@ the unavailable earlier history. The original v4 validation record is retained a
 ## Added
 
 - Three-course library, original PDFs, checksums and metadata, 38 Markdown references and 1,050 page images.
-- Page-level JSONL index, course/topic indexes, extraction flags and image-only navigation annotations.
-- Library guide, rights notice, source map, read-only search and integrity-check helpers.
+- Course/topic indexes, page-level references, visual-reference notes and image-only navigation annotations.
+- Library guide, rights notice, source map and readable source/check records.
 - Shared and role-specific reference access instructions; selected source links in eight existing cards.
 
 ## Preserved
@@ -23,3 +23,11 @@ The transit-emissions card retains its v4 source basis rather than receiving an 
 No course redesign, new lecture package, new worked example, faculty trial, scientific update, model
 run, public publication, or proposal prose was produced. Original course and third-party rights are
 not replaced by the framework license. See [validation](reference/v5-validation.md) for actual checks.
+
+## Instructor-facing repository simplification
+
+At the owner's request, JSON/JSONL records were replaced by readable Markdown records where they
+contained unique provenance or check information. The duplicate page index and two optional Python
+helpers were removed. Course PDFs, 1,050 page images, 38 page-level references, topic cards and
+role instructions are preserved. Browsing now uses the course/topic indexes and page links without
+requiring a programming environment. Earlier development checks remain historical records.

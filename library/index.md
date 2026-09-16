@@ -4,7 +4,7 @@
 
 Start with the [library guide](../reference/library-guide.md), [topic index](topics.md), or a course below. Original PDF files are preserved unchanged.
 
-The manifest distinguishes course folder labels, displayed numbers, visible attribution, PDF metadata, and scientific verification status. PDF author metadata is not proof of authorship.
+The [source records](source-records.md) distinguish course folder labels, displayed numbers, visible attribution, PDF metadata, and scientific verification status. PDF author metadata is not proof of authorship.
 
 ## ENV 4120
 

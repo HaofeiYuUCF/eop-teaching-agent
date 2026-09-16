@@ -4,7 +4,7 @@
 
 Version 5 imports the supplied courses as traceable reference resources. This report distinguishes
 file integrity and source retrieval from scientific verification and educational evaluation.
-See the machine-readable [integrity results](integrity-results.json) and [retrieval results](retrieval-results.json).
+See the readable [development check records](development-check-records.md). The technical checks below describe the original v5 build; optional scripts were later removed for simpler browsing.
 
 | Course folder | Documents | PDF pages | User-reported audience |
 |---|---:|---:|---|
@@ -14,8 +14,8 @@ See the machine-readable [integrity results](integrity-results.json) and [retrie
 | Total | 38 | 1,050 | |
 
 Each PDF has an unchanged copy, a SHA-256 record, one Markdown reference, and one image per page.
-All 1,050 pages have entries in the searchable page index, including pages with no extracted text.
-The source manifest records the actual UTC build time and the baseline v4 archive checksum.
+All 1,050 pages have sections in the Markdown references, including pages with no extracted text.
+The [source records](../library/source-records.md) preserve the actual UTC build time and the baseline v4 archive checksum.
 
 ## Extraction and visual inspection
 
@@ -62,7 +62,7 @@ assistant, not independent agent trials or a cross-model behavioral benchmark.
 | Find roadway receptor placement | ENV6106-10-cal3qhc, PDF p. 19 | Course guidance located; present-day regulatory applicability not checked. |
 | Provide measured 2026 Sunshine Corridor emissions from these courses | No literal match for the test query; no such dataset identified in the inspected sources | Report that the requested measured dataset is not established by this library. The separate v4 synthetic activity is not a measured result. |
 
-The no-match helper produces no answer or citation. The shared guide instructs the assistant to
+The original no-match helper produced no answer or citation. The shared guide instructs the assistant to
 report the specific gap and examine visual/source context as needed. This demonstrates the local
 lookup behavior and a bounded walkthrough, not a guarantee that any future model will follow it.
 
@@ -70,7 +70,7 @@ lookup behavior and a bounded walkthrough, not a guarantee that any future model
 
 All five role SKILL.md files passed the bundled skill-creator quick validator using a task-local
 PyYAML 6.0.3 dependency. This validation dependency is not included in or required by the delivered
-framework. See [skill results](skill-validation.json). All 1,050 JPEG files passed image decoding
+framework. See [recorded skill results](development-check-records.md). All 1,050 JPEG files passed image decoding
 verification. The search helper also ran through its command-line entry point and returned the
 expected no-match status without a generated answer.
 
@@ -78,8 +78,7 @@ expected no-match status without a generated answer.
 
 Checks compare every copied PDF with its source checksum and inspect coverage and relative links.
 Archive release checking also reopens the ZIP, checks CRCs, compares member bytes, and validates
-the package after extraction into a separate location. The release receipt beside the ZIP records
-the final archive hash and results; it is separate to avoid a self-referential archive checksum.
+the package after extraction into a separate location. The [development check records](development-check-records.md) retain the original archive hash and results. They describe the earlier ZIP, not a new archive of this simplified repository.
 
 The original v4 license and fact register are preserved byte-for-byte. Existing claim IDs, card IDs
 and author-acceptance fields were not changed. Related course links were appended to eight cards.

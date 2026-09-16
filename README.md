@@ -12,7 +12,9 @@ It remains a portable instruction framework, not an installed application or hos
 
 Keep this complete folder together. Ask your assistant to read the library guide and find material on
 a specified topic; a reference request does not launch course redesign or generate teaching materials.
-If a Python runtime is available, `scripts/search_library.py` provides optional read-only literal search.
+No programming is required to browse these resources. Open the [course index](library/index.md),
+choose a lecture, and click a page number; or start with the [topic index](library/topics.md).
+Source records and check summaries are provided as readable Markdown documents.
 
 The library is an initial domain resource, not evidence of educational effectiveness, independent
 scientific validation, teacher endorsement, or multi-instructor co-design. Original course labels,
