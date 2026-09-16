@@ -1,0 +1,37 @@
+{
+  "checked_utc": "2026-09-16T02:25:11.052460+00:00",
+  "archive": "eop-teaching-agent-v5.zip",
+  "sha256": "9c54c6c0737e3a9d4c993d67ee287c89c72e6afb694172842fa5881b00851cd9",
+  "archive_bytes": 149781635,
+  "member_count": 1169,
+  "crc_check": "pass",
+  "member_byte_comparison": "pass",
+  "original_pdf_checksums": "38 of 38 unchanged",
+  "package_integrity": {
+    "status": "pass",
+    "documents": 38,
+    "pages": 1050,
+    "page_images": 1050,
+    "checked_relative_links": 4782,
+    "course_pages": {
+      "4120": 280,
+      "5128": 415,
+      "6106": 355
+    },
+    "issues": []
+  },
+  "relocated_integrity": {
+    "status": "pass",
+    "documents": 38,
+    "pages": 1050,
+    "page_images": 1050,
+    "checked_relative_links": 4782,
+    "course_pages": {
+      "4120": 280,
+      "5128": 415,
+      "6106": 355
+    },
+    "issues": []
+  },
+  "relocated_search": "pass"
+}
