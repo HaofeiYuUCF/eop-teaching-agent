@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "documents": 38,
+  "pages": 1050,
+  "page_images": 1050,
+  "checked_relative_links": 4782,
+  "course_pages": {
+    "4120": 280,
+    "5128": 415,
+    "6106": 355
+  },
+  "issues": []
+}

@@ -1,0 +1,3926 @@
+[
+  {
+    "source_id": "ENV4120-02-airpollutionintroduction",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 4120 / Air Pollution and",
+    "topics": [],
+    "character_count": 51,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-02-airpollutionintroduction/page-0001.jpg",
+    "markdown": "library/text/4120/02-airpollutionintroduction.md",
+    "pdf": "library/originals/4120/02_AirPollutionIntroduction.pdf"
+  },
+  {
+    "source_id": "ENV4120-02-airpollutionintroduction",
+    "pdf_page": 4,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Air pollution issues at / different scales",
+    "topics": [],
+    "character_count": 41,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-02-airpollutionintroduction/page-0004.jpg",
+    "markdown": "library/text/4120/02-airpollutionintroduction.md",
+    "pdf": "library/originals/4120/02_AirPollutionIntroduction.pdf"
+  },
+  {
+    "source_id": "ENV4120-02-airpollutionintroduction",
+    "pdf_page": 8,
+    "printed_slide_candidate": 8,
+    "printed_slide_status": "unverified text token",
+    "heading": "LA smog / 8",
+    "topics": [],
+    "character_count": 10,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-02-airpollutionintroduction/page-0008.jpg",
+    "markdown": "library/text/4120/02-airpollutionintroduction.md",
+    "pdf": "library/originals/4120/02_AirPollutionIntroduction.pdf"
+  },
+  {
+    "source_id": "ENV4120-02-airpollutionintroduction",
+    "pdf_page": 9,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Beijing smog / Smog in 20 minutes. Beijing, China. Jan 2nd, 2017",
+    "topics": [],
+    "character_count": 88,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-02-airpollutionintroduction/page-0009.jpg",
+    "markdown": "library/text/4120/02-airpollutionintroduction.md",
+    "pdf": "library/originals/4120/02_AirPollutionIntroduction.pdf"
+  },
+  {
+    "source_id": "ENV4120-02-airpollutionintroduction",
+    "pdf_page": 11,
+    "printed_slide_candidate": 11,
+    "printed_slide_status": "unverified text token",
+    "heading": "Acid deposition / 11",
+    "topics": [
+      "Ozone and atmospheric chemistry"
+    ],
+    "character_count": 68,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-02-airpollutionintroduction/page-0011.jpg",
+    "markdown": "library/text/4120/02-airpollutionintroduction.md",
+    "pdf": "library/originals/4120/02_AirPollutionIntroduction.pdf"
+  },
+  {
+    "source_id": "ENV4120-02-airpollutionintroduction",
+    "pdf_page": 14,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Regulation",
+    "topics": [
+      "Policy and management context"
+    ],
+    "character_count": 10,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-02-airpollutionintroduction/page-0014.jpg",
+    "markdown": "library/text/4120/02-airpollutionintroduction.md",
+    "pdf": "library/originals/4120/02_AirPollutionIntroduction.pdf"
+  },
+  {
+    "source_id": "ENV4120-03-airpolltuionsource",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 4120 / Air Pollution and",
+    "topics": [],
+    "character_count": 51,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-03-airpolltuionsource/page-0001.jpg",
+    "markdown": "library/text/4120/03-airpolltuionsource.md",
+    "pdf": "library/originals/4120/03_AirPolltuionSource.pdf"
+  },
+  {
+    "source_id": "ENV4120-03-airpolltuionsource",
+    "pdf_page": 3,
+    "printed_slide_candidate": 3,
+    "printed_slide_status": "unverified text token",
+    "heading": "Sources of air pollution / 3",
+    "topics": [],
+    "character_count": 26,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-03-airpolltuionsource/page-0003.jpg",
+    "markdown": "library/text/4120/03-airpolltuionsource.md",
+    "pdf": "library/originals/4120/03_AirPolltuionSource.pdf"
+  },
+  {
+    "source_id": "ENV4120-03-airpolltuionsource",
+    "pdf_page": 7,
+    "printed_slide_candidate": 7,
+    "printed_slide_status": "unverified text token",
+    "heading": "CAPs and HAPs / 7",
+    "topics": [
+      "Pollution sources and emissions"
+    ],
+    "character_count": 15,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-03-airpolltuionsource/page-0007.jpg",
+    "markdown": "library/text/4120/03-airpolltuionsource.md",
+    "pdf": "library/originals/4120/03_AirPolltuionSource.pdf"
+  },
+  {
+    "source_id": "ENV4120-03-airpolltuionsource",
+    "pdf_page": 15,
+    "printed_slide_candidate": 15,
+    "printed_slide_status": "unverified text token",
+    "heading": "Emission sources / 15",
+    "topics": [
+      "Pollution sources and emissions"
+    ],
+    "character_count": 65,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-03-airpolltuionsource/page-0015.jpg",
+    "markdown": "library/text/4120/03-airpolltuionsource.md",
+    "pdf": "library/originals/4120/03_AirPolltuionSource.pdf"
+  },
+  {
+    "source_id": "ENV4120-03-airpolltuionsource",
+    "pdf_page": 16,
+    "printed_slide_candidate": 16,
+    "printed_slide_status": "unverified text token",
+    "heading": "Concentration trend in the US / 16",
+    "topics": [],
+    "character_count": 78,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-03-airpolltuionsource/page-0016.jpg",
+    "markdown": "library/text/4120/03-airpolltuionsource.md",
+    "pdf": "library/originals/4120/03_AirPolltuionSource.pdf"
+  },
+  {
+    "source_id": "ENV4120-03-airpolltuionsource",
+    "pdf_page": 17,
+    "printed_slide_candidate": 17,
+    "printed_slide_status": "unverified text token",
+    "heading": "Emission trend in the US / 17",
+    "topics": [
+      "Pollution sources and emissions"
+    ],
+    "character_count": 73,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-03-airpolltuionsource/page-0017.jpg",
+    "markdown": "library/text/4120/03-airpolltuionsource.md",
+    "pdf": "library/originals/4120/03_AirPolltuionSource.pdf"
+  },
+  {
+    "source_id": "ENV4120-03-airpolltuionsource",
+    "pdf_page": 19,
+    "printed_slide_candidate": 19,
+    "printed_slide_status": "unverified text token",
+    "heading": "NASA satellite SO2 concentration / 19",
+    "topics": [],
+    "character_count": 80,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-03-airpolltuionsource/page-0019.jpg",
+    "markdown": "library/text/4120/03-airpolltuionsource.md",
+    "pdf": "library/originals/4120/03_AirPolltuionSource.pdf"
+  },
+  {
+    "source_id": "ENV4120-04-transport-effects",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 4120 / Air Pollution and",
+    "topics": [],
+    "character_count": 51,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-04-transport-effects/page-0001.jpg",
+    "markdown": "library/text/4120/04-transport-effects.md",
+    "pdf": "library/originals/4120/04_Transport&Effects.pdf"
+  },
+  {
+    "source_id": "ENV4120-04-transport-effects",
+    "pdf_page": 3,
+    "printed_slide_candidate": 3,
+    "printed_slide_status": "unverified text token",
+    "heading": "Transport of air pollution / 3",
+    "topics": [
+      "Transport and meteorology"
+    ],
+    "character_count": 28,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-04-transport-effects/page-0003.jpg",
+    "markdown": "library/text/4120/04-transport-effects.md",
+    "pdf": "library/originals/4120/04_Transport&Effects.pdf"
+  },
+  {
+    "source_id": "ENV4120-04-transport-effects",
+    "pdf_page": 7,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Large Scale Motion: / General Circulation pattern",
+    "topics": [],
+    "character_count": 64,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-04-transport-effects/page-0007.jpg",
+    "markdown": "library/text/4120/04-transport-effects.md",
+    "pdf": "library/originals/4120/04_Transport&Effects.pdf"
+  },
+  {
+    "source_id": "ENV4120-04-transport-effects",
+    "pdf_page": 10,
+    "printed_slide_candidate": 10,
+    "printed_slide_status": "unverified text token",
+    "heading": "Effects of air pollution / 10",
+    "topics": [],
+    "character_count": 27,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-04-transport-effects/page-0010.jpg",
+    "markdown": "library/text/4120/04-transport-effects.md",
+    "pdf": "library/originals/4120/04_Transport&Effects.pdf"
+  },
+  {
+    "source_id": "ENV4120-04-transport-effects",
+    "pdf_page": 19,
+    "printed_slide_candidate": 19,
+    "printed_slide_status": "unverified text token",
+    "heading": "UV damage skin / 19",
+    "topics": [],
+    "character_count": 61,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-04-transport-effects/page-0019.jpg",
+    "markdown": "library/text/4120/04-transport-effects.md",
+    "pdf": "library/originals/4120/04_Transport&Effects.pdf"
+  },
+  {
+    "source_id": "ENV4120-05-troposphericozone",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 4120 / Air Pollution and",
+    "topics": [],
+    "character_count": 51,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-05-troposphericozone/page-0001.jpg",
+    "markdown": "library/text/4120/05-troposphericozone.md",
+    "pdf": "library/originals/4120/05_TroposphericOzone.pdf"
+  },
+  {
+    "source_id": "ENV4120-05-troposphericozone",
+    "pdf_page": 3,
+    "printed_slide_candidate": 3,
+    "printed_slide_status": "unverified text token",
+    "heading": "LA Smog / 3",
+    "topics": [],
+    "character_count": 10,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-05-troposphericozone/page-0003.jpg",
+    "markdown": "library/text/4120/05-troposphericozone.md",
+    "pdf": "library/originals/4120/05_TroposphericOzone.pdf"
+  },
+  {
+    "source_id": "ENV4120-05-troposphericozone",
+    "pdf_page": 4,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Beijing smog / Smog in 20 minutes. Beijing, China. Jan 2nd, 2017",
+    "topics": [],
+    "character_count": 88,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-05-troposphericozone/page-0004.jpg",
+    "markdown": "library/text/4120/05-troposphericozone.md",
+    "pdf": "library/originals/4120/05_TroposphericOzone.pdf"
+  },
+  {
+    "source_id": "ENV4120-05-troposphericozone",
+    "pdf_page": 21,
+    "printed_slide_candidate": 21,
+    "printed_slide_status": "unverified text token",
+    "heading": "Urban ozone cycle / 21",
+    "topics": [
+      "Ozone and atmospheric chemistry"
+    ],
+    "character_count": 72,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-05-troposphericozone/page-0021.jpg",
+    "markdown": "library/text/4120/05-troposphericozone.md",
+    "pdf": "library/originals/4120/05_TroposphericOzone.pdf"
+  },
+  {
+    "source_id": "ENV4120-06-atmospheric-pm",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 4120 / Air Pollution and",
+    "topics": [],
+    "character_count": 51,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-06-atmospheric-pm/page-0001.jpg",
+    "markdown": "library/text/4120/06-atmospheric-pm.md",
+    "pdf": "library/originals/4120/06_Atmospheric PM.pdf"
+  },
+  {
+    "source_id": "ENV4120-06-atmospheric-pm",
+    "pdf_page": 18,
+    "printed_slide_candidate": 18,
+    "printed_slide_status": "unverified text token",
+    "heading": "18 / FIGURE 1.6. Hinds & Zhang. 2023. Particle size ranges and definitions for aerosols.",
+    "topics": [
+      "Particles and aerosols"
+    ],
+    "character_count": 86,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-06-atmospheric-pm/page-0018.jpg",
+    "markdown": "library/text/4120/06-atmospheric-pm.md",
+    "pdf": "library/originals/4120/06_Atmospheric PM.pdf"
+  },
+  {
+    "source_id": "ENV4120-06-atmospheric-pm",
+    "pdf_page": 21,
+    "printed_slide_candidate": 21,
+    "printed_slide_status": "unverified text token",
+    "heading": "Source & compositions / 21",
+    "topics": [],
+    "character_count": 45,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-06-atmospheric-pm/page-0021.jpg",
+    "markdown": "library/text/4120/06-atmospheric-pm.md",
+    "pdf": "library/originals/4120/06_Atmospheric PM.pdf"
+  },
+  {
+    "source_id": "ENV4120-06-atmospheric-pm",
+    "pdf_page": 30,
+    "printed_slide_candidate": 30,
+    "printed_slide_status": "unverified text token",
+    "heading": "Impaction/interception / 30",
+    "topics": [],
+    "character_count": 49,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-06-atmospheric-pm/page-0030.jpg",
+    "markdown": "library/text/4120/06-atmospheric-pm.md",
+    "pdf": "library/originals/4120/06_Atmospheric PM.pdf"
+  },
+  {
+    "source_id": "ENV4120-07-aciddeposition-antarcticozonehole",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 4120 / Air Pollution and",
+    "topics": [],
+    "character_count": 51,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-07-aciddeposition-antarcticozonehole/page-0001.jpg",
+    "markdown": "library/text/4120/07-aciddeposition-antarcticozonehole.md",
+    "pdf": "library/originals/4120/07_AcidDeposition&AntarcticOzoneHole.pdf"
+  },
+  {
+    "source_id": "ENV4120-07-aciddeposition-antarcticozonehole",
+    "pdf_page": 3,
+    "printed_slide_candidate": 3,
+    "printed_slide_status": "unverified text token",
+    "heading": "Acid Deposition / 3",
+    "topics": [
+      "Ozone and atmospheric chemistry"
+    ],
+    "character_count": 17,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-07-aciddeposition-antarcticozonehole/page-0003.jpg",
+    "markdown": "library/text/4120/07-aciddeposition-antarcticozonehole.md",
+    "pdf": "library/originals/4120/07_AcidDeposition&AntarcticOzoneHole.pdf"
+  },
+  {
+    "source_id": "ENV4120-07-aciddeposition-antarcticozonehole",
+    "pdf_page": 12,
+    "printed_slide_candidate": 12,
+    "printed_slide_status": "unverified text token",
+    "heading": "Antarctic Ozone Hole / 12",
+    "topics": [
+      "Ozone and atmospheric chemistry"
+    ],
+    "character_count": 23,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-07-aciddeposition-antarcticozonehole/page-0012.jpg",
+    "markdown": "library/text/4120/07-aciddeposition-antarcticozonehole.md",
+    "pdf": "library/originals/4120/07_AcidDeposition&AntarcticOzoneHole.pdf"
+  },
+  {
+    "source_id": "ENV4120-07-aciddeposition-antarcticozonehole",
+    "pdf_page": 17,
+    "printed_slide_candidate": 17,
+    "printed_slide_status": "unverified text token",
+    "heading": "Ozone layer function / 17",
+    "topics": [
+      "Ozone and atmospheric chemistry"
+    ],
+    "character_count": 62,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-07-aciddeposition-antarcticozonehole/page-0017.jpg",
+    "markdown": "library/text/4120/07-aciddeposition-antarcticozonehole.md",
+    "pdf": "library/originals/4120/07_AcidDeposition&AntarcticOzoneHole.pdf"
+  },
+  {
+    "source_id": "ENV4120-07-aciddeposition-antarcticozonehole",
+    "pdf_page": 29,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Polar stratospheric clouds / 29PSC as seen in Scandinavia (source unknown)",
+    "topics": [],
+    "character_count": 74,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-07-aciddeposition-antarcticozonehole/page-0029.jpg",
+    "markdown": "library/text/4120/07-aciddeposition-antarcticozonehole.md",
+    "pdf": "library/originals/4120/07_AcidDeposition&AntarcticOzoneHole.pdf"
+  },
+  {
+    "source_id": "ENV4120-08-climatechange-101",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 4120 / Air Pollution and",
+    "topics": [],
+    "character_count": 51,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-08-climatechange-101/page-0001.jpg",
+    "markdown": "library/text/4120/08-climatechange-101.md",
+    "pdf": "library/originals/4120/08_ClimateChange_101.pdf"
+  },
+  {
+    "source_id": "ENV4120-08-climatechange-101",
+    "pdf_page": 4,
+    "printed_slide_candidate": 4,
+    "printed_slide_status": "unverified text token",
+    "heading": "“It’s cold outside, so global / warming can’t be real.“",
+    "topics": [
+      "Climate and environmental effects"
+    ],
+    "character_count": 79,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-08-climatechange-101/page-0004.jpg",
+    "markdown": "library/text/4120/08-climatechange-101.md",
+    "pdf": "library/originals/4120/08_ClimateChange_101.pdf"
+  },
+  {
+    "source_id": "ENV4120-08-climatechange-101",
+    "pdf_page": 6,
+    "printed_slide_candidate": 6,
+    "printed_slide_status": "unverified text token",
+    "heading": "Climate change impacts on weather / 6",
+    "topics": [
+      "Climate and environmental effects"
+    ],
+    "character_count": 35,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-08-climatechange-101/page-0006.jpg",
+    "markdown": "library/text/4120/08-climatechange-101.md",
+    "pdf": "library/originals/4120/08_ClimateChange_101.pdf"
+  },
+  {
+    "source_id": "ENV4120-08-climatechange-101",
+    "pdf_page": 17,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Earth-Atmosphere-Sun System / avg solar flux over earth’s surface",
+    "topics": [],
+    "character_count": 85,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-08-climatechange-101/page-0017.jpg",
+    "markdown": "library/text/4120/08-climatechange-101.md",
+    "pdf": "library/originals/4120/08_ClimateChange_101.pdf"
+  },
+  {
+    "source_id": "ENV4120-08-climatechange-101",
+    "pdf_page": 23,
+    "printed_slide_candidate": 23,
+    "printed_slide_status": "unverified text token",
+    "heading": "Anthropogenic Greenhouse Gas Trends / http://www.esrl.noaa.gov/gmd/aggi/",
+    "topics": [
+      "Climate and environmental effects"
+    ],
+    "character_count": 73,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-08-climatechange-101/page-0023.jpg",
+    "markdown": "library/text/4120/08-climatechange-101.md",
+    "pdf": "library/originals/4120/08_ClimateChange_101.pdf"
+  },
+  {
+    "source_id": "ENV4120-08-climatechange-101",
+    "pdf_page": 27,
+    "printed_slide_candidate": 27,
+    "printed_slide_status": "unverified text token",
+    "heading": "Radiative forcing / 27",
+    "topics": [
+      "Climate and environmental effects"
+    ],
+    "character_count": 48,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-08-climatechange-101/page-0027.jpg",
+    "markdown": "library/text/4120/08-climatechange-101.md",
+    "pdf": "library/originals/4120/08_ClimateChange_101.pdf"
+  },
+  {
+    "source_id": "ENV4120-08-climatechange-101",
+    "pdf_page": 34,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Impact of Climate Change",
+    "topics": [
+      "Climate and environmental effects"
+    ],
+    "character_count": 24,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-08-climatechange-101/page-0034.jpg",
+    "markdown": "library/text/4120/08-climatechange-101.md",
+    "pdf": "library/originals/4120/08_ClimateChange_101.pdf"
+  },
+  {
+    "source_id": "ENV4120-08-climatechange-101",
+    "pdf_page": 35,
+    "printed_slide_candidate": 35,
+    "printed_slide_status": "unverified text token",
+    "heading": "Greening of earth / 35",
+    "topics": [],
+    "character_count": 60,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-08-climatechange-101/page-0035.jpg",
+    "markdown": "library/text/4120/08-climatechange-101.md",
+    "pdf": "library/originals/4120/08_ClimateChange_101.pdf"
+  },
+  {
+    "source_id": "ENV4120-08-climatechange-101",
+    "pdf_page": 36,
+    "printed_slide_candidate": 36,
+    "printed_slide_status": "unverified text token",
+    "heading": "Extreme temperature / 36",
+    "topics": [],
+    "character_count": 39,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-08-climatechange-101/page-0036.jpg",
+    "markdown": "library/text/4120/08-climatechange-101.md",
+    "pdf": "library/originals/4120/08_ClimateChange_101.pdf"
+  },
+  {
+    "source_id": "ENV4120-09-airpollution-meteorology",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 4120 / Air Pollution and",
+    "topics": [],
+    "character_count": 51,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-09-airpollution-meteorology/page-0001.jpg",
+    "markdown": "library/text/4120/09-airpollution-meteorology.md",
+    "pdf": "library/originals/4120/09_AirPollution&Meteorology.pdf"
+  },
+  {
+    "source_id": "ENV4120-09-airpollution-meteorology",
+    "pdf_page": 4,
+    "printed_slide_candidate": 4,
+    "printed_slide_status": "unverified text token",
+    "heading": "Atmospheric Density and Pressure / 4",
+    "topics": [],
+    "character_count": 35,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-09-airpollution-meteorology/page-0004.jpg",
+    "markdown": "library/text/4120/09-airpollution-meteorology.md",
+    "pdf": "library/originals/4120/09_AirPollution&Meteorology.pdf"
+  },
+  {
+    "source_id": "ENV4120-09-airpollution-meteorology",
+    "pdf_page": 7,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Large Scale Motion: / General Circulation pattern",
+    "topics": [],
+    "character_count": 64,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-09-airpollution-meteorology/page-0007.jpg",
+    "markdown": "library/text/4120/09-airpollution-meteorology.md",
+    "pdf": "library/originals/4120/09_AirPollution&Meteorology.pdf"
+  },
+  {
+    "source_id": "ENV4120-09-airpollution-meteorology",
+    "pdf_page": 19,
+    "printed_slide_candidate": 19,
+    "printed_slide_status": "unverified text token",
+    "heading": "Effects on Pollutant Releases / 19",
+    "topics": [],
+    "character_count": 47,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-09-airpollution-meteorology/page-0019.jpg",
+    "markdown": "library/text/4120/09-airpollution-meteorology.md",
+    "pdf": "library/originals/4120/09_AirPollution&Meteorology.pdf"
+  },
+  {
+    "source_id": "ENV4120-09-airpollution-meteorology",
+    "pdf_page": 20,
+    "printed_slide_candidate": 20,
+    "printed_slide_status": "unverified text token",
+    "heading": "Effects on Pollutant Releases / 20",
+    "topics": [],
+    "character_count": 47,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-09-airpollution-meteorology/page-0020.jpg",
+    "markdown": "library/text/4120/09-airpollution-meteorology.md",
+    "pdf": "library/originals/4120/09_AirPollution&Meteorology.pdf"
+  },
+  {
+    "source_id": "ENV4120-09-airpollution-meteorology",
+    "pdf_page": 22,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Tropospheric Temperature Structure / Diurnal Variation",
+    "topics": [],
+    "character_count": 70,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-09-airpollution-meteorology/page-0022.jpg",
+    "markdown": "library/text/4120/09-airpollution-meteorology.md",
+    "pdf": "library/originals/4120/09_AirPollution&Meteorology.pdf"
+  },
+  {
+    "source_id": "ENV4120-10-gaussiandispersionmodel",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 4120 / Air Pollution and",
+    "topics": [],
+    "character_count": 51,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-10-gaussiandispersionmodel/page-0001.jpg",
+    "markdown": "library/text/4120/10-gaussiandispersionmodel.md",
+    "pdf": "library/originals/4120/10_GaussianDispersionModel.pdf"
+  },
+  {
+    "source_id": "ENV4120-10-gaussiandispersionmodel",
+    "pdf_page": 7,
+    "printed_slide_candidate": 7,
+    "printed_slide_status": "unverified text token",
+    "heading": "Plume shape vs stability / 7",
+    "topics": [
+      "Transport and meteorology",
+      "Dispersion and Gaussian models"
+    ],
+    "character_count": 54,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-10-gaussiandispersionmodel/page-0007.jpg",
+    "markdown": "library/text/4120/10-gaussiandispersionmodel.md",
+    "pdf": "library/originals/4120/10_GaussianDispersionModel.pdf"
+  },
+  {
+    "source_id": "ENV4120-10-gaussiandispersionmodel",
+    "pdf_page": 9,
+    "printed_slide_candidate": 9,
+    "printed_slide_status": "unverified text token",
+    "heading": "Time averaged plume / 9",
+    "topics": [
+      "Dispersion and Gaussian models"
+    ],
+    "character_count": 90,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-10-gaussiandispersionmodel/page-0009.jpg",
+    "markdown": "library/text/4120/10-gaussiandispersionmodel.md",
+    "pdf": "library/originals/4120/10_GaussianDispersionModel.pdf"
+  },
+  {
+    "source_id": "ENV4120-10-gaussiandispersionmodel",
+    "pdf_page": 17,
+    "printed_slide_candidate": 17,
+    "printed_slide_status": "unverified text token",
+    "heading": "How to find σy and σz (method 1) / 17",
+    "topics": [],
+    "character_count": 51,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-10-gaussiandispersionmodel/page-0017.jpg",
+    "markdown": "library/text/4120/10-gaussiandispersionmodel.md",
+    "pdf": "library/originals/4120/10_GaussianDispersionModel.pdf"
+  },
+  {
+    "source_id": "ENV4120-10-gaussiandispersionmodel",
+    "pdf_page": 22,
+    "printed_slide_candidate": 22,
+    "printed_slide_status": "unverified text token",
+    "heading": "Max concentration / 22",
+    "topics": [],
+    "character_count": 65,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-10-gaussiandispersionmodel/page-0022.jpg",
+    "markdown": "library/text/4120/10-gaussiandispersionmodel.md",
+    "pdf": "library/originals/4120/10_GaussianDispersionModel.pdf"
+  },
+  {
+    "source_id": "ENV4120-11-introductiontoairqualitymodel",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 4120 / Air Pollution and",
+    "topics": [],
+    "character_count": 51,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-11-introductiontoairqualitymodel/page-0001.jpg",
+    "markdown": "library/text/4120/11-introductiontoairqualitymodel.md",
+    "pdf": "library/originals/4120/11_IntroductionToAirQualityModel.pdf"
+  },
+  {
+    "source_id": "ENV4120-11-introductiontoairqualitymodel",
+    "pdf_page": 5,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Atmospheric science",
+    "topics": [],
+    "character_count": 19,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-11-introductiontoairqualitymodel/page-0005.jpg",
+    "markdown": "library/text/4120/11-introductiontoairqualitymodel.md",
+    "pdf": "library/originals/4120/11_IntroductionToAirQualityModel.pdf"
+  },
+  {
+    "source_id": "ENV4120-11-introductiontoairqualitymodel",
+    "pdf_page": 24,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Public health",
+    "topics": [
+      "Exposure and health"
+    ],
+    "character_count": 13,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV4120-11-introductiontoairqualitymodel/page-0024.jpg",
+    "markdown": "library/text/4120/11-introductiontoairqualitymodel.md",
+    "pdf": "library/originals/4120/11_IntroductionToAirQualityModel.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-1",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 5128 / Smart Air Quality Monitoring &",
+    "topics": [],
+    "character_count": 61,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-1/page-0001.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-1.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-1",
+    "pdf_page": 3,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Air pollution issues at / different scales",
+    "topics": [],
+    "character_count": 41,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-1/page-0003.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-1.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-1",
+    "pdf_page": 7,
+    "printed_slide_candidate": 7,
+    "printed_slide_status": "unverified text token",
+    "heading": "LA smog / 7",
+    "topics": [],
+    "character_count": 10,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-1/page-0007.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-1.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-1",
+    "pdf_page": 8,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Beijing smog / Smog in 20 minutes. Beijing, China. Jan 2nd, 2017",
+    "topics": [],
+    "character_count": 88,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-1/page-0008.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-1.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-1",
+    "pdf_page": 10,
+    "printed_slide_candidate": 10,
+    "printed_slide_status": "unverified text token",
+    "heading": "Acid deposition / 10",
+    "topics": [
+      "Ozone and atmospheric chemistry"
+    ],
+    "character_count": 68,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-1/page-0010.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-1.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-1",
+    "pdf_page": 13,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Brief U.S. Federal Legislative / History",
+    "topics": [],
+    "character_count": 40,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-1/page-0013.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-1.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-1",
+    "pdf_page": 26,
+    "printed_slide_candidate": 26,
+    "printed_slide_status": "unverified text token",
+    "heading": "Sources of air pollution / 26",
+    "topics": [],
+    "character_count": 27,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-1/page-0026.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-1.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-1",
+    "pdf_page": 30,
+    "printed_slide_candidate": 30,
+    "printed_slide_status": "unverified text token",
+    "heading": "CAPs and HAPs / 30",
+    "topics": [
+      "Pollution sources and emissions"
+    ],
+    "character_count": 16,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-1/page-0030.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-1.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-1",
+    "pdf_page": 38,
+    "printed_slide_candidate": 38,
+    "printed_slide_status": "unverified text token",
+    "heading": "Emission sources / 38",
+    "topics": [
+      "Pollution sources and emissions"
+    ],
+    "character_count": 65,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-1/page-0038.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-1.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-1",
+    "pdf_page": 39,
+    "printed_slide_candidate": 39,
+    "printed_slide_status": "unverified text token",
+    "heading": "Concentration trend in the US / 39",
+    "topics": [],
+    "character_count": 78,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-1/page-0039.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-1.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-1",
+    "pdf_page": 40,
+    "printed_slide_candidate": 40,
+    "printed_slide_status": "unverified text token",
+    "heading": "Emission trend in the US / 40",
+    "topics": [
+      "Pollution sources and emissions"
+    ],
+    "character_count": 73,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-1/page-0040.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-1.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-1",
+    "pdf_page": 42,
+    "printed_slide_candidate": 42,
+    "printed_slide_status": "unverified text token",
+    "heading": "NASA satellite SO2 concentration / 42",
+    "topics": [],
+    "character_count": 80,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-1/page-0042.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-1.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-1",
+    "pdf_page": 43,
+    "printed_slide_candidate": 43,
+    "printed_slide_status": "unverified text token",
+    "heading": "Transport of air pollution / 43",
+    "topics": [
+      "Transport and meteorology"
+    ],
+    "character_count": 29,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-1/page-0043.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-1.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-1",
+    "pdf_page": 47,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Large Scale Motion: / General Circulation pattern",
+    "topics": [],
+    "character_count": 64,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-1/page-0047.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-1.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-1",
+    "pdf_page": 50,
+    "printed_slide_candidate": 50,
+    "printed_slide_status": "unverified text token",
+    "heading": "Effects of air pollution / 50",
+    "topics": [],
+    "character_count": 27,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-1/page-0050.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-1.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-1",
+    "pdf_page": 59,
+    "printed_slide_candidate": 59,
+    "printed_slide_status": "unverified text token",
+    "heading": "UV damage skin / 59",
+    "topics": [],
+    "character_count": 61,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-1/page-0059.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-1.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-2",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 5128 / Smart Air Quality Monitoring &",
+    "topics": [],
+    "character_count": 61,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-2/page-0001.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-2.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-2",
+    "pdf_page": 3,
+    "printed_slide_candidate": 3,
+    "printed_slide_status": "unverified text token",
+    "heading": "Tropospheric ozone / formation",
+    "topics": [
+      "Ozone and atmospheric chemistry"
+    ],
+    "character_count": 31,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-2/page-0003.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-2.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-2",
+    "pdf_page": 4,
+    "printed_slide_candidate": 4,
+    "printed_slide_status": "unverified text token",
+    "heading": "LA Smog / 4",
+    "topics": [],
+    "character_count": 10,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-2/page-0004.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-2.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-2",
+    "pdf_page": 5,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Beijing smog / Smog in 20 minutes. Beijing, China. Jan 2nd, 2017",
+    "topics": [],
+    "character_count": 88,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-2/page-0005.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-2.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-2",
+    "pdf_page": 20,
+    "printed_slide_candidate": 20,
+    "printed_slide_status": "unverified text token",
+    "heading": "Urban ozone cycle / 20",
+    "topics": [
+      "Ozone and atmospheric chemistry"
+    ],
+    "character_count": 72,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-2/page-0020.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-2.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-2",
+    "pdf_page": 26,
+    "printed_slide_candidate": 26,
+    "printed_slide_status": "unverified text token",
+    "heading": "Acid Deposition / 26",
+    "topics": [
+      "Ozone and atmospheric chemistry"
+    ],
+    "character_count": 18,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-2/page-0026.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-2.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-2",
+    "pdf_page": 35,
+    "printed_slide_candidate": 35,
+    "printed_slide_status": "unverified text token",
+    "heading": "Antarctic Ozone Hole / 35",
+    "topics": [
+      "Ozone and atmospheric chemistry"
+    ],
+    "character_count": 23,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-2/page-0035.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-2.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-2",
+    "pdf_page": 40,
+    "printed_slide_candidate": 40,
+    "printed_slide_status": "unverified text token",
+    "heading": "Ozone layer function / 40",
+    "topics": [
+      "Ozone and atmospheric chemistry"
+    ],
+    "character_count": 62,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-2/page-0040.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-2.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-2",
+    "pdf_page": 52,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Polar stratospheric clouds / 52PSC as seen in Scandinavia (source unknown)",
+    "topics": [],
+    "character_count": 74,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-2/page-0052.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-2.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-3",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 5128 / Smart Air Quality Monitoring &",
+    "topics": [],
+    "character_count": 61,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-3/page-0001.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-3.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-3",
+    "pdf_page": 3,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Ambient air quality / management",
+    "topics": [],
+    "character_count": 31,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-3/page-0003.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-3.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-3",
+    "pdf_page": 18,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Brief overview of Clean Air Act",
+    "topics": [
+      "Policy and management context"
+    ],
+    "character_count": 31,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-3/page-0018.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-3.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-01-airpollutionbasics-3",
+    "pdf_page": 23,
+    "printed_slide_candidate": 23,
+    "printed_slide_status": "unverified text token",
+    "heading": "Non Attainment Areas / 23",
+    "topics": [],
+    "character_count": 80,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-01-airpollutionbasics-3/page-0023.jpg",
+    "markdown": "library/text/5128/01-airpollutionbasics-3.md",
+    "pdf": "library/originals/5128/01_AirPollutionBasics_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-02-monitoringnetwork",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6128 / Smart Air Quality Monitoring &",
+    "topics": [],
+    "character_count": 61,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-02-monitoringnetwork/page-0001.jpg",
+    "markdown": "library/text/5128/02-monitoringnetwork.md",
+    "pdf": "library/originals/5128/02_MonitoringNetwork.pdf"
+  },
+  {
+    "source_id": "ENV5128-03-intro2aerosol",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6128 / Smart Air Quality Monitoring &",
+    "topics": [],
+    "character_count": 61,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-03-intro2aerosol/page-0001.jpg",
+    "markdown": "library/text/5128/03-intro2aerosol.md",
+    "pdf": "library/originals/5128/03_Intro2Aerosol.pdf"
+  },
+  {
+    "source_id": "ENV5128-03-intro2aerosol",
+    "pdf_page": 21,
+    "printed_slide_candidate": 21,
+    "printed_slide_status": "unverified text token",
+    "heading": "21 / Chemical composition of aerosol vary",
+    "topics": [
+      "Particles and aerosols"
+    ],
+    "character_count": 39,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-03-intro2aerosol/page-0021.jpg",
+    "markdown": "library/text/5128/03-intro2aerosol.md",
+    "pdf": "library/originals/5128/03_Intro2Aerosol.pdf"
+  },
+  {
+    "source_id": "ENV5128-03-intro2aerosol",
+    "pdf_page": 22,
+    "printed_slide_candidate": 22,
+    "printed_slide_status": "unverified text token",
+    "heading": "Chemical composition of aerosol vary / 22",
+    "topics": [
+      "Particles and aerosols"
+    ],
+    "character_count": 40,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-03-intro2aerosol/page-0022.jpg",
+    "markdown": "library/text/5128/03-intro2aerosol.md",
+    "pdf": "library/originals/5128/03_Intro2Aerosol.pdf"
+  },
+  {
+    "source_id": "ENV5128-03-intro2aerosol",
+    "pdf_page": 23,
+    "printed_slide_candidate": 23,
+    "printed_slide_status": "unverified text token",
+    "heading": "23 / FIGURE 1.6. Hinds & Zhang. 2023. Particle size ranges and definitions for aerosols.",
+    "topics": [
+      "Particles and aerosols"
+    ],
+    "character_count": 86,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-03-intro2aerosol/page-0023.jpg",
+    "markdown": "library/text/5128/03-intro2aerosol.md",
+    "pdf": "library/originals/5128/03_Intro2Aerosol.pdf"
+  },
+  {
+    "source_id": "ENV5128-03-intro2aerosol",
+    "pdf_page": 27,
+    "printed_slide_candidate": 27,
+    "printed_slide_status": "unverified text token",
+    "heading": "Source & compositions / 27",
+    "topics": [],
+    "character_count": 45,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-03-intro2aerosol/page-0027.jpg",
+    "markdown": "library/text/5128/03-intro2aerosol.md",
+    "pdf": "library/originals/5128/03_Intro2Aerosol.pdf"
+  },
+  {
+    "source_id": "ENV5128-03-intro2aerosol",
+    "pdf_page": 41,
+    "printed_slide_candidate": 41,
+    "printed_slide_status": "unverified text token",
+    "heading": "At high Re number…. / 41",
+    "topics": [],
+    "character_count": 60,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-03-intro2aerosol/page-0041.jpg",
+    "markdown": "library/text/5128/03-intro2aerosol.md",
+    "pdf": "library/originals/5128/03_Intro2Aerosol.pdf"
+  },
+  {
+    "source_id": "ENV5128-03-intro2aerosol",
+    "pdf_page": 44,
+    "printed_slide_candidate": 44,
+    "printed_slide_status": "unverified text token",
+    "heading": "Brownian diffusion vs / sedimentation",
+    "topics": [
+      "Particles and aerosols"
+    ],
+    "character_count": 54,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-03-intro2aerosol/page-0044.jpg",
+    "markdown": "library/text/5128/03-intro2aerosol.md",
+    "pdf": "library/originals/5128/03_Intro2Aerosol.pdf"
+  },
+  {
+    "source_id": "ENV5128-03-intro2aerosol",
+    "pdf_page": 49,
+    "printed_slide_candidate": 49,
+    "printed_slide_status": "unverified text token",
+    "heading": "Impaction/interception / 49",
+    "topics": [],
+    "character_count": 49,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-03-intro2aerosol/page-0049.jpg",
+    "markdown": "library/text/5128/03-intro2aerosol.md",
+    "pdf": "library/originals/5128/03_Intro2Aerosol.pdf"
+  },
+  {
+    "source_id": "ENV5128-04-aerosolmeasurement-1",
+    "pdf_page": 1,
+    "printed_slide_candidate": 1,
+    "printed_slide_status": "unverified text token",
+    "heading": "ENV 6128 / Smart Air Quality Monitoring &",
+    "topics": [],
+    "character_count": 63,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-04-aerosolmeasurement-1/page-0001.jpg",
+    "markdown": "library/text/5128/04-aerosolmeasurement-1.md",
+    "pdf": "library/originals/5128/04_AerosolMeasurement_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-04-aerosolmeasurement-1",
+    "pdf_page": 3,
+    "printed_slide_candidate": 3,
+    "printed_slide_status": "unverified text token",
+    "heading": "Aerosol Sampling / 3",
+    "topics": [
+      "Measurement methods and instruments",
+      "Particles and aerosols"
+    ],
+    "character_count": 18,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-04-aerosolmeasurement-1/page-0003.jpg",
+    "markdown": "library/text/5128/04-aerosolmeasurement-1.md",
+    "pdf": "library/originals/5128/04_AerosolMeasurement_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-04-aerosolmeasurement-1",
+    "pdf_page": 4,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Sampling efficiency",
+    "topics": [
+      "Sensors calibration and data quality",
+      "Measurement methods and instruments"
+    ],
+    "character_count": 20,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-04-aerosolmeasurement-1/page-0004.jpg",
+    "markdown": "library/text/5128/04-aerosolmeasurement-1.md",
+    "pdf": "library/originals/5128/04_AerosolMeasurement_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-04-aerosolmeasurement-1",
+    "pdf_page": 5,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Visual content; inspect page image",
+    "topics": [],
+    "character_count": 0,
+    "flags": [
+      "sparse-text",
+      "no-extracted-text"
+    ],
+    "image": "library/pages/ENV5128-04-aerosolmeasurement-1/page-0005.jpg",
+    "markdown": "library/text/5128/04-aerosolmeasurement-1.md",
+    "pdf": "library/originals/5128/04_AerosolMeasurement_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-04-aerosolmeasurement-1",
+    "pdf_page": 6,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Example aircraft sampling system",
+    "topics": [
+      "Measurement methods and instruments"
+    ],
+    "character_count": 33,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-04-aerosolmeasurement-1/page-0006.jpg",
+    "markdown": "library/text/5128/04-aerosolmeasurement-1.md",
+    "pdf": "library/originals/5128/04_AerosolMeasurement_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-04-aerosolmeasurement-1",
+    "pdf_page": 7,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Visual content; inspect page image",
+    "topics": [],
+    "character_count": 0,
+    "flags": [
+      "sparse-text",
+      "no-extracted-text"
+    ],
+    "image": "library/pages/ENV5128-04-aerosolmeasurement-1/page-0007.jpg",
+    "markdown": "library/text/5128/04-aerosolmeasurement-1.md",
+    "pdf": "library/originals/5128/04_AerosolMeasurement_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-04-aerosolmeasurement-1",
+    "pdf_page": 8,
+    "printed_slide_candidate": 8,
+    "printed_slide_status": "unverified text token",
+    "heading": "Aerosol sampling loss / 8",
+    "topics": [
+      "Sensors calibration and data quality",
+      "Measurement methods and instruments",
+      "Particles and aerosols"
+    ],
+    "character_count": 24,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-04-aerosolmeasurement-1/page-0008.jpg",
+    "markdown": "library/text/5128/04-aerosolmeasurement-1.md",
+    "pdf": "library/originals/5128/04_AerosolMeasurement_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-04-aerosolmeasurement-1",
+    "pdf_page": 12,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Sampling in calm air",
+    "topics": [
+      "Measurement methods and instruments"
+    ],
+    "character_count": 21,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-04-aerosolmeasurement-1/page-0012.jpg",
+    "markdown": "library/text/5128/04-aerosolmeasurement-1.md",
+    "pdf": "library/originals/5128/04_AerosolMeasurement_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-04-aerosolmeasurement-1",
+    "pdf_page": 20,
+    "printed_slide_candidate": 20,
+    "printed_slide_status": "unverified text token",
+    "heading": "20 / Thermo Scientific 1405 TEOM",
+    "topics": [
+      "Measurement methods and instruments"
+    ],
+    "character_count": 79,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-04-aerosolmeasurement-1/page-0020.jpg",
+    "markdown": "library/text/5128/04-aerosolmeasurement-1.md",
+    "pdf": "library/originals/5128/04_AerosolMeasurement_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-04-aerosolmeasurement-1",
+    "pdf_page": 22,
+    "printed_slide_candidate": 22,
+    "printed_slide_status": "unverified text token",
+    "heading": "Cyclone pre-collector / 22",
+    "topics": [],
+    "character_count": 25,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-04-aerosolmeasurement-1/page-0022.jpg",
+    "markdown": "library/text/5128/04-aerosolmeasurement-1.md",
+    "pdf": "library/originals/5128/04_AerosolMeasurement_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-04-aerosolmeasurement-1",
+    "pdf_page": 25,
+    "printed_slide_candidate": 25,
+    "printed_slide_status": "unverified text token",
+    "heading": "Condensation Particle / Counter",
+    "topics": [
+      "Particles and aerosols"
+    ],
+    "character_count": 34,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-04-aerosolmeasurement-1/page-0025.jpg",
+    "markdown": "library/text/5128/04-aerosolmeasurement-1.md",
+    "pdf": "library/originals/5128/04_AerosolMeasurement_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-04-aerosolmeasurement-1",
+    "pdf_page": 30,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Continuous flow CPC",
+    "topics": [
+      "Measurement methods and instruments"
+    ],
+    "character_count": 20,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-04-aerosolmeasurement-1/page-0030.jpg",
+    "markdown": "library/text/5128/04-aerosolmeasurement-1.md",
+    "pdf": "library/originals/5128/04_AerosolMeasurement_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-04-aerosolmeasurement-1",
+    "pdf_page": 32,
+    "printed_slide_candidate": 32,
+    "printed_slide_status": "unverified text token",
+    "heading": "32",
+    "topics": [],
+    "character_count": 3,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-04-aerosolmeasurement-1/page-0032.jpg",
+    "markdown": "library/text/5128/04-aerosolmeasurement-1.md",
+    "pdf": "library/originals/5128/04_AerosolMeasurement_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-04-aerosolmeasurement-1",
+    "pdf_page": 33,
+    "printed_slide_candidate": 33,
+    "printed_slide_status": "unverified text token",
+    "heading": "Water-based CPC / 33",
+    "topics": [
+      "Measurement methods and instruments"
+    ],
+    "character_count": 19,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-04-aerosolmeasurement-1/page-0033.jpg",
+    "markdown": "library/text/5128/04-aerosolmeasurement-1.md",
+    "pdf": "library/originals/5128/04_AerosolMeasurement_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-04-aerosolmeasurement-1",
+    "pdf_page": 34,
+    "printed_slide_candidate": 34,
+    "printed_slide_status": "unverified text token",
+    "heading": "34 / Two-stage CPC",
+    "topics": [
+      "Measurement methods and instruments"
+    ],
+    "character_count": 16,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-04-aerosolmeasurement-1/page-0034.jpg",
+    "markdown": "library/text/5128/04-aerosolmeasurement-1.md",
+    "pdf": "library/originals/5128/04_AerosolMeasurement_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-04-aerosolmeasurement-1",
+    "pdf_page": 36,
+    "printed_slide_candidate": 36,
+    "printed_slide_status": "unverified text token",
+    "heading": "36 / TSI 3789 WCPC",
+    "topics": [
+      "Measurement methods and instruments"
+    ],
+    "character_count": 29,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-04-aerosolmeasurement-1/page-0036.jpg",
+    "markdown": "library/text/5128/04-aerosolmeasurement-1.md",
+    "pdf": "library/originals/5128/04_AerosolMeasurement_1.pdf"
+  },
+  {
+    "source_id": "ENV5128-05-aerosolmeasurement-2",
+    "pdf_page": 1,
+    "printed_slide_candidate": 1,
+    "printed_slide_status": "unverified text token",
+    "heading": "ENV 6128 / Smart Air Quality Monitoring &",
+    "topics": [],
+    "character_count": 63,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-05-aerosolmeasurement-2/page-0001.jpg",
+    "markdown": "library/text/5128/05-aerosolmeasurement-2.md",
+    "pdf": "library/originals/5128/05_AerosolMeasurement_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-05-aerosolmeasurement-2",
+    "pdf_page": 7,
+    "printed_slide_candidate": 7,
+    "printed_slide_status": "unverified text token",
+    "heading": "T640 Pneumatics / T640 Manual Fig 2-22",
+    "topics": [],
+    "character_count": 66,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-05-aerosolmeasurement-2/page-0007.jpg",
+    "markdown": "library/text/5128/05-aerosolmeasurement-2.md",
+    "pdf": "library/originals/5128/05_AerosolMeasurement_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-05-aerosolmeasurement-2",
+    "pdf_page": 10,
+    "printed_slide_candidate": 10,
+    "printed_slide_status": "unverified text token",
+    "heading": "Non-light based PM mass / instrument",
+    "topics": [],
+    "character_count": 38,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-05-aerosolmeasurement-2/page-0010.jpg",
+    "markdown": "library/text/5128/05-aerosolmeasurement-2.md",
+    "pdf": "library/originals/5128/05_AerosolMeasurement_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-05-aerosolmeasurement-2",
+    "pdf_page": 12,
+    "printed_slide_candidate": 12,
+    "printed_slide_status": "unverified text token",
+    "heading": "Filter sample / 12",
+    "topics": [],
+    "character_count": 17,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-05-aerosolmeasurement-2/page-0012.jpg",
+    "markdown": "library/text/5128/05-aerosolmeasurement-2.md",
+    "pdf": "library/originals/5128/05_AerosolMeasurement_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-05-aerosolmeasurement-2",
+    "pdf_page": 14,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Visual content; inspect page image",
+    "topics": [],
+    "character_count": 0,
+    "flags": [
+      "sparse-text",
+      "no-extracted-text"
+    ],
+    "image": "library/pages/ENV5128-05-aerosolmeasurement-2/page-0014.jpg",
+    "markdown": "library/text/5128/05-aerosolmeasurement-2.md",
+    "pdf": "library/originals/5128/05_AerosolMeasurement_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-05-aerosolmeasurement-2",
+    "pdf_page": 15,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Filter holder / Courtesy of Da-Ren Chen",
+    "topics": [],
+    "character_count": 57,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-05-aerosolmeasurement-2/page-0015.jpg",
+    "markdown": "library/text/5128/05-aerosolmeasurement-2.md",
+    "pdf": "library/originals/5128/05_AerosolMeasurement_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-05-aerosolmeasurement-2",
+    "pdf_page": 19,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Particle capture mechanism",
+    "topics": [
+      "Particles and aerosols"
+    ],
+    "character_count": 27,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-05-aerosolmeasurement-2/page-0019.jpg",
+    "markdown": "library/text/5128/05-aerosolmeasurement-2.md",
+    "pdf": "library/originals/5128/05_AerosolMeasurement_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-05-aerosolmeasurement-2",
+    "pdf_page": 20,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Hao, et al. Inhalation Toxicology 34, no. 7-8 (2022): 189-199.",
+    "topics": [
+      "Exposure and health"
+    ],
+    "character_count": 62,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-05-aerosolmeasurement-2/page-0020.jpg",
+    "markdown": "library/text/5128/05-aerosolmeasurement-2.md",
+    "pdf": "library/originals/5128/05_AerosolMeasurement_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-05-aerosolmeasurement-2",
+    "pdf_page": 21,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Filter sampling artifacts",
+    "topics": [
+      "Measurement methods and instruments"
+    ],
+    "character_count": 26,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-05-aerosolmeasurement-2/page-0021.jpg",
+    "markdown": "library/text/5128/05-aerosolmeasurement-2.md",
+    "pdf": "library/originals/5128/05_AerosolMeasurement_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-05-aerosolmeasurement-2",
+    "pdf_page": 23,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Visual content; inspect page image",
+    "topics": [],
+    "character_count": 0,
+    "flags": [
+      "sparse-text",
+      "no-extracted-text"
+    ],
+    "image": "library/pages/ENV5128-05-aerosolmeasurement-2/page-0023.jpg",
+    "markdown": "library/text/5128/05-aerosolmeasurement-2.md",
+    "pdf": "library/originals/5128/05_AerosolMeasurement_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-05-aerosolmeasurement-2",
+    "pdf_page": 24,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Visual content; inspect page image",
+    "topics": [],
+    "character_count": 0,
+    "flags": [
+      "sparse-text",
+      "no-extracted-text"
+    ],
+    "image": "library/pages/ENV5128-05-aerosolmeasurement-2/page-0024.jpg",
+    "markdown": "library/text/5128/05-aerosolmeasurement-2.md",
+    "pdf": "library/originals/5128/05_AerosolMeasurement_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-05-aerosolmeasurement-2",
+    "pdf_page": 25,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Visual content; inspect page image",
+    "topics": [],
+    "character_count": 0,
+    "flags": [
+      "sparse-text",
+      "no-extracted-text"
+    ],
+    "image": "library/pages/ENV5128-05-aerosolmeasurement-2/page-0025.jpg",
+    "markdown": "library/text/5128/05-aerosolmeasurement-2.md",
+    "pdf": "library/originals/5128/05_AerosolMeasurement_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-05-aerosolmeasurement-2",
+    "pdf_page": 26,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Visual content; inspect page image",
+    "topics": [],
+    "character_count": 0,
+    "flags": [
+      "sparse-text",
+      "no-extracted-text"
+    ],
+    "image": "library/pages/ENV5128-05-aerosolmeasurement-2/page-0026.jpg",
+    "markdown": "library/text/5128/05-aerosolmeasurement-2.md",
+    "pdf": "library/originals/5128/05_AerosolMeasurement_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-05-aerosolmeasurement-2",
+    "pdf_page": 28,
+    "printed_slide_candidate": 28,
+    "printed_slide_status": "unverified text token",
+    "heading": "Beta-attenuation monitor / 28",
+    "topics": [],
+    "character_count": 60,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-05-aerosolmeasurement-2/page-0028.jpg",
+    "markdown": "library/text/5128/05-aerosolmeasurement-2.md",
+    "pdf": "library/originals/5128/05_AerosolMeasurement_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-05-aerosolmeasurement-2",
+    "pdf_page": 31,
+    "printed_slide_candidate": 31,
+    "printed_slide_status": "unverified text token",
+    "heading": "Tapered Element Oscillating Microbalance / 31",
+    "topics": [
+      "Measurement methods and instruments"
+    ],
+    "character_count": 73,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-05-aerosolmeasurement-2/page-0031.jpg",
+    "markdown": "library/text/5128/05-aerosolmeasurement-2.md",
+    "pdf": "library/originals/5128/05_AerosolMeasurement_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-05-aerosolmeasurement-2",
+    "pdf_page": 34,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Visual content; inspect page image",
+    "topics": [],
+    "character_count": 0,
+    "flags": [
+      "sparse-text",
+      "no-extracted-text"
+    ],
+    "image": "library/pages/ENV5128-05-aerosolmeasurement-2/page-0034.jpg",
+    "markdown": "library/text/5128/05-aerosolmeasurement-2.md",
+    "pdf": "library/originals/5128/05_AerosolMeasurement_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-05-aerosolmeasurement-2",
+    "pdf_page": 37,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "OC/EC analyzer / He: obtain OC",
+    "topics": [],
+    "character_count": 42,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-05-aerosolmeasurement-2/page-0037.jpg",
+    "markdown": "library/text/5128/05-aerosolmeasurement-2.md",
+    "pdf": "library/originals/5128/05_AerosolMeasurement_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-05-aerosolmeasurement-2",
+    "pdf_page": 39,
+    "printed_slide_candidate": 39,
+    "printed_slide_status": "unverified text token",
+    "heading": "Cyclone pre-collector / 39",
+    "topics": [],
+    "character_count": 25,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-05-aerosolmeasurement-2/page-0039.jpg",
+    "markdown": "library/text/5128/05-aerosolmeasurement-2.md",
+    "pdf": "library/originals/5128/05_AerosolMeasurement_2.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 1,
+    "printed_slide_candidate": 1,
+    "printed_slide_status": "unverified text token",
+    "heading": "ENV 6128 / Smart Air Quality Monitoring &",
+    "topics": [],
+    "character_count": 63,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0001.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 3,
+    "printed_slide_candidate": 3,
+    "printed_slide_status": "unverified text token",
+    "heading": "SMPS / 3",
+    "topics": [
+      "Measurement methods and instruments"
+    ],
+    "character_count": 6,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0003.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 6,
+    "printed_slide_candidate": 6,
+    "printed_slide_status": "unverified text token",
+    "heading": "6",
+    "topics": [],
+    "character_count": 2,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0006.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 7,
+    "printed_slide_candidate": 7,
+    "printed_slide_status": "unverified text token",
+    "heading": "7",
+    "topics": [],
+    "character_count": 2,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0007.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 8,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Scanning mobility particle sizers (SMPS)",
+    "topics": [
+      "Measurement methods and instruments",
+      "Particles and aerosols"
+    ],
+    "character_count": 41,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0008.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 9,
+    "printed_slide_candidate": 9,
+    "printed_slide_status": "unverified text token",
+    "heading": "9",
+    "topics": [],
+    "character_count": 2,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0009.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 10,
+    "printed_slide_candidate": 10,
+    "printed_slide_status": "unverified text token",
+    "heading": "Unipolar diffusion charging / 10",
+    "topics": [],
+    "character_count": 31,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0010.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 11,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Differential mobility analyzer (DMA)",
+    "topics": [
+      "Measurement methods and instruments"
+    ],
+    "character_count": 37,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0011.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 12,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Portable/Miniaturized DMA",
+    "topics": [
+      "Measurement methods and instruments"
+    ],
+    "character_count": 26,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0012.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 13,
+    "printed_slide_candidate": 13,
+    "printed_slide_status": "unverified text token",
+    "heading": "Operation modes / 13",
+    "topics": [],
+    "character_count": 19,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0013.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 14,
+    "printed_slide_candidate": 14,
+    "printed_slide_status": "unverified text token",
+    "heading": "Smearing effect / 14",
+    "topics": [],
+    "character_count": 30,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0014.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 18,
+    "printed_slide_candidate": 18,
+    "printed_slide_status": "unverified text token",
+    "heading": "Aerodynamic sizer / 18",
+    "topics": [],
+    "character_count": 20,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0018.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 19,
+    "printed_slide_candidate": 19,
+    "printed_slide_status": "unverified text token",
+    "heading": "Aerodynamic Particle Sizer (APC) / 19",
+    "topics": [
+      "Particles and aerosols"
+    ],
+    "character_count": 36,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0019.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 20,
+    "printed_slide_candidate": 20,
+    "printed_slide_status": "unverified text token",
+    "heading": "Issues with sizing droplets / 20",
+    "topics": [],
+    "character_count": 31,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0020.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 21,
+    "printed_slide_candidate": 21,
+    "printed_slide_status": "unverified text token",
+    "heading": "Aerodynamic aerosol classifier / 21",
+    "topics": [
+      "Particles and aerosols"
+    ],
+    "character_count": 34,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0021.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 22,
+    "printed_slide_candidate": 22,
+    "printed_slide_status": "unverified text token",
+    "heading": "PILS / 22",
+    "topics": [],
+    "character_count": 7,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0022.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 24,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Ion Chromatography / Sulfate, nitrate, ammonia, organics",
+    "topics": [],
+    "character_count": 73,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0024.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 25,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Water soluble organic carbon",
+    "topics": [],
+    "character_count": 29,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0025.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 26,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "OC/EC analyzer / He: obtain OC",
+    "topics": [],
+    "character_count": 42,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0026.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 27,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Elemental analysis",
+    "topics": [],
+    "character_count": 19,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0027.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 28,
+    "printed_slide_candidate": 28,
+    "printed_slide_status": "unverified text token",
+    "heading": "AMS / 28",
+    "topics": [],
+    "character_count": 6,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0028.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 29,
+    "printed_slide_candidate": 29,
+    "printed_slide_status": "unverified text token",
+    "heading": "How AMS works / • Example: Aerodyne AMS",
+    "topics": [],
+    "character_count": 85,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0029.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 30,
+    "printed_slide_candidate": 30,
+    "printed_slide_status": "unverified text token",
+    "heading": "Ambient mass spectrum / 30",
+    "topics": [],
+    "character_count": 25,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0030.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 31,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "https://www.youtube.com/watch?v=kmZHwCBJHO8",
+    "topics": [],
+    "character_count": 44,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0031.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 32,
+    "printed_slide_candidate": 32,
+    "printed_slide_status": "unverified text token",
+    "heading": "Aerodynamic Lense / 32",
+    "topics": [],
+    "character_count": 21,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0032.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 33,
+    "printed_slide_candidate": 33,
+    "printed_slide_status": "unverified text token",
+    "heading": "Beam width w/ aerodynamic Lense / 33",
+    "topics": [],
+    "character_count": 35,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0033.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-06-aerosolmeasurement-3",
+    "pdf_page": 34,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Differential pumping of gas",
+    "topics": [],
+    "character_count": 28,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-06-aerosolmeasurement-3/page-0034.jpg",
+    "markdown": "library/text/5128/06-aerosolmeasurement-3.md",
+    "pdf": "library/originals/5128/06_AerosolMeasurement_3.pdf"
+  },
+  {
+    "source_id": "ENV5128-07-ambient-gas-measurement",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6128 / Smart Air Quality Monitoring &",
+    "topics": [],
+    "character_count": 61,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-07-ambient-gas-measurement/page-0001.jpg",
+    "markdown": "library/text/5128/07-ambient-gas-measurement.md",
+    "pdf": "library/originals/5128/07_Ambient gas measurement.pdf"
+  },
+  {
+    "source_id": "ENV5128-07-ambient-gas-measurement",
+    "pdf_page": 3,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Regulatory Gas CAP / measurement",
+    "topics": [
+      "Measurement methods and instruments",
+      "Policy and management context"
+    ],
+    "character_count": 31,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-07-ambient-gas-measurement/page-0003.jpg",
+    "markdown": "library/text/5128/07-ambient-gas-measurement.md",
+    "pdf": "library/originals/5128/07_Ambient gas measurement.pdf"
+  },
+  {
+    "source_id": "ENV5128-07-ambient-gas-measurement",
+    "pdf_page": 8,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Emerging low-cost sensor",
+    "topics": [
+      "Sensors calibration and data quality"
+    ],
+    "character_count": 24,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-07-ambient-gas-measurement/page-0008.jpg",
+    "markdown": "library/text/5128/07-ambient-gas-measurement.md",
+    "pdf": "library/originals/5128/07_Ambient gas measurement.pdf"
+  },
+  {
+    "source_id": "ENV5128-07-ambient-gas-measurement",
+    "pdf_page": 10,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Visual content; inspect page image",
+    "topics": [],
+    "character_count": 0,
+    "flags": [
+      "sparse-text",
+      "no-extracted-text"
+    ],
+    "image": "library/pages/ENV5128-07-ambient-gas-measurement/page-0010.jpg",
+    "markdown": "library/text/5128/07-ambient-gas-measurement.md",
+    "pdf": "library/originals/5128/07_Ambient gas measurement.pdf"
+  },
+  {
+    "source_id": "ENV5128-07-ambient-gas-measurement",
+    "pdf_page": 12,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Jonathan E. Thompson 2016 (https://doi.org/10.1016/j.teac.2016.06.001)",
+    "topics": [],
+    "character_count": 71,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-07-ambient-gas-measurement/page-0012.jpg",
+    "markdown": "library/text/5128/07-ambient-gas-measurement.md",
+    "pdf": "library/originals/5128/07_Ambient gas measurement.pdf"
+  },
+  {
+    "source_id": "ENV5128-07-ambient-gas-measurement",
+    "pdf_page": 14,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Behind the hype",
+    "topics": [],
+    "character_count": 15,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-07-ambient-gas-measurement/page-0014.jpg",
+    "markdown": "library/text/5128/07-ambient-gas-measurement.md",
+    "pdf": "library/originals/5128/07_Ambient gas measurement.pdf"
+  },
+  {
+    "source_id": "ENV5128-08-visability",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6128 / Smart Air Quality Monitoring &",
+    "topics": [],
+    "character_count": 61,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-08-visability/page-0001.jpg",
+    "markdown": "library/text/5128/08-visability.md",
+    "pdf": "library/originals/5128/08_Visability.pdf"
+  },
+  {
+    "source_id": "ENV5128-08-visability",
+    "pdf_page": 3,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Measures of Visibility",
+    "topics": [
+      "Climate and environmental effects"
+    ],
+    "character_count": 22,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-08-visability/page-0003.jpg",
+    "markdown": "library/text/5128/08-visability.md",
+    "pdf": "library/originals/5128/08_Visability.pdf"
+  },
+  {
+    "source_id": "ENV5128-08-visability",
+    "pdf_page": 6,
+    "printed_slide_candidate": 6,
+    "printed_slide_status": "unverified text token",
+    "heading": "Introduction / 6",
+    "topics": [],
+    "character_count": 67,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-08-visability/page-0006.jpg",
+    "markdown": "library/text/5128/08-visability.md",
+    "pdf": "library/originals/5128/08_Visability.pdf"
+  },
+  {
+    "source_id": "ENV5128-08-visability",
+    "pdf_page": 8,
+    "printed_slide_candidate": 8,
+    "printed_slide_status": "unverified text token",
+    "heading": "Introduction / 8",
+    "topics": [],
+    "character_count": 52,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-08-visability/page-0008.jpg",
+    "markdown": "library/text/5128/08-visability.md",
+    "pdf": "library/originals/5128/08_Visability.pdf"
+  },
+  {
+    "source_id": "ENV5128-08-visability",
+    "pdf_page": 17,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Causes of Visibility",
+    "topics": [
+      "Climate and environmental effects"
+    ],
+    "character_count": 20,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-08-visability/page-0017.jpg",
+    "markdown": "library/text/5128/08-visability.md",
+    "pdf": "library/originals/5128/08_Visability.pdf"
+  },
+  {
+    "source_id": "ENV5128-08-visability",
+    "pdf_page": 20,
+    "printed_slide_candidate": 20,
+    "printed_slide_status": "unverified text token",
+    "heading": "The Solar Spectrum / 20",
+    "topics": [],
+    "character_count": 37,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-08-visability/page-0020.jpg",
+    "markdown": "library/text/5128/08-visability.md",
+    "pdf": "library/originals/5128/08_Visability.pdf"
+  },
+  {
+    "source_id": "ENV5128-08-visability",
+    "pdf_page": 27,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Index of refraction / Table 16.1, Hinds & Zhang 2021",
+    "topics": [],
+    "character_count": 50,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-08-visability/page-0027.jpg",
+    "markdown": "library/text/5128/08-visability.md",
+    "pdf": "library/originals/5128/08_Visability.pdf"
+  },
+  {
+    "source_id": "ENV5128-08-visability",
+    "pdf_page": 29,
+    "printed_slide_candidate": 29,
+    "printed_slide_status": "unverified text token",
+    "heading": "Particle Scattering / 29",
+    "topics": [
+      "Particles and aerosols"
+    ],
+    "character_count": 40,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-08-visability/page-0029.jpg",
+    "markdown": "library/text/5128/08-visability.md",
+    "pdf": "library/originals/5128/08_Visability.pdf"
+  },
+  {
+    "source_id": "ENV5128-08-visability",
+    "pdf_page": 30,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Rayleigh Scattering / Figure 16.6, Hinds & Zhang 2021",
+    "topics": [],
+    "character_count": 52,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-08-visability/page-0030.jpg",
+    "markdown": "library/text/5128/08-visability.md",
+    "pdf": "library/originals/5128/08_Visability.pdf"
+  },
+  {
+    "source_id": "ENV5128-08-visability",
+    "pdf_page": 31,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Rayleigh Scattering / Figure 16.7, Hinds & Zhang 2021",
+    "topics": [],
+    "character_count": 52,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-08-visability/page-0031.jpg",
+    "markdown": "library/text/5128/08-visability.md",
+    "pdf": "library/originals/5128/08_Visability.pdf"
+  },
+  {
+    "source_id": "ENV5128-08-visability",
+    "pdf_page": 32,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Mie Scattering / Figure 16.2, Hinds & Zhang 2021",
+    "topics": [],
+    "character_count": 48,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-08-visability/page-0032.jpg",
+    "markdown": "library/text/5128/08-visability.md",
+    "pdf": "library/originals/5128/08_Visability.pdf"
+  },
+  {
+    "source_id": "ENV5128-08-visability",
+    "pdf_page": 33,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Mie scattering diagram",
+    "topics": [],
+    "character_count": 23,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-08-visability/page-0033.jpg",
+    "markdown": "library/text/5128/08-visability.md",
+    "pdf": "library/originals/5128/08_Visability.pdf"
+  },
+  {
+    "source_id": "ENV5128-08-visability",
+    "pdf_page": 40,
+    "printed_slide_candidate": 40,
+    "printed_slide_status": "unverified text token",
+    "heading": "Winter and Summer Maps of Light / Extinction",
+    "topics": [],
+    "character_count": 73,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-08-visability/page-0040.jpg",
+    "markdown": "library/text/5128/08-visability.md",
+    "pdf": "library/originals/5128/08_Visability.pdf"
+  },
+  {
+    "source_id": "ENV5128-env-6128-iot-in-air-quality-monitoring-10222024",
+    "pdf_page": 6,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Arduino UNO data sheet",
+    "topics": [
+      "IoT and programming"
+    ],
+    "character_count": 23,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-env-6128-iot-in-air-quality-monitoring-10222024/page-0006.jpg",
+    "markdown": "library/text/5128/env-6128-iot-in-air-quality-monitoring-10222024.md",
+    "pdf": "library/originals/5128/ENV_6128_IoT_in_Air_Quality_Monitoring_10222024.pdf"
+  },
+  {
+    "source_id": "ENV5128-env-6128-iot-in-air-quality-monitoring-10222024",
+    "pdf_page": 8,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Breadboard / Used to prototype circuit",
+    "topics": [
+      "Sensors calibration and data quality",
+      "IoT and programming"
+    ],
+    "character_count": 92,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-env-6128-iot-in-air-quality-monitoring-10222024/page-0008.jpg",
+    "markdown": "library/text/5128/env-6128-iot-in-air-quality-monitoring-10222024.md",
+    "pdf": "library/originals/5128/ENV_6128_IoT_in_Air_Quality_Monitoring_10222024.pdf"
+  },
+  {
+    "source_id": "ENV5128-env-6128-iot-in-air-quality-monitoring-10222024",
+    "pdf_page": 14,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "If/else Statement / if (Condition) {",
+    "topics": [],
+    "character_count": 65,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV5128-env-6128-iot-in-air-quality-monitoring-10222024/page-0014.jpg",
+    "markdown": "library/text/5128/env-6128-iot-in-air-quality-monitoring-10222024.md",
+    "pdf": "library/originals/5128/ENV_6128_IoT_in_Air_Quality_Monitoring_10222024.pdf"
+  },
+  {
+    "source_id": "ENV6106-01-introduction",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6106 / Air Pollution Modeling",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 43,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-01-introduction/page-0001.jpg",
+    "markdown": "library/text/6106/01-introduction.md",
+    "pdf": "library/originals/6106/01_Introduction.pdf"
+  },
+  {
+    "source_id": "ENV6106-01-introduction",
+    "pdf_page": 3,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Regulation",
+    "topics": [
+      "Policy and management context"
+    ],
+    "character_count": 10,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-01-introduction/page-0003.jpg",
+    "markdown": "library/text/6106/01-introduction.md",
+    "pdf": "library/originals/6106/01_Introduction.pdf"
+  },
+  {
+    "source_id": "ENV6106-01-introduction",
+    "pdf_page": 16,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "More on CAPs and HAPs",
+    "topics": [
+      "Pollution sources and emissions"
+    ],
+    "character_count": 21,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-01-introduction/page-0016.jpg",
+    "markdown": "library/text/6106/01-introduction.md",
+    "pdf": "library/originals/6106/01_Introduction.pdf"
+  },
+  {
+    "source_id": "ENV6106-01-introduction",
+    "pdf_page": 27,
+    "printed_slide_candidate": 27,
+    "printed_slide_status": "unverified text token",
+    "heading": "Emission sources / 27",
+    "topics": [
+      "Pollution sources and emissions"
+    ],
+    "character_count": 65,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-01-introduction/page-0027.jpg",
+    "markdown": "library/text/6106/01-introduction.md",
+    "pdf": "library/originals/6106/01_Introduction.pdf"
+  },
+  {
+    "source_id": "ENV6106-01-introduction",
+    "pdf_page": 28,
+    "printed_slide_candidate": 28,
+    "printed_slide_status": "unverified text token",
+    "heading": "Concentration trend in the US / 28",
+    "topics": [],
+    "character_count": 78,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-01-introduction/page-0028.jpg",
+    "markdown": "library/text/6106/01-introduction.md",
+    "pdf": "library/originals/6106/01_Introduction.pdf"
+  },
+  {
+    "source_id": "ENV6106-01-introduction",
+    "pdf_page": 29,
+    "printed_slide_candidate": 29,
+    "printed_slide_status": "unverified text token",
+    "heading": "Emission trend in the US / 29",
+    "topics": [
+      "Pollution sources and emissions"
+    ],
+    "character_count": 73,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-01-introduction/page-0029.jpg",
+    "markdown": "library/text/6106/01-introduction.md",
+    "pdf": "library/originals/6106/01_Introduction.pdf"
+  },
+  {
+    "source_id": "ENV6106-01-introduction",
+    "pdf_page": 31,
+    "printed_slide_candidate": 31,
+    "printed_slide_status": "unverified text token",
+    "heading": "NASA satellite SO2 concentration / 31",
+    "topics": [],
+    "character_count": 80,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-01-introduction/page-0031.jpg",
+    "markdown": "library/text/6106/01-introduction.md",
+    "pdf": "library/originals/6106/01_Introduction.pdf"
+  },
+  {
+    "source_id": "ENV6106-02-meteorology",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6106 / Air Pollution Modeling",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 43,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-02-meteorology/page-0001.jpg",
+    "markdown": "library/text/6106/02-meteorology.md",
+    "pdf": "library/originals/6106/02_Meteorology.pdf"
+  },
+  {
+    "source_id": "ENV6106-02-meteorology",
+    "pdf_page": 4,
+    "printed_slide_candidate": 4,
+    "printed_slide_status": "unverified text token",
+    "heading": "Atmospheric Density and Pressure / 4",
+    "topics": [],
+    "character_count": 35,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-02-meteorology/page-0004.jpg",
+    "markdown": "library/text/6106/02-meteorology.md",
+    "pdf": "library/originals/6106/02_Meteorology.pdf"
+  },
+  {
+    "source_id": "ENV6106-02-meteorology",
+    "pdf_page": 19,
+    "printed_slide_candidate": 19,
+    "printed_slide_status": "unverified text token",
+    "heading": "Effects on Pollutant Releases / 19",
+    "topics": [],
+    "character_count": 47,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-02-meteorology/page-0019.jpg",
+    "markdown": "library/text/6106/02-meteorology.md",
+    "pdf": "library/originals/6106/02_Meteorology.pdf"
+  },
+  {
+    "source_id": "ENV6106-02-meteorology",
+    "pdf_page": 20,
+    "printed_slide_candidate": 20,
+    "printed_slide_status": "unverified text token",
+    "heading": "Effects on Pollutant Releases / 20",
+    "topics": [],
+    "character_count": 47,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-02-meteorology/page-0020.jpg",
+    "markdown": "library/text/6106/02-meteorology.md",
+    "pdf": "library/originals/6106/02_Meteorology.pdf"
+  },
+  {
+    "source_id": "ENV6106-02-meteorology",
+    "pdf_page": 22,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Tropospheric Temperature Structure / Diurnal Variation",
+    "topics": [],
+    "character_count": 70,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-02-meteorology/page-0022.jpg",
+    "markdown": "library/text/6106/02-meteorology.md",
+    "pdf": "library/originals/6106/02_Meteorology.pdf"
+  },
+  {
+    "source_id": "ENV6106-03-gaussian-model",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6106 / Air Pollution Modeling",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 43,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-03-gaussian-model/page-0001.jpg",
+    "markdown": "library/text/6106/03-gaussian-model.md",
+    "pdf": "library/originals/6106/03_Gaussian_Model.pdf"
+  },
+  {
+    "source_id": "ENV6106-03-gaussian-model",
+    "pdf_page": 7,
+    "printed_slide_candidate": 7,
+    "printed_slide_status": "unverified text token",
+    "heading": "Plume shape vs stability / 7",
+    "topics": [
+      "Transport and meteorology",
+      "Dispersion and Gaussian models"
+    ],
+    "character_count": 54,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-03-gaussian-model/page-0007.jpg",
+    "markdown": "library/text/6106/03-gaussian-model.md",
+    "pdf": "library/originals/6106/03_Gaussian_Model.pdf"
+  },
+  {
+    "source_id": "ENV6106-03-gaussian-model",
+    "pdf_page": 9,
+    "printed_slide_candidate": 9,
+    "printed_slide_status": "unverified text token",
+    "heading": "Time averaged plume / 9",
+    "topics": [
+      "Dispersion and Gaussian models"
+    ],
+    "character_count": 90,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-03-gaussian-model/page-0009.jpg",
+    "markdown": "library/text/6106/03-gaussian-model.md",
+    "pdf": "library/originals/6106/03_Gaussian_Model.pdf"
+  },
+  {
+    "source_id": "ENV6106-03-gaussian-model",
+    "pdf_page": 17,
+    "printed_slide_candidate": 17,
+    "printed_slide_status": "unverified text token",
+    "heading": "How to find σy and σz (method 1) / 17",
+    "topics": [],
+    "character_count": 51,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-03-gaussian-model/page-0017.jpg",
+    "markdown": "library/text/6106/03-gaussian-model.md",
+    "pdf": "library/originals/6106/03_Gaussian_Model.pdf"
+  },
+  {
+    "source_id": "ENV6106-04-plume-rise-downwash",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6106 / Air Pollution Modeling",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 43,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-04-plume-rise-downwash/page-0001.jpg",
+    "markdown": "library/text/6106/04-plume-rise-downwash.md",
+    "pdf": "library/originals/6106/04_Plume_Rise_Downwash.pdf"
+  },
+  {
+    "source_id": "ENV6106-04-plume-rise-downwash",
+    "pdf_page": 3,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "More on Gaussian model",
+    "topics": [
+      "Dispersion and Gaussian models"
+    ],
+    "character_count": 22,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-04-plume-rise-downwash/page-0003.jpg",
+    "markdown": "library/text/6106/04-plume-rise-downwash.md",
+    "pdf": "library/originals/6106/04_Plume_Rise_Downwash.pdf"
+  },
+  {
+    "source_id": "ENV6106-04-plume-rise-downwash",
+    "pdf_page": 7,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Ground concentrations / (Cooper and Alley, 2002)",
+    "topics": [],
+    "character_count": 47,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-04-plume-rise-downwash/page-0007.jpg",
+    "markdown": "library/text/6106/04-plume-rise-downwash.md",
+    "pdf": "library/originals/6106/04_Plume_Rise_Downwash.pdf"
+  },
+  {
+    "source_id": "ENV6106-04-plume-rise-downwash",
+    "pdf_page": 10,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Plume rise",
+    "topics": [
+      "Dispersion and Gaussian models"
+    ],
+    "character_count": 10,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-04-plume-rise-downwash/page-0010.jpg",
+    "markdown": "library/text/6106/04-plume-rise-downwash.md",
+    "pdf": "library/originals/6106/04_Plume_Rise_Downwash.pdf"
+  },
+  {
+    "source_id": "ENV6106-04-plume-rise-downwash",
+    "pdf_page": 17,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Downwash",
+    "topics": [
+      "Dispersion and Gaussian models"
+    ],
+    "character_count": 8,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-04-plume-rise-downwash/page-0017.jpg",
+    "markdown": "library/text/6106/04-plume-rise-downwash.md",
+    "pdf": "library/originals/6106/04_Plume_Rise_Downwash.pdf"
+  },
+  {
+    "source_id": "ENV6106-05-air-quality-model-overview",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6106 / Air Pollution Modeling",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 43,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-05-air-quality-model-overview/page-0001.jpg",
+    "markdown": "library/text/6106/05-air-quality-model-overview.md",
+    "pdf": "library/originals/6106/05_Air_Quality_Model_Overview.pdf"
+  },
+  {
+    "source_id": "ENV6106-05-air-quality-model-overview",
+    "pdf_page": 10,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Model dimensions",
+    "topics": [],
+    "character_count": 17,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-05-air-quality-model-overview/page-0010.jpg",
+    "markdown": "library/text/6106/05-air-quality-model-overview.md",
+    "pdf": "library/originals/6106/05_Air_Quality_Model_Overview.pdf"
+  },
+  {
+    "source_id": "ENV6106-05-air-quality-model-overview",
+    "pdf_page": 23,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Air quality models in public / health",
+    "topics": [
+      "Exposure and health"
+    ],
+    "character_count": 36,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-05-air-quality-model-overview/page-0023.jpg",
+    "markdown": "library/text/6106/05-air-quality-model-overview.md",
+    "pdf": "library/originals/6106/05_Air_Quality_Model_Overview.pdf"
+  },
+  {
+    "source_id": "ENV6106-06-model-intro",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6106 / Air Pollution Modeling",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 43,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-06-model-intro/page-0001.jpg",
+    "markdown": "library/text/6106/06-model-intro.md",
+    "pdf": "library/originals/6106/06_Model_Intro.pdf"
+  },
+  {
+    "source_id": "ENV6106-06-model-intro",
+    "pdf_page": 6,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Chemistry",
+    "topics": [
+      "Ozone and atmospheric chemistry"
+    ],
+    "character_count": 9,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-06-model-intro/page-0006.jpg",
+    "markdown": "library/text/6106/06-model-intro.md",
+    "pdf": "library/originals/6106/06_Model_Intro.pdf"
+  },
+  {
+    "source_id": "ENV6106-06-model-intro",
+    "pdf_page": 10,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Aerosol process",
+    "topics": [
+      "Particles and aerosols"
+    ],
+    "character_count": 15,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-06-model-intro/page-0010.jpg",
+    "markdown": "library/text/6106/06-model-intro.md",
+    "pdf": "library/originals/6106/06_Model_Intro.pdf"
+  },
+  {
+    "source_id": "ENV6106-06-model-intro",
+    "pdf_page": 13,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Emissions",
+    "topics": [
+      "Pollution sources and emissions"
+    ],
+    "character_count": 9,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-06-model-intro/page-0013.jpg",
+    "markdown": "library/text/6106/06-model-intro.md",
+    "pdf": "library/originals/6106/06_Model_Intro.pdf"
+  },
+  {
+    "source_id": "ENV6106-06-model-intro",
+    "pdf_page": 20,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Guideline",
+    "topics": [],
+    "character_count": 9,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-06-model-intro/page-0020.jpg",
+    "markdown": "library/text/6106/06-model-intro.md",
+    "pdf": "library/originals/6106/06_Model_Intro.pdf"
+  },
+  {
+    "source_id": "ENV6106-07-mobile-source-overview",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6106 / Air Pollution Modeling",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 43,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-07-mobile-source-overview/page-0001.jpg",
+    "markdown": "library/text/6106/07-mobile-source-overview.md",
+    "pdf": "library/originals/6106/07_Mobile_Source_Overview.pdf"
+  },
+  {
+    "source_id": "ENV6106-07-mobile-source-overview",
+    "pdf_page": 4,
+    "printed_slide_candidate": 4,
+    "printed_slide_status": "unverified text token",
+    "heading": "Concentration trend in the US / 4",
+    "topics": [],
+    "character_count": 77,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-07-mobile-source-overview/page-0004.jpg",
+    "markdown": "library/text/6106/07-mobile-source-overview.md",
+    "pdf": "library/originals/6106/07_Mobile_Source_Overview.pdf"
+  },
+  {
+    "source_id": "ENV6106-07-mobile-source-overview",
+    "pdf_page": 5,
+    "printed_slide_candidate": 5,
+    "printed_slide_status": "unverified text token",
+    "heading": "Emission trend in the US / 5",
+    "topics": [
+      "Pollution sources and emissions"
+    ],
+    "character_count": 71,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-07-mobile-source-overview/page-0005.jpg",
+    "markdown": "library/text/6106/07-mobile-source-overview.md",
+    "pdf": "library/originals/6106/07_Mobile_Source_Overview.pdf"
+  },
+  {
+    "source_id": "ENV6106-09-co-categorical-finding",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6106 / Air Pollution Modeling",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 43,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-09-co-categorical-finding/page-0001.jpg",
+    "markdown": "library/text/6106/09-co-categorical-finding.md",
+    "pdf": "library/originals/6106/09_CO Categorical Finding.pdf"
+  },
+  {
+    "source_id": "ENV6106-09-co-categorical-finding",
+    "pdf_page": 3,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "CO Categorical Finding / 3FHWA, 2017",
+    "topics": [],
+    "character_count": 34,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-09-co-categorical-finding/page-0003.jpg",
+    "markdown": "library/text/6106/09-co-categorical-finding.md",
+    "pdf": "library/originals/6106/09_CO Categorical Finding.pdf"
+  },
+  {
+    "source_id": "ENV6106-09-co-categorical-finding",
+    "pdf_page": 4,
+    "printed_slide_candidate": 4,
+    "printed_slide_status": "unverified text token",
+    "heading": "CO Categorical Finding / 4",
+    "topics": [],
+    "character_count": 24,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-09-co-categorical-finding/page-0004.jpg",
+    "markdown": "library/text/6106/09-co-categorical-finding.md",
+    "pdf": "library/originals/6106/09_CO Categorical Finding.pdf"
+  },
+  {
+    "source_id": "ENV6106-10-cal3qhc",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6106 / Air Pollution Modeling",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 43,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-10-cal3qhc/page-0001.jpg",
+    "markdown": "library/text/6106/10-cal3qhc.md",
+    "pdf": "library/originals/6106/10_CAL3QHC.pdf"
+  },
+  {
+    "source_id": "ENV6106-11-project-level-demo",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6106 / Air Pollution Modeling",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 43,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-11-project-level-demo/page-0001.jpg",
+    "markdown": "library/text/6106/11-project-level-demo.md",
+    "pdf": "library/originals/6106/11_Project_level_demo.pdf"
+  },
+  {
+    "source_id": "ENV6106-11-project-level-demo",
+    "pdf_page": 2,
+    "printed_slide_candidate": 2,
+    "printed_slide_status": "unverified text token",
+    "heading": "Project site / 2",
+    "topics": [],
+    "character_count": 15,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-11-project-level-demo/page-0002.jpg",
+    "markdown": "library/text/6106/11-project-level-demo.md",
+    "pdf": "library/originals/6106/11_Project_level_demo.pdf"
+  },
+  {
+    "source_id": "ENV6106-12-aerscreen",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6106 / Air Pollution Modeling",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 43,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-12-aerscreen/page-0001.jpg",
+    "markdown": "library/text/6106/12-aerscreen.md",
+    "pdf": "library/originals/6106/12_AERSCREEN.pdf"
+  },
+  {
+    "source_id": "ENV6106-12-aerscreen",
+    "pdf_page": 9,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Building downwash / Figure 11 AERSCREEN Guide",
+    "topics": [
+      "Dispersion and Gaussian models"
+    ],
+    "character_count": 43,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-12-aerscreen/page-0009.jpg",
+    "markdown": "library/text/6106/12-aerscreen.md",
+    "pdf": "library/originals/6106/12_AERSCREEN.pdf"
+  },
+  {
+    "source_id": "ENV6106-12-aerscreen",
+    "pdf_page": 14,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "https://i.redd.it/96ptbqzyfrr11.gif",
+    "topics": [],
+    "character_count": 36,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-12-aerscreen/page-0014.jpg",
+    "markdown": "library/text/6106/12-aerscreen.md",
+    "pdf": "library/originals/6106/12_AERSCREEN.pdf"
+  },
+  {
+    "source_id": "ENV6106-12-aerscreen",
+    "pdf_page": 20,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Fig. 21. AERSCREEN flowchart",
+    "topics": [
+      "Dispersion and Gaussian models"
+    ],
+    "character_count": 28,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-12-aerscreen/page-0020.jpg",
+    "markdown": "library/text/6106/12-aerscreen.md",
+    "pdf": "library/originals/6106/12_AERSCREEN.pdf"
+  },
+  {
+    "source_id": "ENV6106-13-aermet-overview",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6106 / Air Pollution Modeling",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 43,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-13-aermet-overview/page-0001.jpg",
+    "markdown": "library/text/6106/13-aermet-overview.md",
+    "pdf": "library/originals/6106/13_AERMET_Overview.pdf"
+  },
+  {
+    "source_id": "ENV6106-13-aermet-overview",
+    "pdf_page": 5,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "AERMET overview",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 15,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-13-aermet-overview/page-0005.jpg",
+    "markdown": "library/text/6106/13-aermet-overview.md",
+    "pdf": "library/originals/6106/13_AERMET_Overview.pdf"
+  },
+  {
+    "source_id": "ENV6106-13-aermet-overview",
+    "pdf_page": 8,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Past 3-stage processing / Fig 1-1 AERMET user guide",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 49,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-13-aermet-overview/page-0008.jpg",
+    "markdown": "library/text/6106/13-aermet-overview.md",
+    "pdf": "library/originals/6106/13_AERMET_Overview.pdf"
+  },
+  {
+    "source_id": "ENV6106-13-aermet-overview",
+    "pdf_page": 9,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Now 2-stage processing / Fig 1-1 AERMET user guide",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 49,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-13-aermet-overview/page-0009.jpg",
+    "markdown": "library/text/6106/13-aermet-overview.md",
+    "pdf": "library/originals/6106/13_AERMET_Overview.pdf"
+  },
+  {
+    "source_id": "ENV6106-13-aermet-overview",
+    "pdf_page": 11,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Input Data",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 10,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-13-aermet-overview/page-0011.jpg",
+    "markdown": "library/text/6106/13-aermet-overview.md",
+    "pdf": "library/originals/6106/13_AERMET_Overview.pdf"
+  },
+  {
+    "source_id": "ENV6106-13-aermet-overview",
+    "pdf_page": 14,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "NWS Rawinsonde Network (https://www.weather.gov/upperair/nws_upper)",
+    "topics": [],
+    "character_count": 67,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-13-aermet-overview/page-0014.jpg",
+    "markdown": "library/text/6106/13-aermet-overview.md",
+    "pdf": "library/originals/6106/13_AERMET_Overview.pdf"
+  },
+  {
+    "source_id": "ENV6106-13-aermet-overview",
+    "pdf_page": 23,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "AERMET Stage 1",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 14,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-13-aermet-overview/page-0023.jpg",
+    "markdown": "library/text/6106/13-aermet-overview.md",
+    "pdf": "library/originals/6106/13_AERMET_Overview.pdf"
+  },
+  {
+    "source_id": "ENV6106-13-aermet-overview",
+    "pdf_page": 24,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Now 2-stage processing / Fig 1-1 AERMET user guide",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 49,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-13-aermet-overview/page-0024.jpg",
+    "markdown": "library/text/6106/13-aermet-overview.md",
+    "pdf": "library/originals/6106/13_AERMET_Overview.pdf"
+  },
+  {
+    "source_id": "ENV6106-13-aermet-overview",
+    "pdf_page": 35,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "AERMET Stage 2",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 14,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-13-aermet-overview/page-0035.jpg",
+    "markdown": "library/text/6106/13-aermet-overview.md",
+    "pdf": "library/originals/6106/13_AERMET_Overview.pdf"
+  },
+  {
+    "source_id": "ENV6106-13-aermet-overview",
+    "pdf_page": 36,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Now 2-stage processing / Fig 1-1 AERMET user guide",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 49,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-13-aermet-overview/page-0036.jpg",
+    "markdown": "library/text/6106/13-aermet-overview.md",
+    "pdf": "library/originals/6106/13_AERMET_Overview.pdf"
+  },
+  {
+    "source_id": "ENV6106-14-aerminute",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6106 / Air Pollution Modeling",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 43,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-14-aerminute/page-0001.jpg",
+    "markdown": "library/text/6106/14-aerminute.md",
+    "pdf": "library/originals/6106/14_AERMINUTE.pdf"
+  },
+  {
+    "source_id": "ENV6106-15-aersurface",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6106 / Air Pollution Modeling",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 43,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-15-aersurface/page-0001.jpg",
+    "markdown": "library/text/6106/15-aersurface.md",
+    "pdf": "library/originals/6106/15_AERSURFACE.pdf"
+  },
+  {
+    "source_id": "ENV6106-15-aersurface",
+    "pdf_page": 7,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Visual content; inspect page image",
+    "topics": [],
+    "character_count": 0,
+    "flags": [
+      "sparse-text",
+      "no-extracted-text"
+    ],
+    "image": "library/pages/ENV6106-15-aersurface/page-0007.jpg",
+    "markdown": "library/text/6106/15-aersurface.md",
+    "pdf": "library/originals/6106/15_AERSURFACE.pdf"
+  },
+  {
+    "source_id": "ENV6106-15-aersurface",
+    "pdf_page": 10,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "CO pathway",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 10,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-15-aersurface/page-0010.jpg",
+    "markdown": "library/text/6106/15-aersurface.md",
+    "pdf": "library/originals/6106/15_AERSURFACE.pdf"
+  },
+  {
+    "source_id": "ENV6106-15-aersurface",
+    "pdf_page": 19,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "OU pathway",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 10,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-15-aersurface/page-0019.jpg",
+    "markdown": "library/text/6106/15-aersurface.md",
+    "pdf": "library/originals/6106/15_AERSURFACE.pdf"
+  },
+  {
+    "source_id": "ENV6106-16-aermap",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6106 / Air Pollution Modeling",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 43,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-16-aermap/page-0001.jpg",
+    "markdown": "library/text/6106/16-aermap.md",
+    "pdf": "library/originals/6106/16_AERMAP.pdf"
+  },
+  {
+    "source_id": "ENV6106-16-aermap",
+    "pdf_page": 10,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "CO pathway",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 10,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-16-aermap/page-0010.jpg",
+    "markdown": "library/text/6106/16-aermap.md",
+    "pdf": "library/originals/6106/16_AERMAP.pdf"
+  },
+  {
+    "source_id": "ENV6106-16-aermap",
+    "pdf_page": 17,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "SO pathway",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 10,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-16-aermap/page-0017.jpg",
+    "markdown": "library/text/6106/16-aermap.md",
+    "pdf": "library/originals/6106/16_AERMAP.pdf"
+  },
+  {
+    "source_id": "ENV6106-16-aermap",
+    "pdf_page": 20,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "Example SO pathway / SO STARTING",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 81,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-16-aermap/page-0020.jpg",
+    "markdown": "library/text/6106/16-aermap.md",
+    "pdf": "library/originals/6106/16_AERMAP.pdf"
+  },
+  {
+    "source_id": "ENV6106-16-aermap",
+    "pdf_page": 21,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "RE pathway",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 10,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-16-aermap/page-0021.jpg",
+    "markdown": "library/text/6106/16-aermap.md",
+    "pdf": "library/originals/6106/16_AERMAP.pdf"
+  },
+  {
+    "source_id": "ENV6106-16-aermap",
+    "pdf_page": 29,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "OU pathway",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 10,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-16-aermap/page-0029.jpg",
+    "markdown": "library/text/6106/16-aermap.md",
+    "pdf": "library/originals/6106/16_AERMAP.pdf"
+  },
+  {
+    "source_id": "ENV6106-17-bpipprm",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6106 / Air Pollution Modeling",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 43,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-17-bpipprm/page-0001.jpg",
+    "markdown": "library/text/6106/17-bpipprm.md",
+    "pdf": "library/originals/6106/17_BPIPPRM.pdf"
+  },
+  {
+    "source_id": "ENV6106-18-aermod",
+    "pdf_page": 1,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ENV 6106 / Air Pollution Modeling",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 43,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-18-aermod/page-0001.jpg",
+    "markdown": "library/text/6106/18-aermod.md",
+    "pdf": "library/originals/6106/18_AERMOD.pdf"
+  },
+  {
+    "source_id": "ENV6106-18-aermod",
+    "pdf_page": 7,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "CO pathway",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 10,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-18-aermod/page-0007.jpg",
+    "markdown": "library/text/6106/18-aermod.md",
+    "pdf": "library/originals/6106/18_AERMOD.pdf"
+  },
+  {
+    "source_id": "ENV6106-18-aermod",
+    "pdf_page": 13,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "SO pathway",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 10,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-18-aermod/page-0013.jpg",
+    "markdown": "library/text/6106/18-aermod.md",
+    "pdf": "library/originals/6106/18_AERMOD.pdf"
+  },
+  {
+    "source_id": "ENV6106-18-aermod",
+    "pdf_page": 18,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "RE pathway",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 10,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-18-aermod/page-0018.jpg",
+    "markdown": "library/text/6106/18-aermod.md",
+    "pdf": "library/originals/6106/18_AERMOD.pdf"
+  },
+  {
+    "source_id": "ENV6106-18-aermod",
+    "pdf_page": 21,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "ME pathway",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 10,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-18-aermod/page-0021.jpg",
+    "markdown": "library/text/6106/18-aermod.md",
+    "pdf": "library/originals/6106/18_AERMOD.pdf"
+  },
+  {
+    "source_id": "ENV6106-18-aermod",
+    "pdf_page": 25,
+    "printed_slide_candidate": null,
+    "printed_slide_status": "not identified",
+    "heading": "OU pathway",
+    "topics": [
+      "Model inputs preprocessing and operation"
+    ],
+    "character_count": 10,
+    "flags": [
+      "sparse-text"
+    ],
+    "image": "library/pages/ENV6106-18-aermod/page-0025.jpg",
+    "markdown": "library/text/6106/18-aermod.md",
+    "pdf": "library/originals/6106/18_AERMOD.pdf"
+  }
+]

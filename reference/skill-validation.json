@@ -1,0 +1,32 @@
+[
+  {
+    "skill": "eop-card-builder",
+    "exit_code": 0,
+    "output": "Skill is valid!",
+    "error": ""
+  },
+  {
+    "skill": "eop-intake",
+    "exit_code": 0,
+    "output": "Skill is valid!",
+    "error": ""
+  },
+  {
+    "skill": "eop-lecture-builder",
+    "exit_code": 0,
+    "output": "Skill is valid!",
+    "error": ""
+  },
+  {
+    "skill": "eop-problem-set",
+    "exit_code": 0,
+    "output": "Skill is valid!",
+    "error": ""
+  },
+  {
+    "skill": "eop-review",
+    "exit_code": 0,
+    "output": "Skill is valid!",
+    "error": ""
+  }
+]
