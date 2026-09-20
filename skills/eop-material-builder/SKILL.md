@@ -1,9 +1,9 @@
 ---
-name: eop-lecture-builder
+name: eop-material-builder
 description: Assemble student and instructor teaching decks from an accepted EOP lecture plan and canonical assessment package, with audience-appropriate notes and checked exports. Use after assessment design.
 ---
 
-# EOP Lecture Builder
+# EOP Material Builder
 
 Build teaching materials whose content, practice, and assessment fit the accepted lesson.
 
@@ -15,7 +15,7 @@ optional scenario, [fact register](../../reference/fact-register.md), selected
 [assessment-package.md](../../reference/assessment-package.md).
 
 Confirm plan and assessment revisions agree. If assessment content is missing, run/route to
-eop-problem-set rather than inventing a second set. Blocking plan defects or missing acceptance stop
+eop-assessment-designer rather than inventing a second set. Blocking plan defects or missing acceptance stop
 dependent generation. Use available host presentation/document skills for actual artifact creation.
 
 ## Assemble
@@ -68,9 +68,9 @@ slide maps for both versions.
 
 Render or open the final deck, inspect figures/equations/layout/accessibility, and check pacing against
 the actual slide content and planned activities. An unavailable rendering tool leaves visual QA
-unverified. Check corresponding Word exports and assessment revision consistency with eop-problem-set.
+unverified. Check corresponding Word exports and assessment revision consistency with eop-assessment-designer.
 
-Hand the output manifest, claim/source map, slide maps, and limitations to eop-review. Explain the
+Hand the output manifest, claim/source map, slide maps, and limitations to eop-reviewer. Explain the
 result to the instructor in plain language while retaining inspectable technical detail. Do not claim
 the package is reviewed or ready until the appropriate review checks are recorded.
 

@@ -1,5 +1,28 @@
 # Version 5 revision notes
 
+## Role naming update — 2026-09-20
+
+Folder names, SKILL.md names, headings, and current handoff references now match the role names
+used in the architecture overview. This is a naming change, with five roles and their duties retained.
+
+| Previous identifier | Current identifier | Role |
+|---|---|---|
+| `eop-problem-set` | `eop-assessment-designer` | Assessment Designer |
+| `eop-lecture-builder` | `eop-material-builder` | Material Builder |
+| `eop-review` | `eop-reviewer` | Reviewer |
+
+`eop-card-builder` and `eop-intake` are unchanged. Historical validation records retain the names
+used when those checks ran. Use this mapping when reading older handoff records; update the role
+reference when continuing work without treating a name change as a new artifact revision or review.
+Existing installations should replace the old skill folders with the renamed folders rather than
+install both copies. Older external links to those folder paths must be updated; no alias roles were
+added. Shared references and the source library must remain accessible as before.
+
+Naming-update checks: all five role specifications pass the skill format validator; each declared
+name matches its folder; all 4,116 relative Markdown file links resolve; obsolete identifiers occur
+only in this migration table and historical check records. Remote URLs and heading anchors were not
+retested. These checks establish naming and file-link consistency, not runtime or classroom performance.
+
 ## Faculty contribution workflow update — 2026-09-20
 
 - Clarified the five role names and that lesson planning is part of the Intake Agent.

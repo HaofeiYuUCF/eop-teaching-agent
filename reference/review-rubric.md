@@ -19,14 +19,14 @@ severity: blocking # blocking | suggestion
 where: P3, instructor solution, assessment revision 2
 finding: The answer uses a different unit conversion from the prompt.
 evidence: Reference to execution output and independent unit check.
-target: eop-problem-set
+target: eop-assessment-designer
 acceptance_criterion: Prompt, method, computation, and displayed result use consistent units.
 affected_artifacts: [assessment, instructor-solutions, instructor-deck]
 round: 0
 status: open # open | resolved
 ```
 
-Other targets: `eop-intake`, `eop-lecture-builder`, or `eop-card-builder:card-or-claim-id`.
+Other targets: `eop-intake`, `eop-material-builder`, or `eop-card-builder:card-or-claim-id`.
 The card builder maintains source records; a change requiring author knowledge is reported to the
 instructor rather than treated as an executable external contact. Preserve resolved defect history.
 

@@ -26,6 +26,9 @@ These were literal lookup checks, not a semantic retrieval benchmark or independ
 
 ## Original skill format validation
 
+The identifiers below are historical. For current folder names, see the role naming table in
+[revision notes](../REVISION-NOTES.md); the original validation results are retained unchanged.
+
 | Role | Result |
 |---|---|
 | eop-card-builder | Skill is valid! |

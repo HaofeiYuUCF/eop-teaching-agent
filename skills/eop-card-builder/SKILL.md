@@ -58,7 +58,7 @@ into observed student behavior. A card may record scattered errors or an unknown
 ## Draft and hand off
 
 For new or revised scenarios, preserve stable IDs, source dates, recommendation/provision credits,
-data readiness, and hypothetical inputs. Update the case catalog and route the draft to eop-review
+data readiness, and hypothetical inputs. Update the case catalog and route the draft to eop-reviewer
 in scenario mode. Do not create a lesson or contact a recommending organization unless requested.
 For feedback on prior use, consult the optional [use record](../../reference/faculty-use-record.md)
 only when helpful; preserve observations separately from proposed explanations and revisions.
@@ -72,7 +72,7 @@ defaults as contextual suggestions, including limitations of analogies. Leave un
 explicitly unknown rather than filling them with generic prose.
 
 Return the draft, changes from existing coverage, unresolved claims/conflicts, and the questions that
-need instructor correction. Use eop-review in card mode before labeling it reviewed. Draft cards may
+need instructor correction. Use eop-reviewer in card mode before labeling it reviewed. Draft cards may
 remain in the library if their status and usage limits are clear; material release still requires
 adequate evidence for the claims actually used. Do not contact other authors without user authorization.
 

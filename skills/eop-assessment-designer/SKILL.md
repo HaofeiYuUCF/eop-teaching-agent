@@ -1,9 +1,9 @@
 ---
-name: eop-problem-set
+name: eop-assessment-designer
 description: Build an assessment package with problems, solutions, rubrics, and numerical checks from an accepted and reviewed EOP lecture plan. Use before assembling the lecture slides.
 ---
 
-# EOP Problem Set
+# EOP Assessment Designer
 
 Create assessment content once, for reuse in documents and slides.
 

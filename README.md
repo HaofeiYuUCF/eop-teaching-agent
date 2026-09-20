@@ -38,13 +38,16 @@ If a required tool is unavailable, it reports the affected output or check as in
 
 ## Five roles and their workflow
 
+Role folders use the names shown below. If upgrading an older copy, see the
+[role naming changes](REVISION-NOTES.md#role-naming-update--2026-09-20).
+
 | Role | Specification | Responsibility |
 |---|---|---|
 | Card Builder | [eop-card-builder](skills/eop-card-builder/SKILL.md) | Prepare or revise reusable cards and scenario resources from supplied material and instructor knowledge. |
 | Intake Agent | [eop-intake](skills/eop-intake/SKILL.md) | Clarify instructor goals, student preparation, and constraints; select suitable resources and develop the lesson plan. Planning is part of Intake. |
-| Assessment Designer | [eop-problem-set](skills/eop-problem-set/SKILL.md) | Develop tasks, solutions, criteria, and verification records from the accepted, reviewed plan. |
-| Material Builder | [eop-lecture-builder](skills/eop-lecture-builder/SKILL.md) | Assemble student and instructor materials around the plan and canonical assessment. |
-| Reviewer | [eop-review](skills/eop-review/SKILL.md) | Review cards, scenarios, plans, assessments, and final materials; route defects to the responsible role. |
+| Assessment Designer | [eop-assessment-designer](skills/eop-assessment-designer/SKILL.md) | Develop tasks, solutions, criteria, and verification records from the accepted, reviewed plan. |
+| Material Builder | [eop-material-builder](skills/eop-material-builder/SKILL.md) | Assemble student and instructor materials around the plan and canonical assessment. |
+| Reviewer | [eop-reviewer](skills/eop-reviewer/SKILL.md) | Review cards, scenarios, plans, assessments, and final materials; route defects to the responsible role. |
 
 For lesson adaptation, prepare sources as needed, then use Intake to develop a plan. Reviewer checks
 the plan, and the instructor accepts the resulting revision before dependent generation. Assessment

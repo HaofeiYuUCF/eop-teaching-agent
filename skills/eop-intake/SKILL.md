@@ -60,7 +60,7 @@ forecasts distinct from synthetic exercise inputs. Adapt only the activity patte
 this lesson. Older accepted plans retain their case choice without a metadata-only reapproval.
 
 Present the plan in readable form with its major choices and unresolved questions. Arrange plan
-review through eop-review before assessment generation. Obtain instructor acceptance of the resulting
+review through eop-reviewer before assessment generation. Obtain instructor acceptance of the resulting
 revision unless already explicitly given; do not repeatedly ask for approval of unchanged decisions.
 Store actual acceptance and plan-review evidence. Pause dependent generation on unresolved blockers.
 

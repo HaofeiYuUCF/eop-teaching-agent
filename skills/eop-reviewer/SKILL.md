@@ -1,9 +1,9 @@
 ---
-name: eop-review
+name: eop-reviewer
 description: Review EOP lesson plans, topic cards, scenarios, assessments, and exported teaching packages; check evidence and calculations and route revisions. Use for resource review, plan review before generation, or assessment and material review.
 ---
 
-# EOP Review
+# EOP Reviewer
 
 Review artifacts against evidence and objectives, including the plan itself.
 
