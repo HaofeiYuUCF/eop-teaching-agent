@@ -5,6 +5,10 @@ description: Interview an instructor and prepare an adaptable EOP air-quality le
 
 # EOP Intake
 
+This is the Intake Agent: instructor needs clarification and lesson planning belong to this same
+role. There is no separate Planner agent. Resource-only contributions follow
+[CONTRIBUTING.md](../../CONTRIBUTING.md) and do not start a lesson-planning interview.
+
 Produce a lecture plan that the instructor can inspect and correct. Do not start an intake when the
 user has only requested a critique of this framework.
 

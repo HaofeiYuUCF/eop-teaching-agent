@@ -3,6 +3,10 @@
 Version 5 adds a traceable three-course reference library to the supplied version 4 framework.
 It remains a portable instruction framework, not an installed application or hosted service.
 
+Start with [Contribute and use teaching resources](CONTRIBUTING.md) for plain-language examples of
+reference lookup, card/scenario contributions, lesson adaptation, and feedback. No programming is
+required to prepare a contribution; the assistant can organize supplied material into readable drafts.
+
 - [Course library](library/index.md): 38 unchanged PDFs and 1,050 page-level references.
 - [Topic index](library/topics.md): cross-course navigation.
 - [Library guide](reference/library-guide.md): lookup, citation, evidence and reuse rules.
@@ -20,12 +24,7 @@ The library is an initial domain resource, not evidence of educational effective
 scientific validation, teacher endorsement, or multi-instructor co-design. Original course labels,
 versions, credits and uncertainty are preserved. All page images are included to support visual lookup.
 
-## Inherited version 4 documentation
-
-The following describes the earlier framework. Historical validation statements refer to v4;
-use the version 5 report for checks performed in this delivery.
-
-# EOP Air Quality Teaching Agent — Version 4
+## Purpose and architecture
 
 Adapt an instructor's teaching materials to the knowledge, goals, and practical resources of a
 particular class, using Engineering for One Planet (EOP) learning outcomes where they are taught
@@ -37,24 +36,23 @@ instruction framework, not a standalone application or an installed service. A c
 coordinates the stages and uses available document, presentation, computation, and source tools.
 If a required tool is unavailable, it reports the affected output or check as incomplete.
 
-## Roles and order
+## Five roles and their workflow
 
-1. **Prepare sources — eop-card-builder.** Draft or revise topic cards from supplied text, slides,
-   notes, and instructor observations. Compare new materials with existing cards, including when
-   a graduate and undergraduate course cover the same topic. Preserve attribution and source locations.
-2. **Plan — eop-intake.** Ask only for missing information that changes the lesson. Produce a
-   lecture plan covering technical objectives, EOP connections, activities, assessment, and time.
-3. **Check the plan — eop-review, plan mode.** Resolve blocking design problems and obtain the
-   instructor's acceptance of the resulting plan. Existing explicit acceptance remains valid for
-   that revision; do not request it repeatedly.
-4. **Design assessment — eop-problem-set.** Create a canonical assessment package with student
-   prompts, instructor solutions, criteria, and verification records.
-5. **Assemble materials — eop-lecture-builder.** Build separate student and instructor decks around
-   the plan and assessment. Collect and check the problem role's Word exports; request regeneration
-   from that role if the canonical assessment changes.
-6. **Review and revise — eop-review, material mode.** Check content, evidence, assessment, and the
-   actual exported files. Route defects to their cause. After at most two revision rounds, report
-   unresolved blockers. Produce a coverage and assessment alignment memo with an explicit status.
+| Role | Specification | Responsibility |
+|---|---|---|
+| Card Builder | [eop-card-builder](skills/eop-card-builder/SKILL.md) | Prepare or revise reusable cards and scenario resources from supplied material and instructor knowledge. |
+| Intake Agent | [eop-intake](skills/eop-intake/SKILL.md) | Clarify instructor goals, student preparation, and constraints; select suitable resources and develop the lesson plan. Planning is part of Intake. |
+| Assessment Designer | [eop-problem-set](skills/eop-problem-set/SKILL.md) | Develop tasks, solutions, criteria, and verification records from the accepted, reviewed plan. |
+| Material Builder | [eop-lecture-builder](skills/eop-lecture-builder/SKILL.md) | Assemble student and instructor materials around the plan and canonical assessment. |
+| Reviewer | [eop-review](skills/eop-review/SKILL.md) | Review cards, scenarios, plans, assessments, and final materials; route defects to the responsible role. |
+
+For lesson adaptation, prepare sources as needed, then use Intake to develop a plan. Reviewer checks
+the plan, and the instructor accepts the resulting revision before dependent generation. Assessment
+Designer produces the canonical assessment and its Word exports; Material Builder reuses that content
+in separate student and instructor decks. Reviewer checks the actual exported package and produces
+a coverage and assessment alignment memo. It can also review a scenario or assessment on its own,
+reporting only the checks performed. Review modes are not additional roles. After at most two revision
+rounds, report unresolved blockers under the shared policy; retain valid prior instructor acceptance.
 
 Review may revise the plan or sources; affected downstream outputs must then be rebuilt and
 rechecked. The five roles do not require five simultaneous agents. Delegate only when the host and
@@ -90,7 +88,7 @@ student attainment, institutional accreditation, or EOP endorsement.
 
 Version 4 extends the supplied version 3 demonstration specification. The inherited topic library
 originated in version 2. Coverage, author acceptance, and evidence verification remain separate.
-Sunshine source statements and synthetic arithmetic were checked in this revision; inherited
+Sunshine source statements and synthetic arithmetic were checked during v4 development; inherited
 claims have not been independently reverified. See the
 [fact register](reference/fact-register.md). A complete card can still contain unverified claims.
 See [revision notes](REVISION-NOTES.md) for changes, validation, and remaining limitations.
@@ -98,6 +96,12 @@ See [revision notes](REVISION-NOTES.md) for changes, validation, and remaining l
 Use the [card template](reference/card-template.md) to contribute. Preserve original authorship and
 identify adapters. An AI-assisted draft bearing an instructor's name is not evidence of their
 approval. Record teaching observations in their course context and allow other instructors to adapt them.
+
+For a case contribution, use the [scenario template](reference/scenario-template.md). Faculty may
+contribute scenarios as well as cards and source materials. The optional
+[faculty use record](reference/faculty-use-record.md) captures reported experience and revision needs;
+it is not a completed trial or a research instrument. See the
+[faculty workflow checks](reference/faculty-workflow-checks.md) for this documentation update's scope.
 
 ## Attribution and license
 
@@ -121,6 +125,7 @@ Example request: "Use this package to adapt my lecture for students who know rat
 not used an emissions model. Recommend a case, explain the fit, and plan supported practice."
 To choose directly, add: "Use the Sunshine Corridor case." The agent still asks for essential
 missing lecture, audience, objectives or time information rather than inventing a class.
+You can also say: "Use my supplied case instead" or "Do not use a scenario."
 
 Start with [the Sunshine case](scenario/sunshine-corridor.md), its
 [transit-emissions card](cards/transit-emissions-accounting.md), and the

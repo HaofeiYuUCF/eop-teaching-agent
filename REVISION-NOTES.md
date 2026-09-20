@@ -1,5 +1,19 @@
 # Version 5 revision notes
 
+## Faculty contribution workflow update — 2026-09-20
+
+- Clarified the five role names and that lesson planning is part of the Intake Agent.
+- Added a plain-language contribution guide, scenario template, and optional faculty use/revision record.
+- Made scenario preparation and review explicit responsibilities of the existing Card Builder and
+  Reviewer. Clarified standalone assessment review within Reviewer; no sixth role was added.
+- Retained instructor choice of an existing case, a supplied alternative, or no scenario.
+- Added a [scoped check record](reference/faculty-workflow-checks.md). These are documentation and
+  workflow-specification improvements, not completed faculty co-design, classroom evaluation, or
+  evidence of reliable autonomous execution. No new scenario or teaching package was generated.
+- Original course resources, cards, scenarios, claim statuses, and historical checks are preserved.
+
+## Original v5 delivery
+
 The supplied v4 archive is the baseline. Its README referenced REVISION-NOTES.md, but that file was
 not included in the supplied archive. This file supplies v5 notes; it does not reconstruct or certify
 the unavailable earlier history. The original v4 validation record is retained as a historical report.

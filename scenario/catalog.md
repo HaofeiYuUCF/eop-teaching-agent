@@ -30,6 +30,15 @@ selected case's detailed resources. Cases support learning objectives; they do n
 Record selected case path/revision, mode, rationale and source-date context using the
 [plan schema](../reference/blueprint-schema.md). Recommended defaults are not instructor acceptance.
 
+## Contributing another case
+
+Faculty can propose, revise, or co-develop a case using the [contribution guide](../CONTRIBUTING.md)
+and [scenario template](../reference/scenario-template.md). Card Builder prepares the resource;
+Reviewer checks its documentation and evidence limits. Add a catalog row describing its actual
+teaching fit, prerequisites, data readiness, and revision. A new case is an additional option,
+not a default replacement for an instructor's chosen case or no-case plan. The two entries above
+are the current collection; future suggestions are not completed or reviewed scenarios.
+
 ## Compatibility and changes
 
 An older plan's explicit scenario stays selected; missing selection metadata does not trigger a

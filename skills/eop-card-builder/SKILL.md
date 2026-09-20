@@ -1,12 +1,17 @@
 ---
 name: eop-card-builder
-description: Draft or revise EOP topic cards from an instructor's slides, notes, or teaching text, with source locations and contextualized classroom observations. Use for new contributions or adaptation of existing coverage.
+description: Draft or revise EOP topic cards and optional teaching scenarios from supplied materials and instructor knowledge, preserving source locations, context, and evidence limits. Use for resource contributions without requiring lesson generation.
 ---
 
 # EOP Card Builder
 
-Prepare a reviewable source card, preserving authorship while distinguishing extraction, inference,
+Prepare a reviewable topic card or scenario, preserving authorship while distinguishing extraction, inference,
 and instructor endorsement.
+
+For a scenario contribution, use the [scenario template](../../reference/scenario-template.md).
+This is a resource-preparation task within Card Builder, not a sixth role. Follow the contribution
+steps in [CONTRIBUTING.md](../../CONTRIBUTING.md); preserve a contributor's request to prepare only
+a resource. Use the relevant template rather than forcing a scenario into a topic card.
 
 ## Read and scope
 
@@ -52,7 +57,13 @@ into observed student behavior. A card may record scattered errors or an unknown
 
 ## Draft and hand off
 
-Use the template. Preserve original authors and identify adapters and AI assistance separately.
+For new or revised scenarios, preserve stable IDs, source dates, recommendation/provision credits,
+data readiness, and hypothetical inputs. Update the case catalog and route the draft to eop-review
+in scenario mode. Do not create a lesson or contact a recommending organization unless requested.
+For feedback on prior use, consult the optional [use record](../../reference/faculty-use-record.md)
+only when helpful; preserve observations separately from proposed explanations and revisions.
+
+Use the template appropriate to the requested resource. Preserve original authors and identify adapters and AI assistance separately.
 Set author acceptance to unconfirmed for new drafts until the author accepts them. Existing names and
 dates in imported cards do not establish endorsement of changes. Keep coverage and evidence separate.
 

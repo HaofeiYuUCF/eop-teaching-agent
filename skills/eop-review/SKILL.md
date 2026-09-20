@@ -1,6 +1,6 @@
 ---
 name: eop-review
-description: Review EOP lecture plans, topic cards, and exported teaching packages, check evidence and calculations, and route revisions. Use before generation for plans and after generation for materials.
+description: Review EOP lesson plans, topic cards, scenarios, assessments, and exported teaching packages; check evidence and calculations and route revisions. Use for resource review, plan review before generation, or assessment and material review.
 ---
 
 # EOP Review
@@ -14,7 +14,13 @@ Read [shared policy](../../reference/workflow-policy.md), [review rubric](../../
 and [EOP catalog](../../reference/eop-outcomes.md). In material mode include the accepted plan,
 canonical assessment, source cards/scenario, exports, and revision manifest.
 
-Choose plan, card, or material mode. If material review finds the underlying plan has not been
+Choose plan, card, scenario, assessment, or material mode. Scenario mode uses the scenario documentation
+and scenario checks in the rubric; a standalone resource review does not require a lesson plan.
+Assessment mode reviews the canonical tasks, answers, criteria, and student/instructor documents
+against the accepted, reviewed plan, using applicable material checks. Do not report assembled-slide
+or whole-package checks as completed when only the assessment was supplied. These are review scopes
+within the existing Reviewer role, not additional agents or instructor approval steps.
+If material review finds the underlying plan has not been
 reviewed at its current revision, check it first. Do not continue generation with a blocking plan defect.
 
 Judge the actual artifacts. You may inspect source and verification records, but do not treat the
@@ -39,6 +45,9 @@ Write specific defect records with stable IDs, location, evidence, target, sever
 condition for resolution. Suggestions may include a proposed correction. Route failures to their
 cause: intake, problem set, lecture assembly, or source card/fact-register maintenance through the
 card builder. Do not contact an author outside this session without authorization.
+
+Route scenario-source and documentation defects to the card builder; route scenario-choice or
+lesson-fit defects to intake. Use the same blocking criteria and evidence distinctions for both.
 
 Track at most two revision rounds as defined by shared policy. Upstream changes invalidate affected
 outputs and checks. Recheck repairs and any dependent content; retain unresolved defects in the report.

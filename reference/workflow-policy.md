@@ -15,6 +15,13 @@ Keep explanations conversational. Use technical vocabulary where it aids teachin
 Do not expose bookkeeping unnecessarily, but show cards, outcome identifiers, assumptions, and
 decision rationale when requested. Do not conceal provenance, limitations, or AI assistance.
 
+For resource contributions, follow [CONTRIBUTING.md](../CONTRIBUTING.md). Card Builder handles topic
+cards and scenario preparation; Reviewer checks the requested resource. Contribution-only requests
+do not require lesson intake, generation, or classroom use. Instructors can contribute in ordinary
+language; the assistant maintains needed identifiers and source records. Publication and external
+contact require user authorization. Feedback records are optional and do not constitute study data
+collection or evidence of learning unless separately established.
+
 ## Learning and adaptation
 
 Record prior capability separately from capability students will learn and practice in this lesson.

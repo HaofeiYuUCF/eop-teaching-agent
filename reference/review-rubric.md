@@ -89,6 +89,23 @@ were completed. Readiness does not imply educational effectiveness has been demo
 
 Errors affecting an answer, objective or real-world claim are blocking under the shared policy.
 
+## Standalone scenario documentation review
+
+Use the [scenario template](scenario-template.md) for new contributions. Review existing cases in
+their current format; missing new headings alone are not defects.
+
+- Teaching question, system boundaries, relevant cards, and intended systems relationships are clear.
+- Recommendation, source provision, authorship, adaptation, and review credits are distinguished.
+- Source locations, dates, evidence types, hypothetical inputs, and reuse limits are inspectable.
+- Data/tool requirements and usable teaching options match the available evidence; unfinished
+  calculations or missing local observations are not presented as ready model exercises.
+- The catalog describes actual coverage and limits, and the revision can be tracked into later use.
+- Review status, contributor acceptance, scientific verification, and classroom evaluation remain
+  separate. A partial case can pass documentation review without supporting every proposed use.
+
+Do not require a lesson plan or assessment to review a scenario contribution. Record the scope and
+limits of review; apply the scenario checks above to the claims and examples actually present.
+
 ## Card documentation checks
 
 - Scope, sources, locators, and assumptions are inspectable.
