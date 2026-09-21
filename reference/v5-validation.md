@@ -82,8 +82,6 @@ the package after extraction into a separate location. The [development check re
 
 The original v4 license and fact register are preserved byte-for-byte. Existing claim IDs, card IDs
 and author-acceptance fields were not changed. Related course links were appended to eight cards.
-The missing v4 revision-notes target was replaced by an explicitly labeled v5 history note rather
-than fabricated reconstruction of the earlier file.
 
 Eight source covers in folder 5128 display ENV 6128. Both labels are retained. The IoT cover includes
 a contributor contact; original attribution is preserved. PDF metadata is recorded separately from
