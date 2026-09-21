@@ -134,6 +134,10 @@ the instructor in ordinary language when presenting the plan: either delivery en
 or acceptance of the reviewed plan will be followed by the requested assessment/material generation
 and final review. Do not require the instructor to edit these fields or approve routine role changes.
 
+Include the current instructor-facing review summary with the plan, as required by shared policy,
+before any needed acceptance. Retain it with the plan-review evidence so the checked scope, completed
+repairs, remaining issues, and instructor decisions can be recovered at handoff or resumption.
+
 At handoff or interruption, record completed stages, artifact paths and revisions, actual acceptance
 and review evidence, next stage, and unresolved blockers. Use those records when resuming; missing
 fields in an older plan do not invalidate unchanged acceptance or authorize additional outputs.

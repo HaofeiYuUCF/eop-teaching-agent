@@ -159,6 +159,20 @@ below for acceptance of material changes and preservation of unchanged accepted 
 
 ### Revision and release rules
 
+Every review must include a concise instructor-facing summary identifying the reviewed artifact and
+revision, the scope and limits of the checks, changes actually completed and rechecked, unresolved
+issues, and any instructor decisions needed. Explicitly say when no issues or decisions remain within
+the checked scope; do not invent corrections or imply that unchecked content passed. Keep proposed
+repairs distinct from completed repairs. Update the summary after revisions to reflect the current
+artifact and status. The detailed defect record remains available without requiring the instructor
+to read it in full.
+
+For plan review, Intake presents this summary with the resulting plan before requesting acceptance.
+When prior acceptance remains valid, provide the summary without adding another approval step.
+Unresolved blockers must be explained with their consequences and required action; instructor
+acceptance does not clear them. Standalone reviews still end with findings unless repairs were
+authorized, and the existing revision-round and requested-scope limits still apply.
+
 Give plans, assessments, and exports stable IDs and revision numbers. Preserve acceptance of unchanged
 decisions. A material change to objectives, workload, audience assumptions, or assessment requires
 instructor acceptance of that change; routine corrections within scope do not require repeated approval.

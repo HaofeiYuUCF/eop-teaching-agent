@@ -62,7 +62,9 @@ round limit, then delivers the requested package and actual status. A standalone
 its requested findings unless repairs were also authorized; it does not launch material generation.
 
 Produce a review report with checked revisions, mode, verdicts, defects, verification evidence,
-remaining limits, and package status. A concise instructor summary can accompany the detailed record.
+remaining limits, and package status. Always provide the concise instructor-facing review summary
+required by shared policy alongside the detailed record. For plan review, return it to Intake with
+the reviewed plan revision so the instructor sees it before any needed acceptance.
 Do not report a draft or unverified package as ready.
 
 For material review, write an alignment memo (draft if release is blocked) with:
