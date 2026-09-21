@@ -33,6 +33,12 @@ technical practice may have no separate EOP mapping. Match actual cognitive dema
 in the prompt. For design or creation, specify the product and criteria. For open recommendations,
 state acceptable reasoning and alternatives rather than inventing one uniquely correct conclusion.
 
+When an accepted environmental or societal connection is an assessed objective, make the task elicit
+the relevant understanding or reasoning about that connection, and reflect it in the solution and
+scoring criteria. A technical calculation with an EOP label alone does not assess a broader claim.
+Keep unassessed contextual connections within their planned teaching role; do not add assessment
+requirements or unsupported impact claims beyond the accepted plan.
+
 Where multiple choice is selected, provide a defensible key and explain distractors. Use documented
 misconceptions when relevant; label hypothesized error paths as hypotheses. Do not claim one response
 diagnoses a student's beliefs with certainty. Avoid wording clues, implausible options, and predictable

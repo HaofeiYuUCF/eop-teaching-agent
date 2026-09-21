@@ -35,6 +35,12 @@ operating or interpreting that workflow is an objective; it is not compulsory fo
 Showing advanced material still consumes time and attention. Provide opportunities to practice the
 new skills students will be asked to demonstrate.
 
+Make each accepted environmental or societal connection explicit in student-facing explanations and
+the planned learning activity. Explain how the technical content informs the broader question, with
+its assumptions and limits; an EOP label or a decorative scenario mention is insufficient. Include
+the teaching purpose and facilitation guidance in the accompanying notes. Follow the plan's recorded
+choices, including deferred connections or a preparatory-only lesson, without forcing additional scope.
+
 Use documented misconceptions or configuration-error examples when relevant. Where the evidence is
 scattered or absent, do not force a misconception trap. Place assessment items at useful learning
 points, preserving their canonical wording and inputs. Homework/project briefs may be introduced in

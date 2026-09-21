@@ -78,6 +78,24 @@ EOP mappings are optional per objective, and there is no fixed number. Use exact
 (remember, understand, apply, analyze, evaluate, create), rather than relying only on the catalog's
 Low/Medium/High grouping. Do not equate a technical exercise with evidence of an entire broad outcome.
 
+### Connection rationale
+
+For each proposed environmental or societal connection, record a concise, readable chain:
+technical content → environmental or societal question → student activity → lesson objective.
+Explain the teaching value, supporting source locations, assumptions, and limits. Record whether
+the instructor selected, adapted, deferred, or declined it; leave unresolved choices pending rather
+than inferring acceptance. For selected connections, identify where the explanation and activity
+will appear and whether the objective is assessed, with the relevant assessment item if applicable.
+EOP identifiers supplement this explanation rather than replace it.
+
+For example, a dispersion-model lesson could connect predicted concentrations at different receptor
+locations to a monitoring-site decision, using a comparison activity to support an objective about
+interpreting model assumptions and siting trade-offs. This does not establish actual exposure or
+health effects. This example is optional, not a required topic or activity.
+
+If none is selected, record the reason and any role as technical preparation for later EOP learning.
+Follow shared policy for older accepted plans; missing fields alone do not require reapproval.
+
 ## 3. Teaching approach and sequence
 
 Record a recognizable starting question and any confirmed connections to prior knowledge, with analogy

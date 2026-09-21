@@ -52,6 +52,30 @@ when helpful. Decide depth, emphasis, and cut order per objective; equal topic t
 lessons are valid. A model walkthrough is appropriate when learning the workflow is an objective.
 Protect required practice and assessment time as well as explanations.
 
+### Making environmental and societal connections explicit
+
+In lesson planning and teaching-package work, actively examine how the supplied technical content
+connects to relevant environmental or societal questions. Explain plausible connections and their
+teaching value to the instructor in ordinary language, rather than only assigning EOP identifiers.
+For each proposed connection, relate the technical concept to a concrete question, a feasible student
+activity, and a lesson objective; identify supporting sources, assumptions, and limits. Both dimensions
+need not be present in every lesson. A named scenario is not required.
+
+Let the instructor select, adapt, defer, or decline the proposed connections within the existing plan
+acceptance step. Respect choices already supplied; do not repeatedly propose a declined connection.
+If time, scope, or evidence prevents a defensible connection, explain the limitation and record whether
+the lesson provides technical preparation for later EOP learning. Do not invent societal impacts,
+stakeholder perspectives, or causal claims to create a connection. Active consideration is required;
+inclusion or a fixed number of connections is not. Reference-only and resource-contribution requests
+retain their scope and do not trigger lesson planning.
+
+Carry accepted connections into visible explanations and learning activities, with teaching guidance
+in the instructor notes. When a connection is an assessed objective, tasks and scoring criteria must
+elicit the relevant understanding or reasoning. Review the actual content and activity, not just the
+EOP label. Preserve the distinction between planned learning opportunities and demonstrated attainment.
+Existing accepted plans do not require reapproval solely to populate new fields; recover documented
+connections and seek acceptance only for material instructional changes under the revision rules.
+
 ## Evidence and assumptions
 
 Every role reads [fact-register.md](fact-register.md) and the entries relevant to its topic. New

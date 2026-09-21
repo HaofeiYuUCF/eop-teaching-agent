@@ -37,6 +37,10 @@ Check the current plan revision before generation:
   not authorize generation; teaching-package continuation requires review and acceptance of the
   current revision. Older missing metadata alone does not invalidate established scope or acceptance.
 - Objectives name observable actions and adequate performance; EOP mappings match the actual scope.
+- Environmental or societal connections were actively considered, with a technical concept, broader
+  question, feasible activity, teaching rationale, and supporting evidence or limits. Instructor choices
+  are recorded or explicitly pending; none is inferred from silence. A justified decision to defer
+  connections or provide technical preparation is valid and does not itself block the plan.
 - Audience assumptions are supported, and new skills have instruction/practice before assessment.
 - Tools, data, setup, accessibility, and instructor support are feasible.
 - Formats and criteria can elicit evidence of each assessed objective; design/creation requires a
@@ -59,7 +63,7 @@ Check the current plan revision before generation:
 | Technical accuracy | Definitions, formulations, assumptions, units, interpretation, and applicability hold against available evidence. Unsupported essential claims are unverified blockers. |
 | Numerical validity | Reproduce quantitative answers and perform appropriate independent checks of units, cases, magnitudes, or benchmarks. Incorrect checks fail; unavailable execution or essential checks are unverified. Qualitative items are not-applicable. |
 | Assessment validity | Items elicit the claimed actions at the stated cognitive demand, with defensible criteria and alternatives. Being above the planned level is a mismatch if it exceeds support or time. |
-| EOP alignment | Claimed EOP connections trace to lesson objectives and concrete evidence opportunities. Technical items without separate EOP IDs are valid. No attainment claim without evaluated student work. |
+| EOP alignment | Accepted environmental or societal connections are explained in student-facing content and enacted in planned activities, with purpose and guidance in instructor notes. When assessed, tasks and scoring criteria elicit the claimed understanding or reasoning. Trace to objectives and specific slide/activity/item locations; labels alone are insufficient. Flag omitted accepted connections or unsupported claims using existing severity rules. Honor justified deferrals and preparatory-only lessons; technical items without separate EOP IDs remain valid. No attainment claim without evaluated student work. |
 | Provenance | Inputs, claims, adaptations, and derived conclusions trace to sources/register entries; inherited limitations and assumptions remain visible. A citation or warning alone does not establish correctness. |
 | Reasoning and decisions | Evidence and uncertainty are represented fairly; examples and rubrics allow defensible recommendations. Do not require a predetermined policy answer or fabricate balance between unsupported and supported claims. |
 | Visual and access quality | Inspect actual exported/rendered slides and documents for legibility, equations, overflow, units/legends, contrast, non-color cues, relevant text alternatives, and practical access constraints. |

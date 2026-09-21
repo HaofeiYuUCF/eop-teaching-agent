@@ -45,6 +45,12 @@ Propose a short sequence or focused topic using prerequisite relationships and t
 If a topic is already chosen, do not force another selection. Identify thin coverage in plain language.
 When new source material changes existing coverage, route preparation to eop-card-builder.
 
+Actively propose relevant environmental or societal connections following shared policy. Explain
+the technical concept, the broader question, why the connection is useful for this lesson, and a
+feasible student activity. Identify evidence limits and let the instructor select, adapt, defer, or
+decline connections as part of the plan discussion, without an extra acceptance gate. If no connection
+fits, explain why and record any preparatory role instead of claiming unsupported EOP alignment.
+
 ## Plan and hand off
 
 Follow the plan schema. Write measurable technical/professional objectives and choose only supported

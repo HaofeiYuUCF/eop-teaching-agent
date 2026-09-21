@@ -37,6 +37,11 @@ Reject actual-project emissions or health conclusions unsupported by the inputs.
 change, check that affected old inputs, geometry, solutions and review results were replaced or
 marked stale, while unchanged accepted decisions were retained.
 
+Check that plan review considered relevant environmental or societal connections and documented the
+instructor's choices or reasons for deferral. In material review, locate the accepted connections in
+actual explanations and activities, and in tasks and scoring criteria when assessed. Apply the rubric's
+EOP-alignment checks; do not accept labels alone or penalize a justified preparatory-only lesson.
+
 Use the rubric's verdicts, severity, and release rules. Execute/recalculate quantitative work and
 perform applicable independent checks. Inspect the final rendered/opened files and student/instructor
 separation. Record unavailable sources/tools as unverified with their consequences.
