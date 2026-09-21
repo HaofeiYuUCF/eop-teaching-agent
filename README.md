@@ -1,5 +1,7 @@
 # EOP Air Quality Teaching Prototype
 
+Based on the [Engineering for One Planet Framework](https://engineeringforoneplanet.org/eop-framework/).
+
 Use existing course content to develop teaching materials that make relevant environmental and
 societal connections explicit. Instructors choose the goals and resources; an AI assistant follows
 five role instructions to prepare and review the work.
@@ -176,7 +178,6 @@ source identifiers remain necessary for attribution, review, and resuming work.
 
 ## Attribution and license
 
-Based on the [Engineering for One Planet Framework](https://engineeringforoneplanet.org/eop-framework/).
 See [LICENSE.md](LICENSE.md) for the package and [imported-material rights](library/RIGHTS.md) for the
 course collection. Preserve credits and original course labels, including documented ENV 5128/6128
 differences. The package license does not automatically cover third-party teaching materials. Share
