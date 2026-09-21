@@ -18,6 +18,12 @@ These instructions have not yet been evaluated with faculty without programming 
 Reference lookup and resource contribution do not require designing or generating a lesson.
 An instructor may use a resource without contributing one, or contribute without teaching with it.
 
+For lesson adaptation, say whether you want a plan only or a complete teaching package. Intake
+records that scope. When a complete package is requested, accepting the reviewed plan leads to
+assessment design, material assembly, and final review in the same task; you need not call the
+roles individually. A plan-only request ends with the plan. If a blocker interrupts production,
+the assistant records completed work and the next stage so the task can resume.
+
 ## Materials, cards, and scenarios
 
 Source materials retain the original content and its provenance. A topic card organizes reusable

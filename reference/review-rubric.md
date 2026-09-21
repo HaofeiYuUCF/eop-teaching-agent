@@ -33,6 +33,9 @@ instructor rather than treated as an executable external contact. Preserve resol
 ## Plan review
 
 Check the current plan revision before generation:
+- Execution mode and requested outputs match the actual user request. Plan-only acceptance does
+  not authorize generation; teaching-package continuation requires review and acceptance of the
+  current revision. Older missing metadata alone does not invalidate established scope or acceptance.
 - Objectives name observable actions and adequate performance; EOP mappings match the actual scope.
 - Audience assumptions are supported, and new skills have instruction/practice before assessment.
 - Tools, data, setup, accessibility, and instructor support are feasible.

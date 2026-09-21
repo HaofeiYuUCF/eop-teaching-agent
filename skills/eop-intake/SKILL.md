@@ -22,6 +22,11 @@ when selecting connections. Existing cards do not replace newly supplied instruc
 
 ## Interview and decide
 
+Establish plan-only or teaching-package scope from the user's actual request using the shared
+policy's continuation rules. Reuse clear prior instructions; ask once only if the desired outputs
+are unclear. Record scope in the plan and explain whether work will end with the plan or continue
+to the requested teaching materials after review and acceptance.
+
 Ask in small batches, usually two or three related questions. Aim for roughly six to eight meaningful
 questions, but stop when the plan is supportable. Confirm high-impact inferences rather than asking
 for facts already supplied. Do not mechanically enforce a question count when a prerequisite or
@@ -63,6 +68,12 @@ Present the plan in readable form with its major choices and unresolved question
 review through eop-reviewer before assessment generation. Obtain instructor acceptance of the resulting
 revision unless already explicitly given; do not repeatedly ask for approval of unchanged decisions.
 Store actual acceptance and plan-review evidence. Pause dependent generation on unresolved blockers.
+
+When scope is teaching-package and the current plan is reviewed and accepted, continue directly
+with eop-assessment-designer, followed by eop-material-builder and eop-reviewer as specified in
+shared policy. The coordinating assistant executes these stages; do not merely tell the instructor
+which role to invoke next. For plan-only scope, deliver the plan and its review status and stop.
+Record the next stage and any blocker when work must pause.
 
 ## Course reference library
 

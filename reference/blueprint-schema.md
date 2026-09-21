@@ -9,6 +9,10 @@ plan_id: near-road-example
 revision: 1
 title: Interpreting near-road project impacts
 prepared_for: Instructor name or role
+execution:
+  mode: plan-only # plan-only | teaching-package; derive from the actual request
+  requested_outputs: [lecture-plan, plan-review] # replace with the requested deliverables/formats
+  request_basis: null # actual request or concise reference; never invent authorization
 framework_edition: EOP 2026, as cataloged in reference/eop-outcomes.md
 acceptance:
   status: draft  # draft | accepted | changes-pending
@@ -124,6 +128,15 @@ preference to reconcile with objectives and time, not a reason to fabricate alig
 - Known gaps, whether each blocks generation/release, and the action needed to resolve it.
 
 ## 6. Deliverables and handoff
+
+Follow the shared policy's requested-scope and continuation rules. Explain the execution mode to
+the instructor in ordinary language when presenting the plan: either delivery ends with the plan,
+or acceptance of the reviewed plan will be followed by the requested assessment/material generation
+and final review. Do not require the instructor to edit these fields or approve routine role changes.
+
+At handoff or interruption, record completed stages, artifact paths and revisions, actual acceptance
+and review evidence, next stage, and unresolved blockers. Use those records when resuming; missing
+fields in an older plan do not invalidate unchanged acceptance or authorize additional outputs.
 
 Specify requested formats, student and instructor versions, accessible alternatives as needed, and
 assessment package location. Record downstream artifact revisions and review status in the final

@@ -55,6 +55,12 @@ Escalate remaining blockers with what was tried and what is needed, without lowe
 
 ## Report and alignment memo
 
+Follow shared policy's continuation rules: plan review returns to Intake for any needed acceptance;
+an already accepted, unchanged plan in a teaching-package task proceeds to Assessment Designer.
+Material review routes in-scope repairs to the responsible role and rechecks them within the existing
+round limit, then delivers the requested package and actual status. A standalone review ends with
+its requested findings unless repairs were also authorized; it does not launch material generation.
+
 Produce a review report with checked revisions, mode, verdicts, defects, verification evidence,
 remaining limits, and package status. A concise instructor summary can accompany the detailed record.
 Do not report a draft or unverified package as ready.

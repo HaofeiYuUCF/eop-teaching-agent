@@ -1,5 +1,15 @@
 # Version 5 revision notes
 
+## Workflow continuation update — 2026-09-20
+
+Intake now records plan-only or teaching-package scope and requested outputs. A coordinating
+assistant carrying out a teaching-package request continues from the accepted, reviewed plan through
+Assessment Designer, Material Builder, and Reviewer without requiring separate role invocations.
+Plan-only and standalone requests remain limited to their actual scope. Shared instructions cover
+blockers, material changes, the existing correction limit, and resumption from recorded progress.
+Five roles remain; no scheduler or application was added. See the
+[scoped continuation checks](reference/continuation-checks.md) for verification limits.
+
 ## Role naming update — 2026-09-20
 
 Folder names, SKILL.md names, headings, and current handoff references now match the role names

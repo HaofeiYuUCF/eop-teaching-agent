@@ -20,6 +20,11 @@ dependent generation. Use available host presentation/document skills for actual
 
 ## Assemble
 
+In an authorized teaching-package workflow, assembly is followed by executing eop-reviewer in
+material mode. Do not stop after producing files or ask the instructor to invoke review. Apply
+in-scope repairs and dependent rechecks under shared policy; deliver with the resulting status.
+A standalone assembly request retains its requested scope and applicable review requirements.
+
 Start with the learning purpose and an entry point the audience understands. Theory, a project,
 an instrument, or a prior result can be appropriate according to the plan. Use previous/next-topic
 connections only where they exist. Explain confirmed analogies and their limits.

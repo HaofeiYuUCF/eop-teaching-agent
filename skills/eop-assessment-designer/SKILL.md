@@ -58,6 +58,12 @@ Render/open the documents and inspect them, or record visual review as unverifie
 package and its exact revision to the lecture builder. Report source, method, time, or assessability
 gaps to the role that can resolve them rather than silently changing the plan.
 
+For an authorized teaching-package workflow, continue into eop-material-builder once the required
+assessment content is available and has no unresolved blocking issue; do not end with a handoff
+suggestion or request another approval for this stage change. For a standalone assessment request,
+deliver the requested assessment outputs and status without generating unrequested lesson materials.
+Record completed outputs and the next stage under the shared policy's continuation rules.
+
 ## Course reference library
 
 For course-source lookup or use, read the [library guide](../../reference/library-guide.md).

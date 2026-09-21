@@ -96,6 +96,49 @@ can be explicit while empirical claims remain evidence-grounded.
 
 ## Handoffs, revisions, and release
 
+### Requested scope and continuation
+
+For lesson-planning requests, Intake records the execution mode, requested deliverables, and the
+actual user request that establishes scope in the [plan](blueprint-schema.md). Infer these from the
+conversation when clear; do not ask again for a decision already supplied.
+
+- **plan-only:** prepare and review the lesson plan, obtain acceptance when needed, and hand over
+  the plan and its review status. Do not generate assessments or teaching materials. A request only
+  to run Intake uses this mode unless the conversation already authorizes a teaching package.
+- **teaching-package:** prepare and review the plan, obtain acceptance of the resulting revision,
+  then continue through Assessment Designer, Material Builder, and Reviewer to the requested outputs.
+  Use this mode when the user requests a complete teaching package or equivalent material creation.
+  Record the actual requested formats and outputs rather than assuming every possible artifact.
+
+If the user's intended deliverables are genuinely unclear, ask one concise scope question during
+Intake. Accepting a plan alone does not expand a plan-only request into material generation. Requests
+for lookup, resource contribution, or a standalone assessment/review retain their own scope; do not
+force them into this full workflow. Explicit stop, pause, or changed-scope instructions take priority.
+
+For a teaching-package request, after both review and instructor acceptance apply to the current
+plan revision, the coordinating assistant reads and executes the next role's instructions in the
+same task. Do not end at a handoff suggestion or ask the instructor to invoke each role. Execute
+[Assessment Designer](../skills/eop-assessment-designer/SKILL.md), then
+[Material Builder](../skills/eop-material-builder/SKILL.md), then
+[Reviewer](../skills/eop-reviewer/SKILL.md) in material mode. Resolve and recheck in-scope defects under
+the existing two-round limit, then deliver the requested files with their actual review status and
+remaining limits. A plan that was accepted before review still needs review; retain acceptance of
+unchanged decisions and seek acceptance only for material changes.
+
+Continue routine in-scope corrections without another approval. Pause dependent work for unresolved
+blocking evidence/tool problems or a material change requiring an instructor decision; continue
+unaffected authorized work when possible. State the specific blocker and smallest decision or input
+needed. Host permissions still apply; this rule does not authorize external publication, contact, or
+new agents. One assistant can execute the roles sequentially; these files do not start a background
+scheduler or guarantee autonomous completion.
+
+At a pause or handoff, record the execution mode, completed stages, artifact paths/revisions,
+plan-review and acceptance evidence, next stage, and blockers in the plan's handoff section. On
+resumption, use those records and actual files, recheck changed dependencies, and continue at the
+first incomplete stage. Do not infer approval from elapsed time, recreate completed outputs merely
+because the session changed, or mark an unexecuted stage complete. If an older plan lacks execution
+metadata, recover scope from the actual request; absent evidence is not teaching-package authorization.
+
 ### Case selection and evidence continuity
 
 Use the [case catalog](../scenario/catalog.md) for recommendation with lecturer override. The

@@ -63,6 +63,24 @@ user permit it. Reviewing or installing this package does not authorize running 
 
 ## Shared rules and library
 
+### Continue after accepting a plan
+
+Intake distinguishes **plan-only** from **teaching-package** requests. For a complete teaching
+package, the coordinating assistant continues after the current plan passes review and is accepted:
+Assessment Designer creates the assessment, Material Builder assembles the materials, and Reviewer
+checks the outputs and routes needed corrections. You do not need to invoke each role separately.
+The assistant pauses dependent work for blockers or important decisions, retaining a record for resumption.
+
+For a request only to run Intake or prepare a plan, delivery ends with the plan and its review status.
+Accepting that plan does not by itself request additional materials. Say what you want at the start:
+
+- "Prepare and review a lesson plan only. Do not generate teaching materials."
+- "Develop a complete teaching package. Let me accept the reviewed plan, then continue through
+  assessment, materials, and final review without asking me to invoke each role."
+
+These are instructions for the assistant executing the workflow, not a background service. See the
+[continuation check record](reference/continuation-checks.md) for what has and has not been tested.
+
 Read [workflow-policy.md](reference/workflow-policy.md) whenever using a role. It defines shared
 assessment, evidence, precedence, and release rules. The [blueprint schema](reference/blueprint-schema.md)
 defines lesson decisions; the [review rubric](reference/review-rubric.md) defines their checks.
