@@ -14,6 +14,7 @@ execution:
   requested_outputs: [lecture-plan, plan-review] # replace with the requested deliverables/formats
   request_basis: null # actual request or concise reference; never invent authorization
 framework_edition: EOP 2026, as cataloged in reference/eop-outcomes.md
+revision_objective: null # one sentence from the instructor, recorded before any card, scenario, or suggestion is shown: what this revision should resolve
 acceptance:
   status: draft  # draft | accepted | changes-pending
   accepted_revision: null
@@ -145,7 +146,30 @@ preference to reconcile with objectives and time, not a reason to fabricate alig
 - Claim IDs, scenario assumptions, and essential source dependencies from the fact register.
 - Known gaps, whether each blocks generation/release, and the action needed to resolve it.
 
-## 6. Deliverables and handoff
+## 6. Revision record
+
+Record every suggestion the instructor receives while this plan and its materials are developed,
+whether it comes from a partner in a co-design session, from the assistant, or from a facilitator.
+Write one entry per suggestion at the time the decision is made; do not reconstruct the record later.
+
+```yaml
+revision_record:
+  - id: S-01
+    stage: plan # plan | assessment | materials
+    source: assistant # partner | assistant | facilitator
+    suggestion: Add a receptor-distance comparison before the averaging-time discussion.
+    decision: modified # adopted as given | modified | rejected
+    reason: Kept the comparison but limited it to two distances to fit the session budget.
+    serves_revision_objective: yes # yes | no | unclear
+    affects: [LO-2, P1] # objectives, items, or slides changed, if any
+```
+
+Changes the instructor introduces on their own are recorded as plan changes, not as entries here.
+Later roles append entries when they propose changes to accepted content. The record travels with the
+plan at every handoff. Reviewer checks that the record exists, that the plan reflects each recorded
+decision, and that no adopted or modified suggestion is missing from it.
+
+## 7. Deliverables and handoff
 
 Follow the shared policy's requested-scope and continuation rules. Explain the execution mode to
 the instructor in ordinary language when presenting the plan: either delivery ends with the plan,

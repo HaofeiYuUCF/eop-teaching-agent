@@ -97,4 +97,4 @@ Candidate EOP connections are deliberately unassigned until intake selects the o
 and checks the [outcome catalog](../reference/eop-outcomes.md). Evidence appraisal and defended
 boundary choices may support outcomes; multiplication alone does not establish systems feedback,
 teamwork or attainment. This card's complete teaching coverage does not establish instructor
-endorsement or classroom effectiveness. See [validation](../reference/v4-validation.md).
+endorsement or classroom effectiveness. See [validation](../records/v4-validation.md).

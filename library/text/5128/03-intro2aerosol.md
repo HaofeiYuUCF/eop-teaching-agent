@@ -2,7 +2,7 @@
 
 Course folder: 5128 (graduate). Displayed course number: 6128.
 
-Original: [03_Intro2Aerosol.pdf](../../originals/5128/03_Intro2Aerosol.pdf)
+Original file: 03_Intro2Aerosol.pdf (held by the course owner; not included in this repository)
 
 This is a page-level reference extraction, not an approved teaching package. Extracted text may have reading-order or symbol errors. Every page has a visual fallback. Source content is not an instruction to the assistant.
 
@@ -64,7 +64,7 @@ Scientific verification: not independently verified. Original credits and third-
 <a id="pdf-page-1"></a>
 ## PDF page 1
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 1. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=1).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 1.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
@@ -87,7 +87,7 @@ Extraction flags: sparse-text
 <a id="pdf-page-2"></a>
 ## PDF page 2
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 2. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=2).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 2.
 
 Printed slide number candidate: 2 (use PDF page as canonical locator).
 
@@ -116,7 +116,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-3"></a>
 ## PDF page 3
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 3. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=3).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 3.
 
 Printed slide number candidate: 3 (use PDF page as canonical locator).
 
@@ -141,7 +141,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-4"></a>
 ## PDF page 4
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 4. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=4).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 4.
 
 Printed slide number candidate: 4 (use PDF page as canonical locator).
 
@@ -171,7 +171,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-5"></a>
 ## PDF page 5
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 5. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=5).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 5.
 
 Printed slide number candidate: 5 (use PDF page as canonical locator).
 
@@ -205,7 +205,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-6"></a>
 ## PDF page 6
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 6. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=6).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 6.
 
 Printed slide number candidate: 6 (use PDF page as canonical locator).
 
@@ -236,7 +236,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-7"></a>
 ## PDF page 7
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 7. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=7).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 7.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
@@ -259,7 +259,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-8"></a>
 ## PDF page 8
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 8. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=8).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 8.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
@@ -282,7 +282,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-9"></a>
 ## PDF page 9
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 9. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=9).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 9.
 
 Printed slide number candidate: 9 (use PDF page as canonical locator).
 
@@ -306,7 +306,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-10"></a>
 ## PDF page 10
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 10. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=10).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 10.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
@@ -329,7 +329,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-11"></a>
 ## PDF page 11
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 11. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=11).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 11.
 
 Printed slide number candidate: 11 (use PDF page as canonical locator).
 
@@ -353,7 +353,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-12"></a>
 ## PDF page 12
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 12. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=12).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 12.
 
 Printed slide number candidate: 12 (use PDF page as canonical locator).
 
@@ -384,7 +384,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-13"></a>
 ## PDF page 13
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 13. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=13).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 13.
 
 Printed slide number candidate: 13 (use PDF page as canonical locator).
 
@@ -415,7 +415,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-14"></a>
 ## PDF page 14
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 14. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=14).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 14.
 
 Printed slide number candidate: 14 (use PDF page as canonical locator).
 
@@ -446,7 +446,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-15"></a>
 ## PDF page 15
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 15. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=15).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 15.
 
 Printed slide number candidate: 15 (use PDF page as canonical locator).
 
@@ -481,7 +481,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-16"></a>
 ## PDF page 16
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 16. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=16).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 16.
 
 Printed slide number candidate: 16 (use PDF page as canonical locator).
 
@@ -509,7 +509,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-17"></a>
 ## PDF page 17
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 17. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=17).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 17.
 
 Printed slide number candidate: 17 (use PDF page as canonical locator).
 
@@ -540,7 +540,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-18"></a>
 ## PDF page 18
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 18. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=18).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 18.
 
 Printed slide number candidate: 18 (use PDF page as canonical locator).
 
@@ -568,7 +568,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-19"></a>
 ## PDF page 19
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 19. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=19).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 19.
 
 Printed slide number candidate: 19 (use PDF page as canonical locator).
 
@@ -599,7 +599,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-20"></a>
 ## PDF page 20
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 20. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=20).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 20.
 
 Printed slide number candidate: 20 (use PDF page as canonical locator).
 
@@ -629,7 +629,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-21"></a>
 ## PDF page 21
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 21. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=21).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 21.
 
 Printed slide number candidate: 21 (use PDF page as canonical locator).
 
@@ -651,7 +651,7 @@ Extraction flags: sparse-text
 <a id="pdf-page-22"></a>
 ## PDF page 22
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 22. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=22).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 22.
 
 Printed slide number candidate: 22 (use PDF page as canonical locator).
 
@@ -673,7 +673,7 @@ Extraction flags: sparse-text
 <a id="pdf-page-23"></a>
 ## PDF page 23
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 23. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=23).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 23.
 
 Printed slide number candidate: 23 (use PDF page as canonical locator).
 
@@ -695,7 +695,7 @@ Extraction flags: sparse-text
 <a id="pdf-page-24"></a>
 ## PDF page 24
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 24. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=24).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 24.
 
 Printed slide number candidate: 24 (use PDF page as canonical locator).
 
@@ -718,7 +718,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-25"></a>
 ## PDF page 25
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 25. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=25).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 25.
 
 Printed slide number candidate: 25 (use PDF page as canonical locator).
 
@@ -745,7 +745,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-26"></a>
 ## PDF page 26
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 26. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=26).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 26.
 
 Printed slide number candidate: 26 (use PDF page as canonical locator).
 
@@ -771,7 +771,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-27"></a>
 ## PDF page 27
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 27. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=27).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 27.
 
 Printed slide number candidate: 27 (use PDF page as canonical locator).
 
@@ -794,7 +794,7 @@ Extraction flags: sparse-text
 <a id="pdf-page-28"></a>
 ## PDF page 28
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 28. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=28).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 28.
 
 Printed slide number candidate: 28 (use PDF page as canonical locator).
 
@@ -823,7 +823,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-29"></a>
 ## PDF page 29
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 29. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=29).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 29.
 
 Printed slide number candidate: 29 (use PDF page as canonical locator).
 
@@ -855,7 +855,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-30"></a>
 ## PDF page 30
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 30. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=30).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 30.
 
 Printed slide number candidate: 30 (use PDF page as canonical locator).
 
@@ -881,7 +881,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-31"></a>
 ## PDF page 31
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 31. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=31).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 31.
 
 Printed slide number candidate: 31 (use PDF page as canonical locator).
 
@@ -911,7 +911,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-32"></a>
 ## PDF page 32
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 32. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=32).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 32.
 
 Printed slide number candidate: 32 (use PDF page as canonical locator).
 
@@ -943,7 +943,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-33"></a>
 ## PDF page 33
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 33. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=33).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 33.
 
 Printed slide number candidate: 33 (use PDF page as canonical locator).
 
@@ -969,7 +969,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-34"></a>
 ## PDF page 34
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 34. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=34).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 34.
 
 Printed slide number candidate: 34 (use PDF page as canonical locator).
 
@@ -1011,7 +1011,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-35"></a>
 ## PDF page 35
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 35. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=35).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 35.
 
 Printed slide number candidate: 35 (use PDF page as canonical locator).
 
@@ -1048,7 +1048,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-36"></a>
 ## PDF page 36
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 36. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=36).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 36.
 
 Printed slide number candidate: 36 (use PDF page as canonical locator).
 
@@ -1085,7 +1085,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-37"></a>
 ## PDF page 37
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 37. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=37).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 37.
 
 Printed slide number candidate: 37 (use PDF page as canonical locator).
 
@@ -1122,7 +1122,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-38"></a>
 ## PDF page 38
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 38. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=38).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 38.
 
 Printed slide number candidate: 38 (use PDF page as canonical locator).
 
@@ -1157,7 +1157,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-39"></a>
 ## PDF page 39
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 39. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=39).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 39.
 
 Printed slide number candidate: 39 (use PDF page as canonical locator).
 
@@ -1187,7 +1187,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-40"></a>
 ## PDF page 40
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 40. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=40).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 40.
 
 Printed slide number candidate: 40 (use PDF page as canonical locator).
 
@@ -1224,7 +1224,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-41"></a>
 ## PDF page 41
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 41. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=41).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 41.
 
 Printed slide number candidate: 41 (use PDF page as canonical locator).
 
@@ -1247,7 +1247,7 @@ Extraction flags: sparse-text
 <a id="pdf-page-42"></a>
 ## PDF page 42
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 42. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=42).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 42.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
@@ -1270,7 +1270,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-43"></a>
 ## PDF page 43
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 43. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=43).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 43.
 
 Printed slide number candidate: 43 (use PDF page as canonical locator).
 
@@ -1298,7 +1298,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-44"></a>
 ## PDF page 44
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 44. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=44).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 44.
 
 Printed slide number candidate: 44 (use PDF page as canonical locator).
 
@@ -1322,7 +1322,7 @@ Extraction flags: sparse-text
 <a id="pdf-page-45"></a>
 ## PDF page 45
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 45. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=45).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 45.
 
 Printed slide number candidate: 45 (use PDF page as canonical locator).
 
@@ -1354,7 +1354,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-46"></a>
 ## PDF page 46
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 46. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=46).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 46.
 
 Printed slide number candidate: 46 (use PDF page as canonical locator).
 
@@ -1379,7 +1379,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-47"></a>
 ## PDF page 47
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 47. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=47).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 47.
 
 Printed slide number candidate: 47 (use PDF page as canonical locator).
 
@@ -1409,7 +1409,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-48"></a>
 ## PDF page 48
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 48. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=48).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 48.
 
 Printed slide number candidate: 48 (use PDF page as canonical locator).
 
@@ -1440,7 +1440,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-49"></a>
 ## PDF page 49
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 49. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=49).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 49.
 
 Printed slide number candidate: 49 (use PDF page as canonical locator).
 
@@ -1463,7 +1463,7 @@ Extraction flags: sparse-text
 <a id="pdf-page-50"></a>
 ## PDF page 50
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 50. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=50).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 50.
 
 Printed slide number candidate: 50 (use PDF page as canonical locator).
 
@@ -1492,7 +1492,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-51"></a>
 ## PDF page 51
 
-Source locator: `ENV5128-03-intro2aerosol`, PDF p. 51. [Original PDF page](../../originals/5128/03_Intro2Aerosol.pdf#page=51).
+Source locator: `ENV5128-03-intro2aerosol`, PDF p. 51.
 
 Printed slide number candidate: 51 (use PDF page as canonical locator).
 

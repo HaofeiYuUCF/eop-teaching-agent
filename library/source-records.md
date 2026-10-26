@@ -12,7 +12,7 @@ File fingerprints below allow future maintainers to identify the exact imported 
 
 
 ## ENV4120-02-airpollutionintroduction
-[Read reference](text/4120/02-airpollutionintroduction.md) · [Original PDF](originals/4120/02_AirPollutionIntroduction.pdf)
+[Read reference](text/4120/02-airpollutionintroduction.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV4120-02-airpollutionintroduction |
@@ -48,7 +48,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV4120-03-airpolltuionsource
-[Read reference](text/4120/03-airpolltuionsource.md) · [Original PDF](originals/4120/03_AirPolltuionSource.pdf)
+[Read reference](text/4120/03-airpolltuionsource.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV4120-03-airpolltuionsource |
@@ -84,7 +84,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV4120-04-transport-effects
-[Read reference](text/4120/04-transport-effects.md) · [Original PDF](originals/4120/04_Transport%26Effects.pdf)
+[Read reference](text/4120/04-transport-effects.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV4120-04-transport-effects |
@@ -120,7 +120,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV4120-05-troposphericozone
-[Read reference](text/4120/05-troposphericozone.md) · [Original PDF](originals/4120/05_TroposphericOzone.pdf)
+[Read reference](text/4120/05-troposphericozone.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV4120-05-troposphericozone |
@@ -156,7 +156,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV4120-06-atmospheric-pm
-[Read reference](text/4120/06-atmospheric-pm.md) · [Original PDF](originals/4120/06_Atmospheric%20PM.pdf)
+[Read reference](text/4120/06-atmospheric-pm.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV4120-06-atmospheric-pm |
@@ -192,7 +192,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV4120-07-aciddeposition-antarcticozonehole
-[Read reference](text/4120/07-aciddeposition-antarcticozonehole.md) · [Original PDF](originals/4120/07_AcidDeposition%26AntarcticOzoneHole.pdf)
+[Read reference](text/4120/07-aciddeposition-antarcticozonehole.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV4120-07-aciddeposition-antarcticozonehole |
@@ -228,7 +228,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV4120-08-climatechange-101
-[Read reference](text/4120/08-climatechange-101.md) · [Original PDF](originals/4120/08_ClimateChange_101.pdf)
+[Read reference](text/4120/08-climatechange-101.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV4120-08-climatechange-101 |
@@ -264,7 +264,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV4120-09-airpollution-meteorology
-[Read reference](text/4120/09-airpollution-meteorology.md) · [Original PDF](originals/4120/09_AirPollution%26Meteorology.pdf)
+[Read reference](text/4120/09-airpollution-meteorology.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV4120-09-airpollution-meteorology |
@@ -300,7 +300,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV4120-10-gaussiandispersionmodel
-[Read reference](text/4120/10-gaussiandispersionmodel.md) · [Original PDF](originals/4120/10_GaussianDispersionModel.pdf)
+[Read reference](text/4120/10-gaussiandispersionmodel.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV4120-10-gaussiandispersionmodel |
@@ -336,7 +336,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV4120-11-introductiontoairqualitymodel
-[Read reference](text/4120/11-introductiontoairqualitymodel.md) · [Original PDF](originals/4120/11_IntroductionToAirQualityModel.pdf)
+[Read reference](text/4120/11-introductiontoairqualitymodel.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV4120-11-introductiontoairqualitymodel |
@@ -372,7 +372,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV5128-01-airpollutionbasics-1
-[Read reference](text/5128/01-airpollutionbasics-1.md) · [Original PDF](originals/5128/01_AirPollutionBasics_1.pdf)
+[Read reference](text/5128/01-airpollutionbasics-1.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV5128-01-airpollutionbasics-1 |
@@ -408,7 +408,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV5128-01-airpollutionbasics-2
-[Read reference](text/5128/01-airpollutionbasics-2.md) · [Original PDF](originals/5128/01_AirPollutionBasics_2.pdf)
+[Read reference](text/5128/01-airpollutionbasics-2.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV5128-01-airpollutionbasics-2 |
@@ -444,7 +444,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV5128-01-airpollutionbasics-3
-[Read reference](text/5128/01-airpollutionbasics-3.md) · [Original PDF](originals/5128/01_AirPollutionBasics_3.pdf)
+[Read reference](text/5128/01-airpollutionbasics-3.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV5128-01-airpollutionbasics-3 |
@@ -480,7 +480,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV5128-02-monitoringnetwork
-[Read reference](text/5128/02-monitoringnetwork.md) · [Original PDF](originals/5128/02_MonitoringNetwork.pdf)
+[Read reference](text/5128/02-monitoringnetwork.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV5128-02-monitoringnetwork |
@@ -516,7 +516,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV5128-03-intro2aerosol
-[Read reference](text/5128/03-intro2aerosol.md) · [Original PDF](originals/5128/03_Intro2Aerosol.pdf)
+[Read reference](text/5128/03-intro2aerosol.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV5128-03-intro2aerosol |
@@ -552,7 +552,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV5128-04-aerosolmeasurement-1
-[Read reference](text/5128/04-aerosolmeasurement-1.md) · [Original PDF](originals/5128/04_AerosolMeasurement_1.pdf)
+[Read reference](text/5128/04-aerosolmeasurement-1.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV5128-04-aerosolmeasurement-1 |
@@ -589,7 +589,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV5128-05-aerosolmeasurement-2
-[Read reference](text/5128/05-aerosolmeasurement-2.md) · [Original PDF](originals/5128/05_AerosolMeasurement_2.pdf)
+[Read reference](text/5128/05-aerosolmeasurement-2.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV5128-05-aerosolmeasurement-2 |
@@ -626,7 +626,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV5128-06-aerosolmeasurement-3
-[Read reference](text/5128/06-aerosolmeasurement-3.md) · [Original PDF](originals/5128/06_AerosolMeasurement_3.pdf)
+[Read reference](text/5128/06-aerosolmeasurement-3.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV5128-06-aerosolmeasurement-3 |
@@ -663,7 +663,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV5128-07-ambient-gas-measurement
-[Read reference](text/5128/07-ambient-gas-measurement.md) · [Original PDF](originals/5128/07_Ambient%20gas%20measurement.pdf)
+[Read reference](text/5128/07-ambient-gas-measurement.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV5128-07-ambient-gas-measurement |
@@ -699,7 +699,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV5128-08-visability
-[Read reference](text/5128/08-visability.md) · [Original PDF](originals/5128/08_Visability.pdf)
+[Read reference](text/5128/08-visability.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV5128-08-visability |
@@ -735,7 +735,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV5128-env-6128-iot-in-air-quality-monitoring-10222024
-[Read reference](text/5128/env-6128-iot-in-air-quality-monitoring-10222024.md) · [Original PDF](originals/5128/ENV_6128_IoT_in_Air_Quality_Monitoring_10222024.pdf)
+[Read reference](text/5128/env-6128-iot-in-air-quality-monitoring-10222024.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV5128-env-6128-iot-in-air-quality-monitoring-10222024 |
@@ -774,7 +774,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV6106-01-introduction
-[Read reference](text/6106/01-introduction.md) · [Original PDF](originals/6106/01_Introduction.pdf)
+[Read reference](text/6106/01-introduction.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV6106-01-introduction |
@@ -810,7 +810,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV6106-02-meteorology
-[Read reference](text/6106/02-meteorology.md) · [Original PDF](originals/6106/02_Meteorology.pdf)
+[Read reference](text/6106/02-meteorology.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV6106-02-meteorology |
@@ -846,7 +846,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV6106-03-gaussian-model
-[Read reference](text/6106/03-gaussian-model.md) · [Original PDF](originals/6106/03_Gaussian_Model.pdf)
+[Read reference](text/6106/03-gaussian-model.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV6106-03-gaussian-model |
@@ -882,7 +882,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV6106-04-plume-rise-downwash
-[Read reference](text/6106/04-plume-rise-downwash.md) · [Original PDF](originals/6106/04_Plume_Rise_Downwash.pdf)
+[Read reference](text/6106/04-plume-rise-downwash.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV6106-04-plume-rise-downwash |
@@ -918,7 +918,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV6106-05-air-quality-model-overview
-[Read reference](text/6106/05-air-quality-model-overview.md) · [Original PDF](originals/6106/05_Air_Quality_Model_Overview.pdf)
+[Read reference](text/6106/05-air-quality-model-overview.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV6106-05-air-quality-model-overview |
@@ -954,7 +954,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV6106-06-model-intro
-[Read reference](text/6106/06-model-intro.md) · [Original PDF](originals/6106/06_Model_Intro.pdf)
+[Read reference](text/6106/06-model-intro.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV6106-06-model-intro |
@@ -990,7 +990,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV6106-07-mobile-source-overview
-[Read reference](text/6106/07-mobile-source-overview.md) · [Original PDF](originals/6106/07_Mobile_Source_Overview.pdf)
+[Read reference](text/6106/07-mobile-source-overview.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV6106-07-mobile-source-overview |
@@ -1026,7 +1026,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV6106-09-co-categorical-finding
-[Read reference](text/6106/09-co-categorical-finding.md) · [Original PDF](originals/6106/09_CO%20Categorical%20Finding.pdf)
+[Read reference](text/6106/09-co-categorical-finding.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV6106-09-co-categorical-finding |
@@ -1062,7 +1062,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV6106-10-cal3qhc
-[Read reference](text/6106/10-cal3qhc.md) · [Original PDF](originals/6106/10_CAL3QHC.pdf)
+[Read reference](text/6106/10-cal3qhc.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV6106-10-cal3qhc |
@@ -1098,7 +1098,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV6106-11-project-level-demo
-[Read reference](text/6106/11-project-level-demo.md) · [Original PDF](originals/6106/11_Project_level_demo.pdf)
+[Read reference](text/6106/11-project-level-demo.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV6106-11-project-level-demo |
@@ -1134,7 +1134,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV6106-12-aerscreen
-[Read reference](text/6106/12-aerscreen.md) · [Original PDF](originals/6106/12_AERSCREEN.pdf)
+[Read reference](text/6106/12-aerscreen.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV6106-12-aerscreen |
@@ -1170,7 +1170,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV6106-13-aermet-overview
-[Read reference](text/6106/13-aermet-overview.md) · [Original PDF](originals/6106/13_AERMET_Overview.pdf)
+[Read reference](text/6106/13-aermet-overview.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV6106-13-aermet-overview |
@@ -1206,7 +1206,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV6106-14-aerminute
-[Read reference](text/6106/14-aerminute.md) · [Original PDF](originals/6106/14_AERMINUTE.pdf)
+[Read reference](text/6106/14-aerminute.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV6106-14-aerminute |
@@ -1242,7 +1242,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV6106-15-aersurface
-[Read reference](text/6106/15-aersurface.md) · [Original PDF](originals/6106/15_AERSURFACE.pdf)
+[Read reference](text/6106/15-aersurface.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV6106-15-aersurface |
@@ -1278,7 +1278,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV6106-16-aermap
-[Read reference](text/6106/16-aermap.md) · [Original PDF](originals/6106/16_AERMAP.pdf)
+[Read reference](text/6106/16-aermap.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV6106-16-aermap |
@@ -1314,7 +1314,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV6106-17-bpipprm
-[Read reference](text/6106/17-bpipprm.md) · [Original PDF](originals/6106/17_BPIPPRM.pdf)
+[Read reference](text/6106/17-bpipprm.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV6106-17-bpipprm |
@@ -1350,7 +1350,7 @@ These are file metadata fields, not independently confirmed author or creation i
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
 ## ENV6106-18-aermod
-[Read reference](text/6106/18-aermod.md) · [Original PDF](originals/6106/18_AERMOD.pdf)
+[Read reference](text/6106/18-aermod.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
 | Source ID | ENV6106-18-aermod |

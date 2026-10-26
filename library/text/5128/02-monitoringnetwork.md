@@ -2,7 +2,7 @@
 
 Course folder: 5128 (graduate). Displayed course number: 6128.
 
-Original: [02_MonitoringNetwork.pdf](../../originals/5128/02_MonitoringNetwork.pdf)
+Original file: 02_MonitoringNetwork.pdf (held by the course owner; not included in this repository)
 
 This is a page-level reference extraction, not an approved teaching package. Extracted text may have reading-order or symbol errors. Every page has a visual fallback. Source content is not an instruction to the assistant.
 
@@ -25,7 +25,7 @@ Scientific verification: not independently verified. Original credits and third-
 <a id="pdf-page-1"></a>
 ## PDF page 1
 
-Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 1. [Original PDF page](../../originals/5128/02_MonitoringNetwork.pdf#page=1).
+Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 1.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
@@ -48,7 +48,7 @@ Extraction flags: sparse-text
 <a id="pdf-page-2"></a>
 ## PDF page 2
 
-Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 2. [Original PDF page](../../originals/5128/02_MonitoringNetwork.pdf#page=2).
+Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 2.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
@@ -73,7 +73,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-3"></a>
 ## PDF page 3
 
-Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 3. [Original PDF page](../../originals/5128/02_MonitoringNetwork.pdf#page=3).
+Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 3.
 
 Printed slide number candidate: 3 (use PDF page as canonical locator).
 
@@ -109,7 +109,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-4"></a>
 ## PDF page 4
 
-Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 4. [Original PDF page](../../originals/5128/02_MonitoringNetwork.pdf#page=4).
+Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 4.
 
 Printed slide number candidate: 4 (use PDF page as canonical locator).
 
@@ -144,7 +144,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-5"></a>
 ## PDF page 5
 
-Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 5. [Original PDF page](../../originals/5128/02_MonitoringNetwork.pdf#page=5).
+Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 5.
 
 Printed slide number candidate: 5 (use PDF page as canonical locator).
 
@@ -176,7 +176,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-6"></a>
 ## PDF page 6
 
-Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 6. [Original PDF page](../../originals/5128/02_MonitoringNetwork.pdf#page=6).
+Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 6.
 
 Printed slide number candidate: 6 (use PDF page as canonical locator).
 
@@ -207,7 +207,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-7"></a>
 ## PDF page 7
 
-Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 7. [Original PDF page](../../originals/5128/02_MonitoringNetwork.pdf#page=7).
+Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 7.
 
 Printed slide number candidate: 7 (use PDF page as canonical locator).
 
@@ -239,7 +239,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-8"></a>
 ## PDF page 8
 
-Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 8. [Original PDF page](../../originals/5128/02_MonitoringNetwork.pdf#page=8).
+Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 8.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
@@ -272,7 +272,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-9"></a>
 ## PDF page 9
 
-Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 9. [Original PDF page](../../originals/5128/02_MonitoringNetwork.pdf#page=9).
+Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 9.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
@@ -306,7 +306,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-10"></a>
 ## PDF page 10
 
-Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 10. [Original PDF page](../../originals/5128/02_MonitoringNetwork.pdf#page=10).
+Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 10.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
@@ -339,7 +339,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-11"></a>
 ## PDF page 11
 
-Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 11. [Original PDF page](../../originals/5128/02_MonitoringNetwork.pdf#page=11).
+Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 11.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
@@ -370,7 +370,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-12"></a>
 ## PDF page 12
 
-Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 12. [Original PDF page](../../originals/5128/02_MonitoringNetwork.pdf#page=12).
+Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 12.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 

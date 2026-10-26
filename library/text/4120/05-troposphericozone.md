@@ -2,7 +2,7 @@
 
 Course folder: 4120 (undergraduate). Displayed course number: 4120.
 
-Original: [05_TroposphericOzone.pdf](../../originals/4120/05_TroposphericOzone.pdf)
+Original file: 05_TroposphericOzone.pdf (held by the course owner; not included in this repository)
 
 This is a page-level reference extraction, not an approved teaching package. Extracted text may have reading-order or symbol errors. Every page has a visual fallback. Source content is not an instruction to the assistant.
 
@@ -39,7 +39,7 @@ Scientific verification: not independently verified. Original credits and third-
 <a id="pdf-page-1"></a>
 ## PDF page 1
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 1. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=1).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 1.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
@@ -62,7 +62,7 @@ Extraction flags: sparse-text
 <a id="pdf-page-2"></a>
 ## PDF page 2
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 2. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=2).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 2.
 
 Printed slide number candidate: 2 (use PDF page as canonical locator).
 
@@ -91,7 +91,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-3"></a>
 ## PDF page 3
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 3. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=3).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 3.
 
 Printed slide number candidate: 3 (use PDF page as canonical locator).
 
@@ -113,7 +113,7 @@ Extraction flags: sparse-text
 <a id="pdf-page-4"></a>
 ## PDF page 4
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 4. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=4).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 4.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
@@ -136,7 +136,7 @@ Extraction flags: sparse-text
 <a id="pdf-page-5"></a>
 ## PDF page 5
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 5. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=5).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 5.
 
 Printed slide number candidate: 5 (use PDF page as canonical locator).
 
@@ -166,7 +166,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-6"></a>
 ## PDF page 6
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 6. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=6).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 6.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
@@ -197,7 +197,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-7"></a>
 ## PDF page 7
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 7. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=7).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 7.
 
 Printed slide number candidate: 7 (use PDF page as canonical locator).
 
@@ -231,7 +231,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-8"></a>
 ## PDF page 8
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 8. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=8).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 8.
 
 Printed slide number candidate: 8 (use PDF page as canonical locator).
 
@@ -284,7 +284,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-9"></a>
 ## PDF page 9
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 9. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=9).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 9.
 
 Printed slide number candidate: 9 (use PDF page as canonical locator).
 
@@ -318,7 +318,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-10"></a>
 ## PDF page 10
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 10. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=10).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 10.
 
 Printed slide number candidate: 10 (use PDF page as canonical locator).
 
@@ -356,7 +356,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-11"></a>
 ## PDF page 11
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 11. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=11).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 11.
 
 Printed slide number candidate: 11 (use PDF page as canonical locator).
 
@@ -395,7 +395,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-12"></a>
 ## PDF page 12
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 12. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=12).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 12.
 
 Printed slide number candidate: 12 (use PDF page as canonical locator).
 
@@ -435,7 +435,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-13"></a>
 ## PDF page 13
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 13. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=13).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 13.
 
 Printed slide number candidate: 13 (use PDF page as canonical locator).
 
@@ -465,7 +465,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-14"></a>
 ## PDF page 14
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 14. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=14).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 14.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
@@ -500,7 +500,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-15"></a>
 ## PDF page 15
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 15. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=15).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 15.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
@@ -528,7 +528,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-16"></a>
 ## PDF page 16
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 16. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=16).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 16.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
@@ -566,7 +566,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-17"></a>
 ## PDF page 17
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 17. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=17).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 17.
 
 Printed slide number candidate: 17 (use PDF page as canonical locator).
 
@@ -616,7 +616,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-18"></a>
 ## PDF page 18
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 18. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=18).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 18.
 
 Printed slide number candidate: 18 (use PDF page as canonical locator).
 
@@ -656,7 +656,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-19"></a>
 ## PDF page 19
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 19. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=19).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 19.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
@@ -690,7 +690,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-20"></a>
 ## PDF page 20
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 20. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=20).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 20.
 
 Printed slide number candidate: 20 (use PDF page as canonical locator).
 
@@ -722,7 +722,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-21"></a>
 ## PDF page 21
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 21. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=21).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 21.
 
 Printed slide number candidate: 21 (use PDF page as canonical locator).
 
@@ -745,7 +745,7 @@ Extraction flags: sparse-text
 <a id="pdf-page-22"></a>
 ## PDF page 22
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 22. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=22).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 22.
 
 Printed slide number candidate: 22 (use PDF page as canonical locator).
 
@@ -775,7 +775,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-23"></a>
 ## PDF page 23
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 23. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=23).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 23.
 
 Printed slide number candidate: 23 (use PDF page as canonical locator).
 
@@ -807,7 +807,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-24"></a>
 ## PDF page 24
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 24. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=24).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 24.
 
 Printed slide number candidate: 24 (use PDF page as canonical locator).
 
@@ -836,7 +836,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-25"></a>
 ## PDF page 25
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 25. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=25).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 25.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
@@ -867,7 +867,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 <a id="pdf-page-26"></a>
 ## PDF page 26
 
-Source locator: `ENV4120-05-troposphericozone`, PDF p. 26. [Original PDF page](../../originals/4120/05_TroposphericOzone.pdf#page=26).
+Source locator: `ENV4120-05-troposphericozone`, PDF p. 26.
 
 Printed slide number candidate: 26 (use PDF page as canonical locator).
 

@@ -13,6 +13,8 @@ the assistant may use code and document tools to generate files and check calcul
 
 ## Start here
 
+Instructors: the [instructor guide](INSTRUCTOR_GUIDE.md) is the short version of everything below.
+
 1. On GitHub, choose **Code → Download ZIP** and extract the complete folder. Keep the subfolders
    together so that links and shared references remain accessible.
 2. Choose an AI tool below and give it access to the folder or relevant files.
@@ -145,7 +147,7 @@ is required.
 
 ## Resources and outputs
 
-- [Course library](library/index.md): 38 PDFs and 1,050 pages from ENV 4120, ENV 5128, and ENV 6106.
+- [Course library](library/index.md): 38 lectures and 1,050 pages from ENV 4120, ENV 6128 (formerly 5128), and ENV 6106, as page text and page images.
 - [Topic index](library/topics.md), [card source map](reference/course-card-map.md), and
   [library guide](reference/library-guide.md): find and cite relevant pages, including visual content.
 - [Scenario catalog](scenario/catalog.md): hypothetical I-4/SR 408 and Sunshine Corridor. Either case,
@@ -168,9 +170,9 @@ reliability. Source ingestion does not verify every claim, and instructor accept
 evidence checks. The alignment memo describes intended coverage and assessment opportunities, not
 demonstrated learning, accreditation, or EOP endorsement.
 
-The [course-library checks](reference/v5-validation.md), [scenario checks](reference/v4-validation.md),
-[development records](reference/development-check-records.md), [faculty workflow checks](reference/faculty-workflow-checks.md),
-and [continuation checks](reference/continuation-checks.md) describe their actual scope and limits.
+The [course-library checks](records/v5-validation.md), [scenario checks](records/v4-validation.md),
+[development records](records/development-check-records.md), [faculty workflow checks](records/faculty-workflow-checks.md),
+and [continuation checks](records/continuation-checks.md) describe their actual scope and limits.
 These are retained evidence records, not new tests of every current instruction or platform.
 Consult the [fact register](reference/fact-register.md) for claim status. Resource revisions and
 source identifiers remain necessary for attribution, review, and resuming work.

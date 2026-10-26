@@ -163,6 +163,20 @@ first incomplete stage. Do not infer approval from elapsed time, recreate comple
 because the session changed, or mark an unexecuted stage complete. If an older plan lacks execution
 metadata, recover scope from the actual request; absent evidence is not teaching-package authorization.
 
+### Revision objective and revision record
+
+Before any card, scenario, or suggestion is shown, Intake records one sentence from the instructor
+stating what the revision should resolve. Every suggestion the instructor then receives, from a
+partner, the assistant, or a facilitator, is entered in the plan's revision record with the
+instructor's decision (adopted as given, modified, or rejected) and reason, at the time of the
+decision. Every role that proposes a change appends to the record. The record describes what
+happened to each suggestion; it does not rank the instructor's judgment, and adopting a suggestion
+unchanged after considering it is a legitimate decision. Reviewer checks the record with the plan.
+
+When an exercise uses a labeled stipulated value in place of a real-world value that remains
+unverified, the plan can pass review; the unverified claim stays recorded as unverified and becomes
+blocking only for material that presents the real-world value as current.
+
 ### Case selection and evidence continuity
 
 Use the [case catalog](../scenario/catalog.md) for recommendation with lecturer override. The
@@ -202,6 +216,11 @@ decisions. A material change to objectives, workload, audience assumptions, or a
 instructor acceptance of that change; routine corrections within scope do not require repeated approval.
 Record which upstream revision each output uses. After upstream changes, mark affected outputs and
 review results stale, rebuild them, and recheck the affected areas and final package consistency.
+
+Where the host can run a separate assistant with a fresh context, Reviewer runs there and receives
+only the artifacts under review, this policy, the rubric, the fact register, and the sources, not
+the conversation that produced the artifacts. The review report states whether it was produced in a
+fresh context or in the same one.
 
 Plan review precedes generation. Material review follows assembly. Each defect has a target, evidence,
 severity, and acceptance criterion. Reviewers may recommend fixes but must recheck repaired artifacts.

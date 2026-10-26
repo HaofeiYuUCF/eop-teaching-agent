@@ -50,6 +50,9 @@ When the plan will overrun, use its cut order. If necessary cuts remove objectiv
 the required plan change instead of silently compressing essential practice. Close with a synthesis,
 exit task, next-topic connection, or combination that serves the objectives.
 
+When you propose a change to the accepted plan's content, add it to the plan's revision record
+(schema section 6) with the instructor's decision and reason before acting on it.
+
 ## Notes and provenance
 
 Carry the selected case path/revision and source-date context from the plan into the handoff.

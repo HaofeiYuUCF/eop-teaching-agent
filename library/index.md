@@ -1,8 +1,8 @@
 # Course reference library
 
-38 supplied course PDFs; 1,050 PDF pages. Navigation descriptions are generated, not instructor-approved learning objectives.
+38 course lectures, 1,050 pages, as page text and page images. The original PDF files are held by the course owner and are not included; PDF page numbers remain the citation unit. Navigation descriptions are generated, not instructor-approved learning objectives.
 
-Start with the [library guide](../reference/library-guide.md), [topic index](topics.md), or a course below. Original PDF files are preserved unchanged.
+Start with the [library guide](../reference/library-guide.md), [topic index](topics.md), or a course below. Page text and page images are preserved unchanged.
 
 The [source records](source-records.md) distinguish course folder labels, displayed numbers, visible attribution, PDF metadata, and scientific verification status. PDF author metadata is not proof of authorship.
 
@@ -23,7 +23,7 @@ Air Pollution and Hazardous Waste Control. 10 documents, 280 pages.
 | ENV4120-10-gaussiandispersionmodel | [10_GaussianDispersionModel.pdf](text/4120/10-gaussiandispersionmodel.md) | 23 | 4120 |
 | ENV4120-11-introductiontoairqualitymodel | [11_IntroductionToAirQualityModel.pdf](text/4120/11-introductiontoairqualitymodel.md) | 37 | 4120 |
 
-## ENV 5128
+## ENV 6128 (formerly ENV 5128; folder and identifiers keep 5128)
 
 Smart Air Quality Monitoring and Air Pollution Control. 11 documents, 415 pages.
 

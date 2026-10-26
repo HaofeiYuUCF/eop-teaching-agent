@@ -2,3 +2,7 @@ __pycache__/
 *.py[cod]
 .DS_Store
 Thumbs.db
+
+# generated plans and packages; commit exemplars deliberately
+outputs/*
+!outputs/README.md

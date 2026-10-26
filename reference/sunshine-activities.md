@@ -95,7 +95,7 @@ fixed service, omitted lifecycle sources, or no concentration/exposure inference
 units and a clearly defined opposite sign convention. Give method credit after an arithmetic error.
 
 Claim dependencies: SC-HYP-01 and SC-DER-01. Recheck the worked calculations above with a
-calculator or spreadsheet; historical checks are recorded in [validation record](v4-validation.md).
+calculator or spreadsheet; historical checks are recorded in [validation record](../records/v4-validation.md).
 This file is instructor-only when assembling a student package.
 
 ## SC-P3: When does the sign change?
@@ -144,5 +144,5 @@ for exposure. Accept different defensible project recommendations supported by t
 Do not infer improved health, current ridership, actual propulsion or an observed project outcome.
 
 Dependencies and computation checks: SC-HYP-01, SC-DER-01 and
-[verification record](v4-validation.md). No EOP outcome is automatically assigned; intake maps
+[verification record](../records/v4-validation.md). No EOP outcome is automatically assigned; intake maps
 the selected observable work to verified framework wording when preparing the actual lesson.

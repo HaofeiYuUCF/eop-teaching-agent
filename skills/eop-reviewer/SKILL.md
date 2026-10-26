@@ -37,6 +37,10 @@ Reject actual-project emissions or health conclusions unsupported by the inputs.
 change, check that affected old inputs, geometry, solutions and review results were replaced or
 marked stale, while unchanged accepted decisions were retained.
 
+Check that the plan records a revision objective and a revision record (schema section 6), that the
+plan reflects each recorded decision, and that no adopted or modified suggestion is missing from the
+record. A missing record is a blocking defect for a plan developed with partner or assistant input.
+
 Check that plan review considered relevant environmental or societal connections and documented the
 instructor's choices or reasons for deferral. In material review, locate the accepted connections in
 actual explanations and activities, and in tasks and scoring criteria when assessed. Apply the rubric's

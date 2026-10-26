@@ -44,6 +44,9 @@ misconceptions when relevant; label hypothesized error paths as hypotheses. Do n
 diagnoses a student's beliefs with certainty. Avoid wording clues, implausible options, and predictable
 answer patterns. Do not force pollutant effects to have different signs to make a problem interesting.
 
+When you propose a change to the accepted plan's content, add it to the plan's revision record
+(schema section 6) with the instructor's decision and reason before acting on it.
+
 ## Verify and store
 
 Use the evidence and numeric verification requirements in shared policy. Trace factual inputs to claim

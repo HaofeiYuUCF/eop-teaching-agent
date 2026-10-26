@@ -47,11 +47,20 @@ plan and its review summary. A reference lookup or a resource contribution keeps
 - Do not rename or move existing files. Links between cards, scenarios, references, and the library
   depend on the current paths and source identifiers.
 
+## Review in a fresh context
+
+When a plan, card, scenario, assessment, or package is ready for review, run the Reviewer role as a
+separate agent with a fresh context. Give that agent only the files under review, the shared policy,
+the review rubric, the fact register, and the sources it needs; do not pass it this conversation or
+your reasons for the choices you made. Bring its report back and act on it here. Record in the
+review report that the review was done in a fresh context. If a separate agent is not available,
+do the review here and record that instead.
+
 ## Working with sources and tools here
 
 - To consult a lecture, open the Markdown page reference under `library/text/`. When a page holds an
-  equation, figure, table, or little text, open the page image under `library/pages/` or the
-  original PDF under `library/originals/` and look at the page itself. Searching the text files for a
+  equation, figure, table, or little text, open the page image under `library/pages/` and look at
+  the page itself. The original PDFs are not in the repository; the course owner holds them. Searching the text files for a
   keyword finds candidate pages; a match is not evidence that the page answers the question.
 - Every numerical answer must be calculated by running the calculation, not by reasoning about it.
   Save the calculation and its output in the plan's `verification` subfolder. A calculation that was

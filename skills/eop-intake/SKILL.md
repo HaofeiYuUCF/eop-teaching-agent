@@ -22,6 +22,12 @@ when selecting connections. Existing cards do not replace newly supplied instruc
 
 ## Interview and decide
 
+Before showing any card, scenario, or proposed connection, ask the instructor for one sentence that
+states what this revision should resolve, and record it as the plan's `revision_objective`. From that
+point on, record every suggestion made to the instructor, by you or by anyone else, in the plan's
+revision record (schema section 6) with the instructor's decision and reason, at the time the
+decision is made.
+
 Establish plan-only or teaching-package scope from the user's actual request using the shared
 policy's continuation rules. Reuse clear prior instructions; ask once only if the desired outputs
 are unclear. Record scope in the plan and explain whether work will end with the plan or continue

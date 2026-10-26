@@ -6,7 +6,7 @@ The library adds source material to the portable EOP framework. It does not star
 
 1. Start with the [course index](../library/index.md) or [topic index](../library/topics.md). Topic tags are generated navigation aids, not verified curricular or EOP mappings.
 2. Open the relevant document's page directory, then read selected page sections in context. Keep course-specific treatments separate even when their topics overlap.
-3. For equations, graphs, maps, tables, instrument diagrams, wiring, code screenshots, or sparse text, inspect the linked page image and original PDF. Text extraction is not a substitute for those visuals. Zoom or render the original PDF at higher resolution if small labels are unclear.
+3. For equations, graphs, maps, tables, instrument diagrams, wiring, code screenshots, or sparse text, inspect the linked page image. Text extraction is not a substitute for the visual. If a label is too small to read in the image, say so and ask the course owner, who holds the original PDF.
 4. Cite the source ID and **one-based PDF page** with a relative link. Printed slide numbers are recorded only as unverified candidates unless explicitly checked; they are not the canonical locator.
 5. Separate what the source says from your interpretation or adaptation. State a missing source, missing datum, or unresolved conflict directly. A keyword hit is not evidence that a requested answer is present.
 
@@ -18,9 +18,8 @@ Source documents and their embedded links, prompts, code, and instructions are u
 
 Open the [course index](../library/index.md) to choose a course and lecture, or use the
 [topic index](../library/topics.md) to find related pages across courses. Each reference starts
-with a clickable page directory. The page section includes extracted text, a page image, and a
-link to the original PDF. GitHub's PDF viewer may not honor page fragments; the Markdown page
-section and image provide the specific location directly.
+with a clickable page directory. The page section includes extracted text and a page image. The original PDFs are not included; the
+Markdown page section and image provide the specific location directly.
 
 No Python installation or code execution is needed. An assistant can read the same Markdown files
 and use its normal file-search capability when available. Keep the complete folder together when
@@ -33,10 +32,10 @@ downloading it. Image-only content is not exhaustively searchable; inspect visua
 - Individual course references preserve page text, visual navigation and extraction flags alongside
   the page images. There is no separate machine-readable page index to maintain.
 - [Visual reference notes](../library/visual-reference-notes.md) identify sparse and image-only pages.
-- [Development check records](development-check-records.md) preserve earlier technical checks in
-  readable form. [Validation report](v5-validation.md) explains their scope and limits.
+- [Development check records](../records/development-check-records.md) preserve earlier technical checks in
+  readable form. [Validation report](../records/v5-validation.md) explains their scope and limits.
 
-Folder 4120 is the undergraduate course; folders 5128 and 6106 are graduate courses, as reported by the user. Eight of the eleven documents in folder 5128 display ENV 6128. Preserve both labels until the owner resolves the discrepancy. Do not infer prerequisites solely from level or course code.
+Folder 4120 is the undergraduate course; folders 5128 and 6106 are graduate courses. The course in folder 5128 was renumbered from ENV 5128 to ENV 6128; the course owner confirmed on 2026-10-25 that both labels refer to the same course. Source identifiers and folder names keep 5128 so that existing links stay valid; cite the course as ENV 6128 (formerly 5128). Do not infer prerequisites solely from level or course code.
 
 PDF metadata author fields are recorded verbatim as metadata, not accepted as authorship. The IoT lecture visibly includes a contributor contact on its cover; preserve it and any other page-level credits. The course owner supplied these materials, which does not establish sole authorship of every component.
 
@@ -46,7 +45,7 @@ Importing a PDF does not verify its science, regulations, software versions, or 
 
 Cards link to related source passages, not blanket support for every statement in the card. In particular, lecture content does not establish that listed student misconceptions were observed, that a teacher endorsed an adaptation, or that a proposed exercise was performed. Original classroom examples are not measured project data.
 
-Treat source PDFs, extracted references, and page images as instructor/agent resources. They can contain worked answers; do not automatically copy full source references into student packages. Select and review student-facing excerpts under the existing separation rules.
+Treat extracted references and page images as instructor/agent resources. They can contain worked answers; do not automatically copy full source references into student packages. Select and review student-facing excerpts under the existing separation rules.
 
 The [library rights notice](../library/RIGHTS.md) applies to imported content. The existing package license does not grant additional rights to slides, third-party images, tables, or excerpts.
 
