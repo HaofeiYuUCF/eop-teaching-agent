@@ -27,71 +27,69 @@ for examples of resource lookup, card/scenario contributions, and lesson adaptat
 
 ## Choose your AI tool
 
-The prototype was developed and checked using **OpenAI Codex**, including local file access and
-document/presentation tools. The role instructions are portable text, but equivalent behavior in
-Claude Code, browser chat, or cloud environments has not been established by cross-platform tests.
-The repository does not require one specific model or include an API key. Accounts, available tools,
-and service charges are managed by your chosen provider.
+The role instructions are plain text and work with any AI tool that can read the files. The
+repository is set up for **Claude Code** first: a `CLAUDE.md` file tells it how the roles, folders,
+and tools fit together, and the five roles are registered as Claude Code skills. The prototype was
+originally developed and checked with OpenAI Codex, which still works as described below. The
+repository does not require one specific model or include an API key; accounts, available tools, and
+service charges are managed by your chosen provider.
 
 | Tool | Provide the resources | Practical fit |
 |---|---|---|
-| Codex with local folder access | Open or attach the extracted repository as a project folder. | Closest to the development setup; preserves access to the complete library. |
-| Claude Code | Start a session in the extracted repository folder. | A file-based alternative; explicitly request that it read the role instructions. |
-| ChatGPT or Claude browser chat / Projects | Upload relevant instructions and source files. | Focused lookup or drafting; file access and exports depend on the tool. |
-| Codex cloud | Configure a cloud environment with access to the repository. | Remote execution; required files and tools must be available there. |
-
-### Codex with a local project
-
-Open or attach the extracted repository folder, start a task, and paste the starter request below.
-Ask Codex to confirm it can read `reference/workflow-policy.md`, `skills/eop-intake/SKILL.md`, and
-a relevant library entry before proceeding. See the official [local project guidance](https://learn.chatgpt.com/docs/projects).
-
-The `skills/` folder contains role specifications. Opening this repository does not automatically
-install or register them as skills; explicitly asking the assistant to read them avoids a separate
-installation. Do not move only the five role folders, because they link to shared resources elsewhere
-in the repository. Before requesting exports, ask which tools are available to create and render
-PowerPoint/Word files and check calculations. This repository does not install those tools.
+| Claude Code (recommended) | Clone or extract the repository and start `claude` in its folder. | Reads the whole library, runs calculations, writes Word and PowerPoint files, and keeps outputs in `outputs/`. |
+| Claude.ai Projects | Upload the instruction files and the sources for your topic. | Planning and drafting without a terminal; no file generation or whole-library search. |
+| OpenAI Codex (local or cloud) | Open the folder as a project, or connect the repository to a cloud environment. | The original development setup; ask it to read the role files explicitly. |
+| ChatGPT in a browser | Upload the relevant instructions and sources. | Focused lookup or drafting; exports depend on the tool. |
 
 ### Claude Code
 
-After setting up Claude Code, open a terminal in the extracted repository folder and start `claude`.
-Paste the same starter request, explicitly asking it to read the named `SKILL.md` files. Do not
-assume those files are automatically installed Claude skills. Ask it to confirm source access,
-file generation, rendering, and calculation capabilities before beginning a full package.
-Follow the official [Claude Code quickstart](https://code.claude.com/docs/en/quickstart) for setup
-and sign-in. This is an adaptation path, not a tested EOP installation procedure.
+1. Install Claude Code and sign in ([quickstart](https://code.claude.com/docs/en/quickstart)).
+2. Clone the repository (`git clone https://github.com/HaofeiYuUCF/eop-teaching-agent`) or download
+   and extract the ZIP, keeping the subfolders together.
+3. Open a terminal in the repository folder and start `claude`. It reads `CLAUDE.md` automatically,
+   which points it to `reference/workflow-policy.md` and the role specifications. The roles also
+   appear as skills (`/eop-intake`, `/eop-reviewer`, `/eop-assessment-designer`,
+   `/eop-material-builder`, `/eop-card-builder`), each a short wrapper around the full
+   specification in `skills/`.
+4. Paste a starter request from the next section. Claude Code will ask permission before running
+   Python or writing files; it writes plans, review reports, and exports under `outputs/<plan_id>/`.
 
-### ChatGPT or Claude in a browser
+Word and PowerPoint files are produced with Claude Code's document skills when they are available,
+otherwise with `python-docx` and `python-pptx`. Visual inspection of exports needs a renderer such as
+LibreOffice; without one, the assistant records visual review as unverified, as the shared policy
+requires. A plan-only run in Claude Code was checked on 2026-10-25 (see `outputs/README.md` for
+where results land); a complete teaching package with exports has not yet been checked on Claude Code.
 
-Create a chat or project and upload the relevant files. A GitHub link alone does not guarantee that
-the assistant has read the complete repository. Start with `README.md`, `reference/workflow-policy.md`,
-and the selected role's `SKILL.md`; supply the shared references and sources it requests.
-Each role file has the same filename, so identify its role and original folder when uploading.
+### Claude.ai Projects
 
-For planning, also provide the plan schema, relevant EOP outcomes and fact-register entries, selected
-cards, and any chosen scenario. For course lookup, provide the library guide, relevant index entries,
-and the PDF or page images needed to verify the answer. Ask the assistant to identify missing files
-before drafting. Upload limits and image-reading capabilities vary; provide a relevant subset and
-retain original source IDs and PDF page numbers even when local links no longer work.
+Create a project and add these files as project knowledge: `README.md`, `reference/workflow-policy.md`,
+`reference/blueprint-schema.md`, `reference/review-rubric.md`, `reference/fact-register.md`,
+`reference/eop-outcomes.md`, the `SKILL.md` of each role you will use (rename each on upload, since
+all five share the file name), the cards and scenario for your topic, and the Markdown page
+references under `library/text/` for the lectures you want it to draw on. The page images and
+original PDFs are too large to upload in full; add the few pages you need as images. Paste the
+starter request with paths replaced by the uploaded file names. Claude Projects can draft plans,
+assessments, and slide text but cannot write `.pptx` or `.docx` files; request text drafts and treat
+export and visual review as incomplete. See the [Claude project guide](https://support.claude.com/en/articles/9517075-what-are-projects).
 
-Use the starter request with paths replaced by uploaded filenames. Supply downstream role files and
-references when proceeding to assessment and material creation. If the tool cannot create or inspect
-actual `.pptx` or `.docx` files, request a text draft and treat export or visual review as incomplete.
-See the official [ChatGPT project guide](https://learn.chatgpt.com/docs/projects) and
-[Claude project guide](https://support.claude.com/en/articles/9517075-what-are-projects).
+### OpenAI Codex
 
-### Codex cloud and other remote environments
+Open or attach the extracted repository folder, start a task, and paste the starter request. Ask
+Codex to confirm it can read `reference/workflow-policy.md`, `skills/eop-intake/SKILL.md`, and a
+relevant library entry before proceeding ([local project guidance](https://learn.chatgpt.com/docs/projects),
+[cloud setup](https://learn.chatgpt.com/docs/cloud)). The `skills/` folder is not installed
+automatically in Codex; asking it to read the role files is enough. In a cloud environment, files on
+your computer are not available; supply additional materials through the environment and request
+downloadable outputs. Before requesting exports, ask which tools are available to create and render
+PowerPoint and Word files and to check calculations.
 
-Connect a repository you can access, create its environment, and use the starter request there,
-following the official [Codex cloud setup](https://learn.chatgpt.com/docs/cloud). Files on your local
-computer are not automatically available remotely. Supply any additional teaching materials through
-the environment's supported mechanism and confirm that PDFs, page images, export tools, rendering,
-and calculation tools are accessible. Request downloadable outputs or an accessible output location;
-do not assume a local desktop folder will receive them.
+### ChatGPT in a browser
 
-Cloud describes where work runs; **Claude** is a separate AI product. Repository access alone does
-not establish that every workflow check can run. Publishing newly supplied materials remains a
-separate instructor decision.
+Create a chat or project and upload the same file set listed for Claude.ai Projects. A GitHub link
+alone does not guarantee the assistant has read the repository. Ask it to identify missing files
+before drafting, and keep source IDs and PDF page numbers in the request even when local links no
+longer work. If it cannot create or inspect actual `.pptx` or `.docx` files, request a text draft and
+treat export or visual review as incomplete.
 
 ## Copy a starter request
 
