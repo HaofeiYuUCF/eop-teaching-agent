@@ -133,7 +133,7 @@ assistant to resume from the saved plan, outputs, and review status.
 | Material Builder | [eop-material-builder](skills/eop-material-builder/SKILL.md) | Produce slides and teaching notes using the plan and shared assessment content. |
 | Reviewer | [eop-reviewer](skills/eop-reviewer/SKILL.md) | Review plans before acceptance and materials after assembly; route repairs, recheck, and summarize findings. |
 
-One assistant can execute all five roles sequentially. Reviewer is one role used at multiple stages.
+One assistant coordinates the work and talks with the instructor. In Claude Code, the Reviewer, Assessment Designer, and Material Builder roles run as separate assistants with a fresh context, so that review is independent and long generation steps start clean; where that is not possible, one assistant runs all five roles in sequence. Reviewer is one role used at multiple stages.
 The normal plan sequence is **Intake draft → internal review and revision → instructor acceptance**.
 Important subsequent instructional changes may require renewed acceptance; routine repairs do not.
 After at most two revision rounds, unresolved blockers are reported under the shared policy.

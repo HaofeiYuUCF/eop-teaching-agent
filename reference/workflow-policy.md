@@ -219,8 +219,12 @@ review results stale, rebuild them, and recheck the affected areas and final pac
 
 Where the host can run a separate assistant with a fresh context, Reviewer runs there and receives
 only the artifacts under review, this policy, the rubric, the fact register, and the sources, not
-the conversation that produced the artifacts. The review report states whether it was produced in a
-fresh context or in the same one.
+the conversation that produced the artifacts. Assessment Designer and Material Builder may also run
+in a fresh context, receiving the accepted plan with its review and revision record, this policy,
+their role specification, the named cards and scenario, and the canonical assessment package when
+it exists; the coordinating assistant that ran Intake keeps the instructor conversation and the
+revision record. Every review report and handoff states whether the role ran in a fresh context or
+in the same one. Where separate contexts are not available, one assistant runs the roles in sequence.
 
 Plan review precedes generation. Material review follows assembly. Each defect has a target, evidence,
 severity, and acceptance criterion. Reviewers may recommend fixes but must recheck repaired artifacts.

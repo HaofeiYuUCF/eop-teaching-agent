@@ -47,14 +47,26 @@ plan and its review summary. A reference lookup or a resource contribution keeps
 - Do not rename or move existing files. Links between cards, scenarios, references, and the library
   depend on the current paths and source identifiers.
 
-## Review in a fresh context
+## Which roles run here and which run in a fresh context
 
-When a plan, card, scenario, assessment, or package is ready for review, run the Reviewer role as a
-separate agent with a fresh context. Give that agent only the files under review, the shared policy,
-the review rubric, the fact register, and the sources it needs; do not pass it this conversation or
-your reasons for the choices you made. Bring its report back and act on it here. Record in the
-review report that the review was done in a fresh context. If a separate agent is not available,
-do the review here and record that instead.
+You are the coordinator. You talk to the instructor, run the Intake role yourself, keep the plan
+and its revision record, and decide when the next role starts. Three roles run as separate agents
+with a fresh context, each started by you and reporting back to you:
+
+| Role | Why a fresh context | What the agent receives |
+|---|---|---|
+| Reviewer | Independence. A reviewer that knows the reasons behind every choice tends to ratify them. | The files under review, the shared policy, the review rubric, the fact register, and the sources. Never this conversation or your reasons. |
+| Assessment Designer | A clean start. The role reads the plan, cards, scenario, and many library pages and then writes a full package; done here, that much reading pushes earlier rules out of view. | The accepted plan with its review and revision record, the role specification, the shared policy, the fact register, the cards and scenario named in the plan, and the instructor's stated preferences. |
+| Material Builder | Same reason. | The same set plus the canonical assessment package. |
+
+Card Builder runs here when an instructor contributes material. When Reviewer routes a defect to
+Card Builder in the middle of a package, start it as a short separate agent with the defect record
+and the files it names.
+
+Pass instructor decisions to a worker in writing, through the plan, and append any suggestion a
+worker makes to the revision record with the instructor's decision. Record in each review report and
+handoff whether the role ran in a fresh context or here. If separate agents are not available, run
+every role here in sequence, as the shared policy allows, and say so in the reports.
 
 ## Working with sources and tools here
 
