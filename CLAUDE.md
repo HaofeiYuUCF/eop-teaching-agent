@@ -6,12 +6,17 @@ below for an instructor working in this folder.
 
 ## Read first, every session
 
-1. `README.md`, for the purpose of the prototype and the starter requests.
-2. `reference/workflow-policy.md`, the shared rules for all roles. It takes precedence over any
-   single role file.
-3. The role specification for the task at hand (table below). The files under `skills/` are the
+1. `reference/workflow-policy.md`, the shared rules for all roles. It takes precedence over any
+   single role file and over this file.
+2. The role specification for the task at hand (table below). The files under `skills/` are the
    full specifications. The matching folders under `.claude/skills/` are short pointers to them, so
    that each role appears in your skill list; they add no rules of their own.
+3. `README.md` only when you need the starter requests or the description of the resources; it is
+   written for instructors and is not required for every session.
+
+This file is read automatically only when Claude Code is started in this folder. If the session
+started elsewhere, the instructor may ask you to read it by path; the five skills then appear once
+you work on files in this folder.
 
 | Role | Full specification | Use it when |
 |---|---|---|
@@ -29,12 +34,16 @@ plan and its review summary. A reference lookup or a resource contribution keeps
 ## Where files go
 
 - Plans, review reports, assessment packages, exports, and manifests go in a folder named after the
-  plan: `outputs/<plan_id>/`. Keep student-facing files in a `student` subfolder and
+  plan: `outputs/<plan_id>/`. The plan and its review sit at the top of that folder. Once student
+  and instructor files exist, keep student-facing files in a `student` subfolder and
   instructor-facing files in an `instructor` subfolder.
 - Calculation records and the scripts that produced them go in a `verification` subfolder of the
   same plan folder.
-- Do not write into `library/`, `cards/`, `scenario/`, or `reference/` except for a resource
-  contribution handled by Card Builder, and then only the files that role names.
+- Any role may add entries to `reference/fact-register.md`, because the shared policy requires new
+  teaching-relevant claims and stipulated inputs to be registered there before material review.
+  Add entries; do not rewrite or delete existing ones.
+- Otherwise do not write into `library/`, `cards/`, `scenario/`, or `reference/` except for a
+  resource contribution handled by Card Builder, and then only the files that role names.
 - Do not rename or move existing files. Links between cards, scenarios, references, and the library
   depend on the current paths and source identifiers.
 
@@ -47,8 +56,9 @@ plan and its review summary. A reference lookup or a resource contribution keeps
 - Every numerical answer must be calculated by running the calculation, not by reasoning about it.
   Save the calculation and its output in the plan's `verification` subfolder. A calculation that was
   not run is unverified, not passed.
-- Word and PowerPoint files: use your document and presentation skills when they are available.
-  Otherwise generate the files with a Python library and say which one you used. Student and
+- Word and PowerPoint files: use your document and presentation skills when they are available
+  (they may appear under a prefix in the skill list). Otherwise generate the files with a Python
+  library and say which one you used. Student and
   instructor documents are separate files made from the same assessment content.
 - Visual check of exports: if a program that renders Word and PowerPoint files is available, render
   them and look at the result. If not, record the visual review as unverified. A clean text check

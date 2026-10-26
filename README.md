@@ -46,7 +46,8 @@ model or API key is required. Accounts, available tools, and charges are handled
 2. Download the repository as a ZIP file (on GitHub, **Code → Download ZIP**) and extract it, keeping
    the subfolders together. If you use Git, you can clone the repository instead.
 3. Start Claude Code in the extracted folder. It reads `CLAUDE.md` on its own, which directs it to the
-   shared policy and the role specifications. The roles are also available as skills named
+   shared policy and the role specifications. If you start it in a different folder, ask it to read
+   `CLAUDE.md` in the repository folder first. The roles are also available as skills named
    `eop-intake`, `eop-reviewer`, `eop-assessment-designer`, `eop-material-builder`, and
    `eop-card-builder`; each is a short pointer to the full specification in the `skills` folder.
 4. Paste a starter request from the next section. Claude Code asks for permission before it runs a
