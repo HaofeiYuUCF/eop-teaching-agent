@@ -147,7 +147,7 @@ is required.
 
 ## Resources and outputs
 
-- [Course library](library/index.md): 38 lectures and 1,050 pages from ENV 4120, ENV 6128 (formerly 5128), and ENV 6106, as page text and page images.
+- [Course library](library/index.md): 38 lectures and 1,050 pages from ENV 4120, ENV 5128 (formerly 6128), and ENV 6106, as page text and page images.
 - [Topic index](library/topics.md), [card source map](reference/course-card-map.md), and
   [library guide](reference/library-guide.md): find and cite relevant pages, including visual content.
 - [Scenario catalog](scenario/catalog.md): hypothetical I-4/SR 408 and Sunshine Corridor. Either case,

@@ -23,7 +23,7 @@ Air Pollution and Hazardous Waste Control. 10 documents, 280 pages.
 | ENV4120-10-gaussiandispersionmodel | [10_GaussianDispersionModel.pdf](text/4120/10-gaussiandispersionmodel.md) | 23 | 4120 |
 | ENV4120-11-introductiontoairqualitymodel | [11_IntroductionToAirQualityModel.pdf](text/4120/11-introductiontoairqualitymodel.md) | 37 | 4120 |
 
-## ENV 6128 (formerly ENV 5128; folder and identifiers keep 5128)
+## ENV 5128 (formerly ENV 6128; some slides still show the old number)
 
 Smart Air Quality Monitoring and Air Pollution Control. 11 documents, 415 pages.
 

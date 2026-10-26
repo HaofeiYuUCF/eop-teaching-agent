@@ -35,7 +35,7 @@ downloading it. Image-only content is not exhaustively searchable; inspect visua
 - [Development check records](../records/development-check-records.md) preserve earlier technical checks in
   readable form. [Validation report](../records/v5-validation.md) explains their scope and limits.
 
-Folder 4120 is the undergraduate course; folders 5128 and 6106 are graduate courses. The course in folder 5128 was renumbered from ENV 5128 to ENV 6128; the course owner confirmed on 2026-10-25 that both labels refer to the same course. Source identifiers and folder names keep 5128 so that existing links stay valid; cite the course as ENV 6128 (formerly 5128). Do not infer prerequisites solely from level or course code.
+Folder 4120 is the undergraduate course; folders 5128 and 6106 are graduate courses. The course in folder 5128 is ENV 5128; eight of its eleven documents still display the earlier number, ENV 6128. The course owner confirmed on 2026-10-26 that both labels refer to the same course and that 5128 is current. Cite the course as ENV 5128 (formerly 6128). Do not infer prerequisites solely from level or course code.
 
 PDF metadata author fields are recorded verbatim as metadata, not accepted as authorship. The IoT lecture visibly includes a contributor contact on its cover; preserve it and any other page-level credits. The course owner supplied these materials, which does not establish sole authorship of every component.
 
