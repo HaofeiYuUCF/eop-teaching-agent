@@ -1,6 +1,6 @@
 # ENV5128-03-intro2aerosol
 
-Course folder: 5128 (graduate). Displayed course number: 6128.
+Course folder: 5128 (graduate). Displayed course number: 5128.
 
 Original file: 03_Intro2Aerosol.pdf (held by the course owner; not included in this repository)
 
@@ -9,16 +9,16 @@ This is a page-level reference extraction, not an approved teaching package. Ext
 Scientific verification: not independently verified. Original credits and third-party rights remain applicable.
 
 ## Page directory
-- [PDF page 1](#pdf-page-1): ENV 6128 / Smart Air Quality Monitoring &
+- [PDF page 1](#pdf-page-1): ENV 5128 / Smart Air Quality Monitoring &
 - [PDF page 2](#pdf-page-2): Today’s Topics / • Intro to atmospheric PM and basic aerosol
 - [PDF page 3](#pdf-page-3): Particulate matter / 3
 - [PDF page 4](#pdf-page-4): Terminology / 4
 - [PDF page 5](#pdf-page-5): Concentration Metrics / 5
 - [PDF page 6](#pdf-page-6): Particulate matter / 6
-- [PDF page 7](#pdf-page-7): Particle deposition in human respiratory tract / 7Antti Joonas Koivisto, 2013. Source specific exposure and risk assessment for indoor aerosols. Data 
-- [PDF page 8](#pdf-page-8): ACGIH sampling criteria / 8Figure 11.5. Hinds & Zhang. 2023. ACGIH (American Conference of Governmental Industrial Hygienists) sampling
+- [PDF page 7](#pdf-page-7): Particle deposition in human respiratory tract / 7
+- [PDF page 8](#pdf-page-8): ACGIH sampling criteria / 8
 - [PDF page 9](#pdf-page-9): Particle inhalation / 9
-- [PDF page 10](#pdf-page-10): Exposure route / 10Figure 11.8. Hinds & Zhang. 2023.  Comparison of experimental measurements of alveolar deposition (median
+- [PDF page 10](#pdf-page-10): Exposure route / 10
 - [PDF page 11](#pdf-page-11): The respiratory system / 11
 - [PDF page 12](#pdf-page-12): The respiratory system / 12
 - [PDF page 13](#pdf-page-13): The respiratory system / 13
@@ -50,7 +50,7 @@ Scientific verification: not independently verified. Original credits and third-
 - [PDF page 39](#pdf-page-39): Drag coefficient / 39
 - [PDF page 40](#pdf-page-40): Terminal Settling Velocity / 40
 - [PDF page 41](#pdf-page-41): At high Re number…. / 41
-- [PDF page 42](#pdf-page-42): Particle relaxation Time / 42Hinds & Zhang 2021. Table 5.1 Relaxation Time for Standard Density
+- [PDF page 42](#pdf-page-42): Particle relaxation Time / 42
 - [PDF page 43](#pdf-page-43): Brownian diffusion / 43
 - [PDF page 44](#pdf-page-44): Brownian diffusion vs / sedimentation
 - [PDF page 45](#pdf-page-45): Movement under charge / 45
@@ -60,6 +60,7 @@ Scientific verification: not independently verified. Original credits and third-
 - [PDF page 49](#pdf-page-49): Impaction/interception / 49
 - [PDF page 50](#pdf-page-50): Conversion between size modes / 50
 - [PDF page 51](#pdf-page-51): Processes affecting / particle size
+
 
 <a id="pdf-page-1"></a>
 ## PDF page 1
@@ -74,7 +75,7 @@ Extraction flags: sparse-text
 
 ### Extracted source text
 
-> ENV 6128
+> ENV 5128
 > Smart Air Quality Monitoring &
 > Air Pollution Control
 
@@ -98,11 +99,11 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 ### Extracted source text
 
 > Today’s Topics
-> • Intro to atmospheric PM and basic aerosol 
+> • Intro to atmospheric PM and basic aerosol
 > science
 > • Expectation
-> – Understand size distributions and mode (3-mode 
-> model) of atmospheric PM, major sources of 
+> – Understand size distributions and mode (3-mode
+> model) of atmospheric PM, major sources of
 > atmospheric PMs and their interactions
 > – Understand the behavior of aerosol
 > 2
@@ -122,7 +123,7 @@ Printed slide number candidate: 3 (use PDF page as canonical locator).
 
 Generated navigation topics: Particles and aerosols
 
-Extraction flags: none detected automatically; this is not a fidelity guarantee
+Extraction flags: sparse-text
 
 ### Extracted source text
 
@@ -130,7 +131,9 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > 3
 > • PM are everywhere in the environment
 > • Vary greatly in source, size and composition
-> asbestospollen volcanic ash
+> asbestos
+> pollen
+> volcanic ash
 
 
 ### Original page appearance
@@ -153,12 +156,12 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Terminology
 > 4
-> • Particulate matter (PM): complex mixture of very small 
+> • Particulate matter (PM): complex mixture of very small
 > particles and liquid droplets
 > • Aerosol: ensemble of suspended PMs
 > • Total suspended particles (TSP) - all suspended PMs
 > • Coarse particles: PMs with diameter > 2.5 µm
-> • Inhalable coarse particles: PM10-PM2.5 
+> • Inhalable coarse particles: PM10-PM2.5
 > • Fine particles: PM2.5
 > • Ultrafine particles: PM0.1
 
@@ -175,7 +178,7 @@ Source locator: `ENV5128-03-intro2aerosol`, PDF p. 5.
 
 Printed slide number candidate: 5 (use PDF page as canonical locator).
 
-Generated navigation topics: Exposure and health, Particles and aerosols, Ozone and atmospheric chemistry
+Generated navigation topics: Exposure and health, Particles and aerosols, Climate and environmental effects
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -184,7 +187,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > Concentration Metrics
 > 5
 > • Three metrics depending on purpose
-> – Number concentration 
+> – Number concentration
 > • e.g. light scattering and absorption
 > – Area concentration
 > • e.g. surface reactions
@@ -224,7 +227,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > • Goes deeper inside lungs (sort of)
 > • Size for non-spherical aerosol
 > – Most used: aerodynamic diameter (Da)
-> – The diameter of a round water droplet (1g/cm3) that 
+> – The diameter of a round water droplet (1g/cm3) that
 > has the same setting velocity as the particle
 
 
@@ -238,7 +241,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 Source locator: `ENV5128-03-intro2aerosol`, PDF p. 7.
 
-Printed slide number candidate: not identified (use PDF page as canonical locator).
+Printed slide number candidate: 7 (use PDF page as canonical locator).
 
 Generated navigation topics: Exposure and health, Particles and aerosols
 
@@ -247,7 +250,8 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 ### Extracted source text
 
 > Particle deposition in human respiratory tract
-> 7Antti Joonas Koivisto, 2013. Source specific exposure and risk assessment for indoor aerosols. Data based on 
+> 7
+> Antti Joonas Koivisto, 2013. Source specific exposure and risk assessment for indoor aerosols. Data based on
 > Hinds (1999), simplified based on ICRP (International Commission on Radiological Protection) deposition model
 
 
@@ -261,16 +265,17 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 Source locator: `ENV5128-03-intro2aerosol`, PDF p. 8.
 
-Printed slide number candidate: not identified (use PDF page as canonical locator).
+Printed slide number candidate: 8 (use PDF page as canonical locator).
 
-Generated navigation topics: Measurement methods and instruments
+Generated navigation topics: Unclassified; inspect source.
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
 > ACGIH sampling criteria
-> 8Figure 11.5. Hinds & Zhang. 2023. ACGIH (American Conference of Governmental Industrial Hygienists) sampling 
+> 8
+> Figure 11.5. Hinds & Zhang. 2023. ACGIH (American Conference of Governmental Industrial Hygienists) sampling
 > criteria for inhalable, thoracic, and respirable fractions.
 
 
@@ -294,8 +299,8 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Particle inhalation
 > 9
-> Figure 11.2. Hinds & Zhang, 2023. Predicted total respiratory deposition at three levels of exercise based on ICRP 
-> deposition model. Average data for males and females. Inset does not include the effect of inhalability. 
+> Figure 11.2. Hinds & Zhang, 2023. Predicted total respiratory deposition at three levels of exercise based on ICRP
+> deposition model. Average data for males and females. Inset does not include the effect of inhalability.
 
 
 ### Original page appearance
@@ -308,7 +313,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 Source locator: `ENV5128-03-intro2aerosol`, PDF p. 10.
 
-Printed slide number candidate: not identified (use PDF page as canonical locator).
+Printed slide number candidate: 10 (use PDF page as canonical locator).
 
 Generated navigation topics: Exposure and health, Measurement methods and instruments
 
@@ -317,7 +322,8 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 ### Extracted source text
 
 > Exposure route
-> 10Figure 11.8. Hinds & Zhang. 2023.  Comparison of experimental measurements of alveolar deposition (median 
+> 10
+> Figure 11.8. Hinds & Zhang. 2023.  Comparison of experimental measurements of alveolar deposition (median
 > values) and ACGIH respirable fraction criterion. Human data from Lippmann (1977).
 
 
@@ -335,13 +341,13 @@ Printed slide number candidate: 11 (use PDF page as canonical locator).
 
 Generated navigation topics: Exposure and health
 
-Extraction flags: none detected automatically; this is not a fidelity guarantee
+Extraction flags: sparse-text
 
 ### Extracted source text
 
 > The respiratory system
 > 11
-> Sources and Control of Air Pollution, Heinsohn 
+> Sources and Control of Air Pollution, Heinsohn
 > and Kabel, Prentice-Hall, 1999
 
 
@@ -365,12 +371,12 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > The respiratory system
 > 12
-> • Consist of upper airway, tracheobronchial tree 
+> • Consist of upper airway, tracheobronchial tree
 > and pulmonary region
 > • Overall function
-> – Gas to blood exchange 
+> – Gas to blood exchange
 > – Supply the body with O2 for metabolism
-> – Remove waste CO2 
+> – Remove waste CO2
 > – Removal of other volatile toxicants
 > – Physical immune response
 > • Eliminating of viruses, etc before they get to the blood
@@ -388,7 +394,7 @@ Source locator: `ENV5128-03-intro2aerosol`, PDF p. 13.
 
 Printed slide number candidate: 13 (use PDF page as canonical locator).
 
-Generated navigation topics: Transport and meteorology, Exposure and health, Particles and aerosols
+Generated navigation topics: Exposure and health, Particles and aerosols
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -400,7 +406,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > – Nose to vocal chords
 > – Warm and humidifies air
 > – Filtering or particles by hairs
-> – Aerodynamic impaction of particles (winding 
+> – Aerodynamic impaction of particles (winding
 > passages)
 > – Adsorption in mucus (which is swallowed or spit out)
 > – Sneeze reflex
@@ -427,10 +433,10 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > The respiratory system
 > 14
-> • Tracheobronchial tree 
+> • Tracheobronchial tree
 > – Air transport
 > – Bronchoconstriction – capture foreign substances
-> – Mucociliary escalator – beating cilia move mucus and 
+> – Mucociliary escalator – beating cilia move mucus and
 > foreign substances toward mouth/nose
 > – Cough reflex
 > http://www.colorado.edu/outr
@@ -450,7 +456,7 @@ Source locator: `ENV5128-03-intro2aerosol`, PDF p. 15.
 
 Printed slide number candidate: 15 (use PDF page as canonical locator).
 
-Generated navigation topics: Exposure and health, Climate and environmental effects
+Generated navigation topics: Exposure and health
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -459,14 +465,14 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > The respiratory system
 > 15
 > • Pulmonary region
-> – Respiratory bronchioles, alveolar ducts, alveoli (air 
+> – Respiratory bronchioles, alveolar ducts, alveoli (air
 > sacs)
-> – Site of air to blood gas exchange (mass transfer by 
+> – Site of air to blood gas exchange (mass transfer by
 > molecular diffusion)
 > • 50-100 m2 of gas exchange surface
-> – Phagocytosis - ingestion of deposited matter by 
-> phagocytes and macrophages (from white blood 
-> cells) 
+> – Phagocytosis - ingestion of deposited matter by
+> phagocytes and macrophages (from white blood
+> cells)
 > – Absorption to lymphatic system
 > http://gifsoup.com/view/2
 > 305747/phagocytosis.ht
@@ -494,10 +500,10 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > PM in the respiratory system
 > 16
 > • Particles must be deposited to have an effect
-> • Major factor for particulate behavior is their 
+> • Major factor for particulate behavior is their
 > aerodynamic properties
 > • Depend on size (and orientation), shape, density
-> – Not all particles can be inhaled 
+> – Not all particles can be inhaled
 > – Some inhaled particles are exhaled
 
 
@@ -521,15 +527,15 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > PM in the respiratory system
 > 17
-> • Upper airways:  
-> – Capture larger particles (D > 5-10 µm); clear in < 1 d 
+> • Upper airways:
+> – Capture larger particles (D > 5-10 µm); clear in < 1 d
 > – Capture very small particles (D <0.01 µm)
-> – Mouth breathing allows larger PM to penetrate deeper 
+> – Mouth breathing allows larger PM to penetrate deeper
 > in lungs
-> • Pulmonary region 
+> • Pulmonary region
 > – Deposition of small particles (0.01 < D < 4 µm)
 > – Clearance takes weeks to months
-> – Particles < 0.1 µm are readily absorbed by tissues 
+> – Particles < 0.1 µm are readily absorbed by tissues
 
 
 ### Original page appearance
@@ -544,7 +550,7 @@ Source locator: `ENV5128-03-intro2aerosol`, PDF p. 18.
 
 Printed slide number candidate: 18 (use PDF page as canonical locator).
 
-Generated navigation topics: Unclassified; inspect source.
+Generated navigation topics: Particles and aerosols
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -572,7 +578,7 @@ Source locator: `ENV5128-03-intro2aerosol`, PDF p. 19.
 
 Printed slide number candidate: 19 (use PDF page as canonical locator).
 
-Generated navigation topics: Particles and aerosols
+Generated navigation topics: Pollution sources and emissions, Particles and aerosols
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -580,13 +586,13 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Mode of PM
 > 19
->  Nucleation mode (D < 0.1µm) 
-> – Mainly combustion PMs, and particles formed 
-> in the atmosphere by gas-to-particle 
-> conversion. 
-> – Quickly grow into accumulation mode. 
+> Nucleation mode (D < 0.1µm)
+> – Mainly combustion PMs, and particles formed
+> in the atmosphere by gas-to-particle
+> conversion.
+> – Quickly grow into accumulation mode.
 > – Largest number concentration
->  Accumulation mode (2.5µm > D >0.1µm)
+> Accumulation mode (2.5µm > D >0.1µm)
 > – Still small but growth can be slow
 > – Large surface area concentration
 
@@ -603,7 +609,7 @@ Source locator: `ENV5128-03-intro2aerosol`, PDF p. 20.
 
 Printed slide number candidate: 20 (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions, Exposure and health
+Generated navigation topics: Pollution sources and emissions, Exposure and health, Particles and aerosols
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -611,14 +617,14 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Mode of PM
 > 20
->  Coarse mode (D > 2.5µm)
+> Coarse mode (D > 2.5µm)
 > – Mainly primary emissions
 > – Natural emissions mainly coarse mode
 > – Also comes from mechanical process
 > • Agriculture, surface mining etc
 > – Generally sink down within a few days
 > – Largest mass concentration
->  D > 10µm generally not a health concern
+> D > 10µm generally not a health concern
 
 
 ### Original page appearance
@@ -730,7 +736,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Size distribution of aerosols
 > 25
-> • A sample of aerosols usually contains particles 
+> • A sample of aerosols usually contains particles
 > of different sizes
 > (from Tiwary)
 > Log-probability
@@ -751,13 +757,13 @@ Printed slide number candidate: 26 (use PDF page as canonical locator).
 
 Generated navigation topics: Particles and aerosols
 
-Extraction flags: none detected automatically; this is not a fidelity guarantee
+Extraction flags: sparse-text
 
 ### Extracted source text
 
-> Example count, surface 
-> area and mass 
-> distributions of different 
+> Example count, surface
+> area and mass
+> distributions of different
 > size aerosols
 > 26
 > (Phalen, 2013)
@@ -810,7 +816,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > • Mainly coarse
 > • Wind → bubbles → spray
 > • Main composition
-> – Seawater with some 
+> – Seawater with some
 >    sodium chloride (NaCl)
 > http://seasprayentertainment.com/wp-content/uploads/2013/02/sea-spray.jpg
 
@@ -893,12 +899,12 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Biomass burning
 > 31
-> • Biomass burning PMs containing plant debris, ash, soil 
+> • Biomass burning PMs containing plant debris, ash, soil
 > dust, soot etc., and are mainly coarse
-> • Also emit gases such as phenol, cause secondary 
+> • Also emit gases such as phenol, cause secondary
 > aerosol formation
-> • Study has shown that 40% of 
->     global black carbon emissions 
+> • Study has shown that 40% of
+>     global black carbon emissions
 >     come from biomass burning
 > http://eol.jsc.nasa.gov/newsletter/smoke/page1.htm
 
@@ -915,7 +921,7 @@ Source locator: `ENV5128-03-intro2aerosol`, PDF p. 32.
 
 Printed slide number candidate: 32 (use PDF page as canonical locator).
 
-Generated navigation topics: Particles and aerosols
+Generated navigation topics: Pollution sources and emissions, Particles and aerosols
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -928,7 +934,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > • Many fine PMs, some coarse (fly ash)
 > • Diesel vehicle emit 2-20 times than gas vehicle
 > – Without control 10-100 times
-> • NASA visualization of global aerosol/PM: 
+> • NASA visualization of global aerosol/PM:
 > https://www.youtube.com/watch?v=oRsY_UviBPE
 > • A snap shot image from NASA:
 > • https://www.nasa.gov/image-feature/just-another-day-on-
@@ -949,7 +955,7 @@ Printed slide number candidate: 33 (use PDF page as canonical locator).
 
 Generated navigation topics: Particles and aerosols
 
-Extraction flags: none detected automatically; this is not a fidelity guarantee
+Extraction flags: sparse-text
 
 ### Extracted source text
 
@@ -981,24 +987,33 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Sedimentation
 > 34
-> • Small particles can take a very long time to 
+> • Small particles can take a very long time to
 > settle
 > – Hence can be carried away further with wind
 > – Size is very important to how far they will travel
-> Particle 
-> diameter (µm) 0.02 0.1 1 10 100 1000 5000
+> Particle
+> diameter (µm)
+> 0.02
+> 0.1
+> 1
+> 10
+> 100
+> 1000
+> 5000
 > Time to fall
 > 1 km
-> 228 
+> 228
 > years
-> 36 
+> 36
 > years
-> 328 
-> days 3.6 days 1.1 
+> 328
+> days
+> 3.6 days
+> 1.1
 > hours
-> 4 
+> 4
 > minutes
-> 1.8 
+> 1.8
 > minutes
 > Table 5.4 Jacobson, 2012
 
@@ -1031,11 +1046,24 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > – Drag (Fd)
 > Fg
 > Fb Fd
-> bF V g =
+> b
+> F
+> V
+> g
+> 
+> =
 > Volume of particle
 > Density of air
 >  ~1.2 kg/m3
-> gpF mg V g ==
+> g
+> p
+> F
+> mg
+> V
+> g
+> 
+> =
+> =
 > Density of particle
 > 9.8 m/s2
 
@@ -1062,13 +1090,20 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > 36
 > • Drag force (Fd)
 > – Air resistant during particle falling
-> 22
+> 2
+> 2
 > 8
-> Dp
+> D
+> p
 > d
 > c
-> C D uF C
-> =
+> C
+> D u
+> F
+> C
+> 
+> 
+> =
 > drag coefficient
 > Particle diameter
 > Settling speed
@@ -1097,19 +1132,32 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Cunningham (slip) correction factor
 > 37
-> • Drag force  air molecules hit particles 
+> • Drag force  air molecules hit particles
 > • Air molecules not attached to each other
 > • Small particles can slip between air molecules
 > – Hence settling faster
 > • Empirically, Cunningham correction factor (Cc):
-> 1 2.33 0.96exp( 0.5 )
+> 1
+> 2.33
+> 0.96exp( 0.5
+> )
 > p
 > c
 > p
-> DC D
+> D
+> C
+> D
 > 
 > 
-> = + + − 
+> 
+> 
+> = +
+> +
+> −
+> 
+> 
+> 
+> 
 > Mean free path of air (~0.066 µm at 1 atm and 20ºC)
 > average travel distance of an air molecule between successive collisions
 
@@ -1140,12 +1188,17 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > 15
 > 20
 > 25
-> 0 0.2 0.4 0.6 0.8 1
+> 0
+> 0.2
+> 0.4
+> 0.6
+> 0.8
+> 1
 > Slip correction factor
 > Particle diameter (µm)
 > 1.15 for 1µm particle
 > 23 for 0.01µm particle
-> Cunningham correction factor decreases 
+> Cunningham correction factor decreases
 > with increase in particle diameter
 
 
@@ -1161,7 +1214,7 @@ Source locator: `ENV5128-03-intro2aerosol`, PDF p. 39.
 
 Printed slide number candidate: 39 (use PDF page as canonical locator).
 
-Generated navigation topics: Unclassified; inspect source.
+Generated navigation topics: Particles and aerosols
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -1174,8 +1227,12 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > • When Re < 0.1, CD = 24/Re
 > – Stokes' law
 > Re
-> pDu
-> =
+> p
+> D
+> u
+> 
+> 
+> =
 > Dynamic viscosity of air (~ 1.7x10-5 kg/m/s)
 
 
@@ -1201,16 +1258,22 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > 40
 > • Particle normally reaches force equilibrium quickly
 > • At force equilibrium:
-> Fg = Fd + Fb 
-> • Solve for Terminal Settling Velocity: 
+> Fg = Fd + Fb
+> • Solve for Terminal Settling Velocity:
 > 2
 > 18
-> p p c
+> p
+> p
+> c
 > t
-> D gCu 
-> =
+> D
+> gC
+> u
+> 
+> 
+> =
 > Applies when Re < 0.1
-> Use of this equation for high Re 
+> Use of this equation for high Re
 > particles → over prediction
 > Fg
 > Fb Fd
@@ -1236,7 +1299,8 @@ Extraction flags: sparse-text
 
 > At high Re number….
 > 41
-> • CD not linear relationship with Re
+> •
+> CD not linear relationship with Re
 
 
 ### Original page appearance
@@ -1249,16 +1313,17 @@ Extraction flags: sparse-text
 
 Source locator: `ENV5128-03-intro2aerosol`, PDF p. 42.
 
-Printed slide number candidate: not identified (use PDF page as canonical locator).
+Printed slide number candidate: 42 (use PDF page as canonical locator).
 
-Generated navigation topics: Particles and aerosols, Policy and management context
+Generated navigation topics: Particles and aerosols
 
-Extraction flags: none detected automatically; this is not a fidelity guarantee
+Extraction flags: sparse-text
 
 ### Extracted source text
 
 > Particle relaxation Time
-> 42Hinds & Zhang 2021. Table 5.1 Relaxation Time for Standard Density 
+> 42
+> Hinds & Zhang 2021. Table 5.1 Relaxation Time for Standard Density
 > Particles at Standard Conditions.
 
 
@@ -1282,11 +1347,11 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Brownian diffusion
 > 43
-> • Brownian diffusion is the random 
-> movement of particles in the air due to 
+> • Brownian diffusion is the random
+> movement of particles in the air due to
 > collision with fast-moving molecules
 > • Effect greater with temperature increase
-> • Becomes important than sedimentation for 
+> • Becomes important than sedimentation for
 > particles on the order of 0.1µm
 
 
@@ -1302,13 +1367,13 @@ Source locator: `ENV5128-03-intro2aerosol`, PDF p. 44.
 
 Printed slide number candidate: 44 (use PDF page as canonical locator).
 
-Generated navigation topics: Particles and aerosols
+Generated navigation topics: Unclassified; inspect source.
 
 Extraction flags: sparse-text
 
 ### Extracted source text
 
-> Brownian diffusion vs 
+> Brownian diffusion vs
 > sedimentation
 > 44
 > (Phalen, 2013)
@@ -1335,13 +1400,13 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > Movement under charge
 > 45
 > • Particles in the environment are often charged
-> – Some are highly charged, resulting forces thousands 
+> – Some are highly charged, resulting forces thousands
 > times stronger than gravity
-> • Due to their charge, electric forces can also act 
-> on them, impacting their movement (and 
+> • Due to their charge, electric forces can also act
+> on them, impacting their movement (and
 > deposition)
 > – Usually small, but can be important in electric fields
-> • Certain equipment rely on the electrical 
+> • Certain equipment rely on the electrical
 > properties of particles
 > – Electrostatic precipitators
 
@@ -1360,11 +1425,11 @@ Printed slide number candidate: 46 (use PDF page as canonical locator).
 
 Generated navigation topics: Particles and aerosols
 
-Extraction flags: none detected automatically; this is not a fidelity guarantee
+Extraction flags: sparse-text
 
 ### Extracted source text
 
-> Interaction of particles 
+> Interaction of particles
 > 46
 > • Coagulation
 > • Impaction/interception
@@ -1394,7 +1459,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > • Two particles collide and stick together
 > • Number concentration ↓ & particle size ↑
 > – Same mass concentration
-> • When Brownian diffusion dominates particle 
+> • When Brownian diffusion dominates particle
 > motion
 > – Thermal coagulation
 > • When external forces dominates particle motion
@@ -1421,14 +1486,14 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Impaction/interception
 > 48
-> • Scavenging of particles by other particles or 
+> • Scavenging of particles by other particles or
 > surfaces
 > • Impaction
-> – Particles have inertia and can't follow the gas 
+> – Particles have inertia and can't follow the gas
 > streamlines
 > – Direct impact on other particles or surface
 > • Interception
-> – Particle remains on streamline but is large enough to 
+> – Particle remains on streamline but is large enough to
 > contact anyway
 
 
@@ -1475,12 +1540,12 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Conversion between size modes
 > 50
-> • The size distribution of aerosol will change 
+> • The size distribution of aerosol will change
 > over time and space
-> – Due to all of the processes mentioned 
+> – Due to all of the processes mentioned
 > previously
 > • Particle itself: condensation/evaporation
-> • Many processes affect particle size 
+> • Many processes affect particle size
 > distribution
 
 
@@ -1502,16 +1567,17 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> Processes affecting 
-> particle size 
+> Processes affecting
+> particle size
 > distribution
 > 51
-> Source and processed of atmospheric aerosols at different size modes (Godish 2003). 
-> Solid line: three mode model by Whitby & co-worker; Dash line: added ultrafine mode 
-> with sometime observed accumulation model distribution. Vertical axis: maybe number, 
+> Source and processed of atmospheric aerosols at different size modes (Godish 2003).
+> Solid line: three mode model by Whitby & co-worker; Dash line: added ultrafine mode
+> with sometime observed accumulation model distribution. Vertical axis: maybe number,
 > area or mass. This figure is for illustration only
 
 
 ### Original page appearance
 
 ![ENV5128-03-intro2aerosol, PDF page 51](../../pages/ENV5128-03-intro2aerosol/page-0051.jpg)
+

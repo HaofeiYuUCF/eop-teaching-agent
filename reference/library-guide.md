@@ -35,9 +35,9 @@ downloading it. Image-only content is not exhaustively searchable; inspect visua
 - [Development check records](../records/development-check-records.md) preserve earlier technical checks in
   readable form. [Validation report](../records/v5-validation.md) explains their scope and limits.
 
-Folder 4120 is the undergraduate course; folders 5128 and 6106 are graduate courses. The course in folder 5128 is ENV 5128; eight of its eleven documents still display the earlier number, ENV 6128. The course owner confirmed on 2026-10-26 that both labels refer to the same course and that 5128 is current. Cite the course as ENV 5128 (formerly 6128). Do not infer prerequisites solely from level or course code.
+Folder 4120 is the undergraduate course; folders 5128 and 6106 are graduate courses. The course in folder 5128 is ENV 5128, formerly numbered ENV 6128; the course owner confirmed on 2026-10-26 that both labels refer to the same course and that 5128 is current. Its fourteen documents were replaced with the course owner's updated slides on 2026-11-15, and all of them now display ENV 5128. Earlier records and older copies of the slides may still show ENV 6128. Cite the course as ENV 5128 (formerly 6128). Do not infer prerequisites solely from level or course code.
 
-PDF metadata author fields are recorded verbatim as metadata, not accepted as authorship. The IoT lecture visibly includes a contributor contact on its cover; preserve it and any other page-level credits. The course owner supplied these materials, which does not establish sole authorship of every component.
+PDF metadata author fields are recorded verbatim as metadata, not accepted as authorship. Preserve visible contributor credits and any other page-level credits. The course owner supplied these materials, which does not establish sole authorship of every component.
 
 ## Verification and reuse boundaries
 

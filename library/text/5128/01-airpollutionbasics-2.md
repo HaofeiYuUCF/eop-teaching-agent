@@ -21,12 +21,12 @@ Scientific verification: not independently verified. Original credits and third-
 - [PDF page 10](#pdf-page-10): Background ozone chemistry / 10
 - [PDF page 11](#pdf-page-11): Background ozone chemistry / 11
 - [PDF page 12](#pdf-page-12): Background ozone chemistry / 12
-- [PDF page 13](#pdf-page-13): Reactive OrGanics (ROG) / pss:  NO2         NO + O3
+- [PDF page 13](#pdf-page-13): Reactive OrGanics (ROG) / pss:
 - [PDF page 14](#pdf-page-14): ROG sources / • Many volatile organic compounds (VOCs)
-- [PDF page 15](#pdf-page-15): general reaction mechanism / alkane  RH + .OH → R. + H2O
+- [PDF page 15](#pdf-page-15): general reaction mechanism / alkane
 - [PDF page 16](#pdf-page-16): Example: effect of CH4 on O3 / 16
 - [PDF page 17](#pdf-page-17): Example: PAN / 17
-- [PDF page 18](#pdf-page-18): relative reactivity of organics / k (25C) 1/(k [.OH]) a
+- [PDF page 18](#pdf-page-18): relative reactivity of organics / k (25C)
 - [PDF page 19](#pdf-page-19): Role of ROG in O3 formation / • ROG enhance O3 formation by converting NO to
 - [PDF page 20](#pdf-page-20): Urban ozone cycle / 20
 - [PDF page 21](#pdf-page-21): Urban ozone cycle / 21
@@ -52,19 +52,20 @@ Scientific verification: not independently verified. Original credits and third-
 - [PDF page 41](#pdf-page-41): Ozone layer function / 41
 - [PDF page 42](#pdf-page-42): Ozone depletion issues / 42
 - [PDF page 43](#pdf-page-43): What is the ozone hole? / The average amount of ozone in the atmosphere is roughly 300 Dobson Units (DU),
-- [PDF page 44](#pdf-page-44): Ozone depletion issues / 44Antarctic ozone hole from 1979 to 2024
-- [PDF page 45](#pdf-page-45): Ozone depletion issues / 45Antarctic ozone hole from 7/1/22 to 12/31/22
+- [PDF page 44](#pdf-page-44): Ozone depletion issues / 44
+- [PDF page 45](#pdf-page-45): Ozone depletion issues / 45
 - [PDF page 46](#pdf-page-46): Stratospheric ozone chemistry - CFCs / 46
 - [PDF page 47](#pdf-page-47): Stratospheric ozone chemistry - CFCs / 47
 - [PDF page 48](#pdf-page-48): Stratospheric ozone chemistry - CFCs / 48
 - [PDF page 49](#pdf-page-49): Stratospheric ozone chemistry - CFCs / 49
 - [PDF page 50](#pdf-page-50): Ozone depletion issues / 50
 - [PDF page 51](#pdf-page-51): Polar stratospheric clouds / 51
-- [PDF page 52](#pdf-page-52): Polar stratospheric clouds / 52PSC as seen in Scandinavia (source unknown)
+- [PDF page 52](#pdf-page-52): Polar stratospheric clouds / 52
 - [PDF page 53](#pdf-page-53): Ozone depletion process / 53
 - [PDF page 54](#pdf-page-54): Ozone depletion process / 54
 - [PDF page 55](#pdf-page-55): Ozone depletion process / 55
 - [PDF page 56](#pdf-page-56): Stratospheric Ozone / Depletion
+
 
 <a id="pdf-page-1"></a>
 ## PDF page 1
@@ -96,7 +97,7 @@ Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 2.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
-Generated navigation topics: Ozone and atmospheric chemistry
+Generated navigation topics: Particles and aerosols, Ozone and atmospheric chemistry, Climate and environmental effects
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -129,7 +130,7 @@ Extraction flags: sparse-text
 
 ### Extracted source text
 
-> Tropospheric ozone 
+> Tropospheric ozone
 > formation
 > 3
 
@@ -146,7 +147,7 @@ Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 4.
 
 Printed slide number candidate: 4 (use PDF page as canonical locator).
 
-Generated navigation topics: Unclassified; inspect source.
+Generated navigation topics: Ozone and atmospheric chemistry
 
 Extraction flags: sparse-text
 
@@ -168,7 +169,7 @@ Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 5.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
-Generated navigation topics: Unclassified; inspect source.
+Generated navigation topics: Ozone and atmospheric chemistry
 
 Extraction flags: sparse-text
 
@@ -191,7 +192,7 @@ Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 6.
 
 Printed slide number candidate: 6 (use PDF page as canonical locator).
 
-Generated navigation topics: Exposure and health, Particles and aerosols, Ozone and atmospheric chemistry, Climate and environmental effects
+Generated navigation topics: Particles and aerosols, Ozone and atmospheric chemistry, Climate and environmental effects
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -202,7 +203,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > • Photochemical Smog (smoke+fog)
 > – ‘Soup’ of gases and aerosols (primary + secondary)
 > – Hazardous to health
-> – Damage to materials, crops, visibility degradation, 
+> – Damage to materials, crops, visibility degradation,
 > effects on climate and clouds
 > • There are many chemicals within smog
 > – PM, O3, HCs, NOx, SO2 etc
@@ -223,7 +224,7 @@ Printed slide number candidate: not identified (use PDF page as canonical locato
 
 Generated navigation topics: Ozone and atmospheric chemistry
 
-Extraction flags: none detected automatically; this is not a fidelity guarantee
+Extraction flags: sparse-text
 
 ### Extracted source text
 
@@ -232,12 +233,13 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > hv
 > Stationary
 > Sources
-> Mobile 
+> Mobile
 > Sources
 > O3 & many other
 > Biogenic
 > Sources
-> VOCs NOx, VOCs, …
+> VOCs
+> NOx, VOCs, …
 
 
 ### Original page appearance
@@ -263,14 +265,14 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > • O3 do naturally occur in troposphere
 > • Approximately 10% of O3 is in the troposphere
 > – The rest is in stratospheric ozone layer
-> • Photolysis of O3 leads to the production of 
+> • Photolysis of O3 leads to the production of
 > hydroxyl radical (OH)
 > – Tropospheric O3 is important source
-> • Reaction with OH radical is the most important 
-> loss mechanism for almost all trace gases 
+> • Reaction with OH radical is the most important
+> loss mechanism for almost all trace gases
 > O3 + h → O*+ O2
 > O*+ H2O → 2 OH
-> Hydroxyl 
+> Hydroxyl
 > radical
 
 
@@ -298,18 +300,24 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > • Three important reactions:
 > O(g) + O2(g) → O3(g)
 > •
-> • M
-> photolysis of NO2 
+> •
+> M
+> photolysis of NO2
 > (production of O and NO)
-> rxn of atomic oxygen with O2 to 
+> rxn of atomic oxygen with O2 to
 > form O3 (almost instantaneous)
-> rxn of NO with O3 (ozone 
+> rxn of NO with O3 (ozone
 > destruction, reformation of NO2)
 > NO2(g) + hv → NO(g) + O(g)
-> • • •
-> •k1
+> •
+> •
+> •
+> •
+> k1
 > NO(g) + O3(g) → NO2(g) + O2(g)
-> • •k3
+> •
+> •
+> k3
 
 
 ### Original page appearance
@@ -334,20 +342,26 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > 10
 > O(g) + O2(g) → O3(g)
 > •
-> • M
-> photolysis of NO2 
+> •
+> M
+> photolysis of NO2
 > O3 formation
 > O3 destruction
 > reformation of NO2
 > NO2(g) + hv → NO(g) + O(g)
-> • • •
-> •k1
+> •
+> •
+> •
+> •
+> k1
 > NO(g) + O3(g) → NO2(g) + O2(g)
-> • •k3
+> •
+> •
+> k3
 > At night, no sunlight
-> these two reactions 
+> these two reactions
 > do not occur
-> At night, this reaction still occur, lead to ozone destruction, 
+> At night, this reaction still occur, lead to ozone destruction,
 > especially near big NO emission sources: NOx titration
 
 
@@ -376,17 +390,34 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > • At equilibrium: photostationary state (pss)
 > – Only in a few minutes with sunlight
 > • At this time, ozone concentration is given by:
-> NO2(g) NO(g) + O3(g)
+> NO2(g)
+> NO(g) + O3(g)
 > k1
 > k3
->    
->  
->  
->  
-> 1 2 2
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 1
+> 2
+> 2
 > 3
 > 3
-> k NO NOO k NO NO=
+> k
+> NO
+> NO
+> O
+> k
+> NO
+> NO
+> =
+> 
 > More NO2, more ozone
 > More NO, less ozone
 
@@ -403,7 +434,7 @@ Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 12.
 
 Printed slide number candidate: 12 (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions, Transport and meteorology, Ozone and atmospheric chemistry
+Generated navigation topics: Pollution sources and emissions, Ozone and atmospheric chemistry
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -411,12 +442,12 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Background ozone chemistry
 > 12
-> • Under clear sky, mid-latitude, mid afternoon 
+> • Under clear sky, mid-latitude, mid afternoon
 > conditions: k1/k3 = 18 ppbv
 > – Typical value, real ratio do vary
-> • BUT, ozone concentration normally way higher 
+> • BUT, ozone concentration normally way higher
 > than that estimated using k1/k3
-> • Also, ozone concentration not highest near NOx 
+> • Also, ozone concentration not highest near NOx
 > emission sources, bur rather downwind
 > – Recall only a few minutes to reach pss
 
@@ -433,27 +464,43 @@ Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 13.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
-Generated navigation topics: Unclassified; inspect source.
+Generated navigation topics: Ozone and atmospheric chemistry
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
 > Reactive OrGanics (ROG)
->        
->   pss:  NO2         NO + O3
->             ROG
+> pss:
+> NO2         NO + O3
+>         ROG
 > Role of reacting organics in smog formation:
 > • convert NO to NO2, thereby increasing O3 via pss
 > • produce aldehydes and peroxyacetyl nitrates (PANs)
->    
->  
->  
->  
-> 1 2 2
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 1
+> 2
+> 2
 > 3
 > 3
-> k NO NOO k NO NO=
+> k
+> NO
+> NO
+> O
+> k
+> NO
+> NO
+> =
+> 
 
 
 ### Original page appearance
@@ -468,7 +515,7 @@ Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 14.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
-Generated navigation topics: Unclassified; inspect source.
+Generated navigation topics: Ozone and atmospheric chemistry
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -481,7 +528,8 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > • transportation sector (50% of anthropogenic)
 > • industrial sector (50%; vaporization of organics)
 > – biogenic (large; isoprene and monoterpenes)
-> limoneneisoprene
+> limonene
+> isoprene
 
 
 ### Original page appearance
@@ -496,28 +544,30 @@ Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 15.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
-Generated navigation topics: Ozone and atmospheric chemistry
+Generated navigation topics: Unclassified; inspect source.
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
 > general reaction mechanism
-> alkane  RH + .OH → R. + H2O
->     R. + O2 → RO2.
->     RO2. + NO → NO2 + RO.
-> RO. + O2 → HO2. + R'CHO
+> alkane
+> RH + .OH → R. + H2O
+> R. + O2 → RO2.
+> RO2. + NO → NO2 + RO.
+> RO. + O2 →HO2. + R'CHO
 > HO2. + NO → NO2 + .OH
-> aldehyde R'CHO + .OH → R'CO. + H2O
->     R'CO. + O2 → R'C(O)O2.
->     R'C(O)O2. + NO → R'C(O)O. + NO2
->     R'C(O)O. → R'. + CO2
-> NO converted to NO2 
+> aldehyde
+> R'CHO + .OH →R'CO. + H2O
+> R'CO. + O2 → R'C(O)O2.
+> R'C(O)O2. + NO → R'C(O)O. + NO2
+> R'C(O)O. → R'. + CO2
+> NO converted to NO2
 > aldehydes (R'CHO) are formed
 > PANs (peroxyacetyl nitrates) can be formed:
 > RC(O)O2. + NO2   RC(O)O2NO2
-> RH + 2 O2 + 2 NO → 
-> R’CHO + H2O + 2 NO2 
+> RH + 2 O2 + 2 NO →
+> R’CHO + H2O + 2 NO2
 > (R' has 1 less C than R)
 > R
 
@@ -542,7 +592,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Example: effect of CH4 on O3
 > 16
-> • Methane is the most abundant organic gas in 
+> • Methane is the most abundant organic gas in
 > the atmosphere (8-12 years of e-folding lifetime).
 > CH4 + OH → CH3 + H2O
 > CH3 + O2 → CH3O2
@@ -550,25 +600,34 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > NO + CH3O2 → CH3O + NO2
 > O(g) + O2(g) → O3(g)
 > •
-> • M
+> •
+> M
 > NO2(g) + hv → NO(g) + O(g)
-> • k1
+> •
+> k1
 > NO(g) + O3(g) → NO2(g) + O2(g)
-> • •k3
+> •
+> •
+> k3
 > Ozone cycle
 > Methoxy
 > radical
 > Methyl
 >  radical
-> Methylperoxy 
+> Methylperoxy
 > radical
-> • •
-> • •
-> •• ••
-> Convert NO to NO2, increase 
+> •
+> •
+> •
+> •
+> •
+> •
+> •
+> •
+> Convert NO to NO2, increase
 > [NO2]/[NO] ratio → increase O3
-> Important source of 
-> water vapor in the 
+> Important source of
+> water vapor in the
 > stratosphere
 
 
@@ -592,23 +651,26 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Example: PAN
 > 17
-> • Acetaldehyde is an important product of ethane 
+> • Acetaldehyde is an important product of ethane
 > oxidation, precursor to peroxyacetyl nitrate (PAN)
 > C2H5O + O2 → CH3CHO + HO2
-> • •
+> •
+> •
 > Ethoxy
 > radical
-> From oxidation of 
+> From oxidation of
 > ethane
 > Acetaldehyde
-> Enhance ozone 
+> Enhance ozone
 > formation
-> C2H5O + OH → acetyl radical → peroxyacetyl radical 
-> M 
+> C2H5O + OH → acetyl radical → peroxyacetyl radical
+> M
 > O2
-> ՜ ՚
-> M 
-> peroxyacetyl radical + NO2 CH3C(=O)O2NO2 
+> ՜
+> ՚
+> M
+> peroxyacetyl radical + NO2
+> CH3C(=O)O2NO2
 > PAN
 
 
@@ -631,18 +693,34 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 ### Extracted source text
 
 > relative reactivity of organics
->         k (25C) 1/(k [.OH]) a
->         cm3 molecule-1 s-1
-> CO + .OH → CO2 + H.    1.5x10-13  36 days
-> CH4 + .OH → CH3. + H2O   6.3x10-15  3 years
-> C2H6 + .OH → C2H5. + H2O 2.6x10-13 30 days
-> C3H8 + .OH → C3H7. + H2O 1.2x10-12 7 days
-> other alkanes, CnH2n+2 + .OH → …     6 hrs - 7 days
-> C2H4 + .OH → .CH2-CH2OH   8.5x10-12  22 hours
-> C3H6 + .OH → CH3-.CH-CH2OH  2.6x10-11  7 hours
-> other alkenes, CnH2n + .OH → …     2 - 8 hours
-> RCHO + .OH → RC.O + H2O 2 - 12 hours
-> aTime takes for reactant concentration drop to 37%, assuming 
+> k (25C)
+> 1/(k [.OH]) a
+> cm3 molecule-1 s-1
+> CO + .OH → CO2 + H.
+> 1.5x10-13
+> 36 days
+> CH4 + .OH → CH3. + H2O
+> 6.3x10-15
+> 3 years
+> C2H6 + .OH →C2H5. + H2O
+> 2.6x10-13
+> 30 days
+> C3H8 + .OH →C3H7. + H2O
+> 1.2x10-12
+> 7 days
+> other alkanes, CnH2n+2 + .OH → …
+> 6 hrs - 7 days
+> C2H4 + .OH → .CH2-CH2OH
+> 8.5x10-12
+> 22 hours
+> C3H6 + .OH → CH3-.CH-CH2OH
+> 2.6x10-11
+> 7 hours
+> other alkenes, CnH2n + .OH → …
+> 2 - 8 hours
+> RCHO + .OH →RC.O + H2O
+> 2 - 12 hours
+> aTime takes for reactant concentration drop to 37%, assuming
 > [.OH] = 0.06 ppt = 1.5x106 molecules/cm3
 
 
@@ -665,15 +743,15 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 ### Extracted source text
 
 > Role of ROG in O3 formation
-> • ROG enhance O3 formation by converting NO to 
+> • ROG enhance O3 formation by converting NO to
 > NO2, but it take time for their effects to kick in
-> • While wind carry the mixture of NOx and ROG 
-> away, reactions occur that increase O3 
+> • While wind carry the mixture of NOx and ROG
+> away, reactions occur that increase O3
 > concentration.
-> • Highest  ozone concentration not found near 
-> NOx emission sources (urban regions), but 
-> rather downwind 
-> • ROG reaction produce aldehydes, many are 
+> • Highest  ozone concentration not found near
+> NOx emission sources (urban regions), but
+> rather downwind
+> • ROG reaction produce aldehydes, many are
 > human carcinogen
 > 19
 
@@ -721,8 +799,8 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Urban ozone cycle
 > 21
-> • Ozone formation potential of different VOCs 
-> differs depending on 
+> • Ozone formation potential of different VOCs
+> differs depending on
 > – Abundance of reactant
 > – Rate of initial attack on precursor (by OH)
 > – # of NO → NO2 conversions per VOC molecule
@@ -752,13 +830,13 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > Diurnal variations in smog
 > 22
 > Typical pollutant concentration variation during one day (Godish, 2003)
-> Morning rush hour 
-> and inversion 
-> NO 
+> Morning rush hour
+> and inversion
+> NO
 > conversion
-> intermediate products 
+> intermediate products
 > of HC chemistry
-> Sunlight, 
+> Sunlight,
 > photochemistry
 > Three important factors: Emissions, Mixing height, Chemistry
 
@@ -775,7 +853,7 @@ Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 23.
 
 Printed slide number candidate: 23 (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions, Transport and meteorology, Ozone and atmospheric chemistry
+Generated navigation topics: Pollution sources and emissions, Ozone and atmospheric chemistry
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -783,11 +861,11 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Control of ozone
 > 23
-> • As a secondary pollutants, ozone concentration 
+> • As a secondary pollutants, ozone concentration
 > typically reaches max at 50-100 km downwind
-> • Reduction in NOx/VOC emissions does not 
+> • Reduction in NOx/VOC emissions does not
 > necessarily reduce ozone concentration
-> • Depending on where you are at the ozone 
+> • Depending on where you are at the ozone
 > isopleth
 > – Ozone concentration ~ VOC & NOx concentration
 
@@ -811,15 +889,15 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 ### Extracted source text
 
 > Ozone isopleth
-> Reduction in NOx 
-> increase O3. 
-> Reduction in VOC 
+> Reduction in NOx
+> increase O3.
+> Reduction in VOC
 > decrease O3.
 > NOx limited
 > VOC limited
-> Reduction in NOx 
-> decrease O3. 
-> Reduction in VOC 
+> Reduction in NOx
+> decrease O3.
+> Reduction in VOC
 > no effect on O3.
 
 
@@ -865,7 +943,7 @@ Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 26.
 
 Printed slide number candidate: 26 (use PDF page as canonical locator).
 
-Generated navigation topics: Ozone and atmospheric chemistry
+Generated navigation topics: Climate and environmental effects
 
 Extraction flags: sparse-text
 
@@ -895,7 +973,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Deposition
 > 27
-> • Transfer of pollutants (and pollutant products) 
+> • Transfer of pollutants (and pollutant products)
 > from the atmosphere to the earth’s surface
 > • Have effects at many scales
 > – Acidification of lakes (and soils)
@@ -917,7 +995,7 @@ Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 28.
 
 Printed slide number candidate: 28 (use PDF page as canonical locator).
 
-Generated navigation topics: Ozone and atmospheric chemistry
+Generated navigation topics: Climate and environmental effects
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -927,10 +1005,10 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > 28
 > • Dry deposition: Direct deposition to surfaces
 > • Wet deposition: Precipitation involved deposition
-> • Acid deposition: Creation and transport of acid 
+> • Acid deposition: Creation and transport of acid
 > constituents from atmosphere to earth surface
 > – Can be both dry and wet deposition
-> – Chemical reactions usually involved in both gaseous 
+> – Chemical reactions usually involved in both gaseous
 > and aqueous phase
 
 
@@ -958,9 +1036,9 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > – Characterized by pH value
 > pH = -log10[H+]
 >                   [H+]: molarity (molar or moles/liter)
-> • Chemical releases [H+] ions → lower pH → 
+> • Chemical releases [H+] ions → lower pH →
 > increase acidity
-> • Chemical take up [H+] ions → higher pH → 
+> • Chemical take up [H+] ions → higher pH →
 > decrease acidity
 
 
@@ -984,7 +1062,21 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > pH Scale
 > 30
-> 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+> 0
+> 1
+> 2
+> 3
+> 4
+> 5
+> 6
+> 7
+> 8
+> 9
+> 10
+> 11
+> 12
+> 13
+> 14
 > Natural
 > rainwater
 > (5-5.6)
@@ -1001,7 +1093,8 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > Acid
 > rain, fog
 > (2-5.6)
-> More acidic More basic or alkaline
+> More acidic
+> More basic or alkaline
 > Lemon
 > juice
 > (2.2)
@@ -1041,7 +1134,7 @@ Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 31.
 
 Printed slide number candidate: 31 (use PDF page as canonical locator).
 
-Generated navigation topics: Unclassified; inspect source.
+Generated navigation topics: Climate and environmental effects
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -1049,7 +1142,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Dissociation of CO2
 > 31
-> • Rain water is slightly acidic naturally (pH ~= 5.6) 
+> • Rain water is slightly acidic naturally (pH ~= 5.6)
 > due to dissolved CO2
 > • Acid rain: rain water with pH < 5
 > CO2 + H2O ⇆ H2CO3
@@ -1078,7 +1171,7 @@ Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 32.
 
 Printed slide number candidate: 32 (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions, Ozone and atmospheric chemistry
+Generated navigation topics: Pollution sources and emissions, Ozone and atmospheric chemistry, Climate and environmental effects
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -1087,11 +1180,11 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > Main constituents of acid deposition
 > 32
 > • H2SO4
-> – Most important in eastern U.S (60 to 70 % of excess 
+> – Most important in eastern U.S (60 to 70 % of excess
 > acidity)
-> – From emitted SO2 
+> – From emitted SO2
 > – 70% of SO2 emissions are anthropogenic in U.S.
-> • HNO3 
+> • HNO3
 > – More important in western U.S.
 > – Near polluted cities with fog (such as LA)
 > – From emitted NOx
@@ -1110,7 +1203,7 @@ Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 33.
 
 Printed slide number candidate: 33 (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions, Ozone and atmospheric chemistry
+Generated navigation topics: Pollution sources and emissions, Climate and environmental effects
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -1124,7 +1217,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > – Only about 5% of acidity
 > • Role of other acids are not as important
 > – Formic (HCOOH) & acetic acid (vinegar, CH3COOH)
-> • Acid rain control is very successful in US due to 
+> • Acid rain control is very successful in US due to
 > increasingly stringent emission controls
 
 
@@ -1140,15 +1233,15 @@ Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 34.
 
 Printed slide number candidate: 34 (use PDF page as canonical locator).
 
-Generated navigation topics: Ozone and atmospheric chemistry
+Generated navigation topics: Monitoring networks and siting
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
 > pH of rain
-> The National Atmospheric Deposition Program 
-> (NADP) monitors precipitation chemistry, National 
+> The National Atmospheric Deposition Program
+> (NADP) monitors precipitation chemistry, National
 > Trends Network (NTN), https://nadp.slh.wisc.edu/
 > 1985
 > 1990
@@ -1194,7 +1287,7 @@ Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 36.
 
 Printed slide number candidate: 36 (use PDF page as canonical locator).
 
-Generated navigation topics: Exposure and health, Ozone and atmospheric chemistry
+Generated navigation topics: Exposure and health, Ozone and atmospheric chemistry, Climate and environmental effects
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -1202,7 +1295,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Introduction
 > 36
-> • Ozone presented in both troposphere and 
+> • Ozone presented in both troposphere and
 > stratosphere
 > • In troposphere → bad ozone
 > – Health effect when exposed to
@@ -1249,7 +1342,7 @@ Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 38.
 
 Printed slide number candidate: 38 (use PDF page as canonical locator).
 
-Generated navigation topics: Ozone and atmospheric chemistry, Policy and management context
+Generated navigation topics: Ozone and atmospheric chemistry
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -1257,13 +1350,13 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Ozone layer structure
 > 38
-> • Traditionally, ozone concentration 
+> • Traditionally, ozone concentration
 > expressed in Dubson Unit (DU)
-> – Layer of gas that would be 10 µm think under 
+> – Layer of gas that would be 10 µm think under
 > standard temperature and pressure
-> – Globally ozone average concentration ~ 300 
+> – Globally ozone average concentration ~ 300
 > DU
-> • Ozone concentration varies vertically and 
+> • Ozone concentration varies vertically and
 > horizontally
 
 
@@ -1287,17 +1380,17 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Horizontal ozone layer structure
 > 39
-> Ozone concentration variation with time & 
-> latitude as measured by NASA TOMS 
+> Ozone concentration variation with time &
+> latitude as measured by NASA TOMS
 > satellite (Jacobson, 2002)
 > Low at equator
-> North hemisphere 
-> high in north 
+> North hemisphere
+> high in north
 > spring
-> South 
-> hemisphere high 
+> South
+> hemisphere high
 > in south spring
-> Antarctic 
+> Antarctic
 > ozone hole
 
 
@@ -1321,7 +1414,7 @@ Extraction flags: sparse-text
 
 > Ozone layer function
 > 40
-> • Ozone absorbs harmful UV radiation 
+> • Ozone absorbs harmful UV radiation
 
 
 ### Original page appearance
@@ -1349,9 +1442,9 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > – Strongly at 310 nm
 > – Weakly between 310-345 nm
 > – N2, O2 absorbs far-UV (10-250 nm)
-> • Allow little UV-C, some UV-B and most 
+> • Allow little UV-C, some UV-B and most
 > UV-A reaches troposphere
-> • Some say, without ozone layer, no life 
+> • Some say, without ozone layer, no life
 > form as we know will exist
 
 
@@ -1376,7 +1469,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > Ozone depletion issues
 > 42
 > • Largest ozone reduction observed near N/S poles
-> • Substantial ozone reduction above Antarctic observed 
+> • Substantial ozone reduction above Antarctic observed
 > at the beginning of southern hemisphere spring
 > – Antarctic ozone hole
 > – Up to 70% reduction
@@ -1405,18 +1498,19 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 ### Extracted source text
 
 > What is the ozone hole?
-> The average amount of ozone in the atmosphere is roughly 300 Dobson Units (DU), 
-> equivalent to a layer 3 mm thick. Instruments on ground (at Halley) and above Antarctica 
+> The average amount of ozone in the atmosphere is roughly 300 Dobson Units (DU),
+> equivalent to a layer 3 mm thick. Instruments on ground (at Halley) and above Antarctica
 > measured an acute drop in total atmospheric ozone during October in the early 1980s.
-> The ozone “hole” is an area where ozone 
+> The ozone “hole” is an area where ozone
 > concentration drops to below 220 DU.
 > October 4, 2024
-> ozone hole areaaverage ozone concentration (1 DU = 0.01 mm thickness)
-> ozone hole 
+> ozone hole area
+> average ozone concentration (1 DU = 0.01 mm thickness)
+> ozone hole
 > (<220 DU)
 > avg = 300 DU
-> October data; instruments located on ground at Halley and 
-> high above Antarctica (Total Ozone Mapping Spectrometer 
+> October data; instruments located on ground at Halley and
+> high above Antarctica (Total Ozone Mapping Spectrometer
 > [TOMS] and Ozone Monitoring Instrument [OMI]).
 > 220
 > http://ozonewatch.gsfc.nasa.gov/facts/history_SH.html
@@ -1432,16 +1526,17 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 44.
 
-Printed slide number candidate: not identified (use PDF page as canonical locator).
+Printed slide number candidate: 44 (use PDF page as canonical locator).
 
 Generated navigation topics: Ozone and atmospheric chemistry
 
-Extraction flags: none detected automatically; this is not a fidelity guarantee
+Extraction flags: sparse-text
 
 ### Extracted source text
 
 > Ozone depletion issues
-> 44Antarctic ozone hole from 1979 to 2024
+> 44
+> Antarctic ozone hole from 1979 to 2024
 > (NASA Ozone watch http://ozonewatch.gsfc.nasa.gov/monthly/SH.html)
 
 
@@ -1455,7 +1550,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 45.
 
-Printed slide number candidate: not identified (use PDF page as canonical locator).
+Printed slide number candidate: 45 (use PDF page as canonical locator).
 
 Generated navigation topics: Ozone and atmospheric chemistry
 
@@ -1464,7 +1559,8 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 ### Extracted source text
 
 > Ozone depletion issues
-> 45Antarctic ozone hole from 7/1/22 to 12/31/22
+> 45
+> Antarctic ozone hole from 7/1/22 to 12/31/22
 > (NASA Ozone watch http://ozonewatch.gsfc.nasa.gov/monthly/SH.html)
 
 
@@ -1491,11 +1587,11 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > • Chlorofluorocarbons (CFC)
 > – Contains chlorine (Cl) and fluorine (F)
 > – Produced synthetically
-> – Cheap, nontoxic, nonflammable, nonexplosive, 
+> – Cheap, nontoxic, nonflammable, nonexplosive,
 > insoluble, relatively inert
 > – Used in refrigeration, spray cans, blowing agent
 > – Average lifetime ~ 75 years
-> • There are also other halogenated species: 
+> • There are also other halogenated species:
 > HCFCs, HFCs, bromine containing chemicals…
 
 
@@ -1519,11 +1615,11 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Stratospheric ozone chemistry - CFCs
 > 47
-> • In stratosphere, CFC break down when exposed 
+> • In stratosphere, CFC break down when exposed
 > to far-UV, release ClOx and atomic chlorine
 > • CFC don’t break down in troposphere (why?)
 > – Hence climb to stratosphere
-> • Destruct ozone through the generalized catalytic 
+> • Destruct ozone through the generalized catalytic
 > ozone destruction mechanism
 > Cl + O3 → ClO + O2
 > ClO + O → Cl + O2
@@ -1552,10 +1648,10 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > Stratospheric ozone chemistry - CFCs
 > 48
 > • -Cl chain length: 10 -1,000 (Jacobson, 2002)
-> – One Cl molecule on average destructs 10-1,000 
-> ozone molecules in lower and upper stratosphere, 
+> – One Cl molecule on average destructs 10-1,000
+> ozone molecules in lower and upper stratosphere,
 > respectively. Aka chain length
-> – Bigger chain length number, more powerful ozone 
+> – Bigger chain length number, more powerful ozone
 > destruction
 > • -Br chain length: 100 - 10,000 (Jacobson, 2002)
 > – Slower reaction, more efficient
@@ -1586,7 +1682,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > – Reactions to form reservoir species: HCl and ClONO2
 > • Hydrochloric acid and chlorine nitrate
 > – Temporarily store chlorine
-> – When sunlight present, can photolyzed back to free 
+> – When sunlight present, can photolyzed back to free
 > chlorine, continue ozone destruction
 > • Bromine chemistry is similar
 
@@ -1611,12 +1707,12 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Ozone depletion issues
 > 50
-> • Ozone reduction near N/S poles generally 
+> • Ozone reduction near N/S poles generally
 > observed in/near spring time
 > – Spring time differs for north/south hemisphere
-> • One factor: Cl and Br in stratosphere & their 
+> • One factor: Cl and Br in stratosphere & their
 > chemistry in polar stratospheric clouds (PSC)
-> – Recall that active chlorine (Cl, ClO)/Br destroy ozone 
+> – Recall that active chlorine (Cl, ClO)/Br destroy ozone
 > through generalized catalytic mechanism
 
 
@@ -1638,10 +1734,10 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> Polar stratospheric clouds 
+> Polar stratospheric clouds
 > 51
-> Polar Stratospheric Cloud, seen from the NASA DC-8 
-> on 14 January 2003 (photograph by Paul Newman, 
+> Polar Stratospheric Cloud, seen from the NASA DC-8
+> on 14 January 2003 (photograph by Paul Newman,
 > GSFC) http://remus.jpl.nasa.gov/kiruna/a015.htm
 
 
@@ -1655,7 +1751,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 Source locator: `ENV5128-01-airpollutionbasics-2`, PDF p. 52.
 
-Printed slide number candidate: not identified (use PDF page as canonical locator).
+Printed slide number candidate: 52 (use PDF page as canonical locator).
 
 Generated navigation topics: Unclassified; inspect source.
 
@@ -1663,8 +1759,9 @@ Extraction flags: sparse-text
 
 ### Extracted source text
 
-> Polar stratospheric clouds 
-> 52PSC as seen in Scandinavia (source unknown)
+> Polar stratospheric clouds
+> 52
+> PSC as seen in Scandinavia (source unknown)
 
 
 ### Original page appearance
@@ -1688,14 +1785,14 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > Ozone depletion process
 > 53
 > • During polar night (before spring)
-> – Polar stratospheric clouds (PSC) forms → reactions 
-> occur inside PSC → convert inactive Cl/Br (such as 
-> reservoir species HCl and ClONO2) to species that 
+> – Polar stratospheric clouds (PSC) forms → reactions
+> occur inside PSC → convert inactive Cl/Br (such as
+> reservoir species HCl and ClONO2) to species that
 > are photo-chemically active (Cl2, HOCl, ClNO2 etc)
 > – Chlorine activation
 > • Beginning of polar day (early spring)
-> – Photo-chemically active species go through 
-> photolysis reaction → release active Cl/Br (Cl, ClO) → 
+> – Photo-chemically active species go through
+> photolysis reaction → release active Cl/Br (Cl, ClO) →
 > catalytically destroy ozone
 
 
@@ -1713,7 +1810,7 @@ Printed slide number candidate: 54 (use PDF page as canonical locator).
 
 Generated navigation topics: Ozone and atmospheric chemistry
 
-Extraction flags: none detected automatically; this is not a fidelity guarantee
+Extraction flags: sparse-text
 
 ### Extracted source text
 
@@ -1742,7 +1839,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Ozone depletion process
 > 55
-> • Why ozone depletion is less severe in north 
+> • Why ozone depletion is less severe in north
 > pole?
 > • Temperature higher in Arctic
 > – Less PSC formation, less chlorine activation
@@ -1769,7 +1866,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> Stratospheric Ozone 
+> Stratospheric Ozone
 > Depletion
 > Websites:
 > http://ozonewatch.gsfc.nasa.gov/
@@ -1781,3 +1878,4 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 ### Original page appearance
 
 ![ENV5128-01-airpollutionbasics-2, PDF page 56](../../pages/ENV5128-01-airpollutionbasics-2/page-0056.jpg)
+

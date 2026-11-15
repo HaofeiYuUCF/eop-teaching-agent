@@ -1,6 +1,6 @@
 # ENV5128-02-monitoringnetwork
 
-Course folder: 5128 (graduate). Displayed course number: 6128.
+Course folder: 5128 (graduate). Displayed course number: 5128.
 
 Original file: 02_MonitoringNetwork.pdf (held by the course owner; not included in this repository)
 
@@ -9,7 +9,7 @@ This is a page-level reference extraction, not an approved teaching package. Ext
 Scientific verification: not independently verified. Original credits and third-party rights remain applicable.
 
 ## Page directory
-- [PDF page 1](#pdf-page-1): ENV 6128 / Smart Air Quality Monitoring &
+- [PDF page 1](#pdf-page-1): ENV 5128 / Smart Air Quality Monitoring &
 - [PDF page 2](#pdf-page-2): Today’s Topics / • Introduction to air monitoring network
 - [PDF page 3](#pdf-page-3): Air Monitoring Networks / 3
 - [PDF page 4](#pdf-page-4): State or Local Air Monitoring Stations / (SLAMS)
@@ -21,6 +21,7 @@ Scientific verification: not independently verified. Original credits and third-
 - [PDF page 10](#pdf-page-10): Interagency Monitoring of Protected Visual / Environments (IMPROVE)
 - [PDF page 11](#pdf-page-11): Clean Air Status and Trends Network / (CASTNET)
 - [PDF page 12](#pdf-page-12): National Atmospheric Deposition / Network (NADP)
+
 
 <a id="pdf-page-1"></a>
 ## PDF page 1
@@ -35,7 +36,7 @@ Extraction flags: sparse-text
 
 ### Extracted source text
 
-> ENV 6128
+> ENV 5128
 > Smart Air Quality Monitoring &
 > Air Pollution Control
 
@@ -54,14 +55,14 @@ Printed slide number candidate: not identified (use PDF page as canonical locato
 
 Generated navigation topics: Monitoring networks and siting
 
-Extraction flags: none detected automatically; this is not a fidelity guarantee
+Extraction flags: sparse-text
 
 ### Extracted source text
 
 > Today’s Topics
 > • Introduction to air monitoring network
 > • Expectation
-> – Understand different air monitoring networks in the 
+> – Understand different air monitoring networks in the
 > US
 
 
@@ -77,7 +78,7 @@ Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 3.
 
 Printed slide number candidate: 3 (use PDF page as canonical locator).
 
-Generated navigation topics: Monitoring networks and siting, Ozone and atmospheric chemistry, Policy and management context
+Generated navigation topics: Monitoring networks and siting, Particles and aerosols, Ozone and atmospheric chemistry
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -85,18 +86,28 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Air Monitoring Networks
 > 3
-> • State or Local Air Monitoring Stations (SLAMS) 
-> • National Core (NCore) 
-> • Photochemical Assessment Monitoring Stations (PAMS)
-> • PM2.5 Chemical Speciation Network (CSN) 
-> • National Toxics Trends Network (NATTS)
-> • Interagency Monitoring of Protected Visual Environments 
+> •
+> State or Local Air Monitoring Stations (SLAMS)
+> •
+> National Core (NCore)
+> •
+> Photochemical Assessment Monitoring Stations (PAMS)
+> •
+> PM2.5 Chemical Speciation Network (CSN)
+> •
+> National Toxics Trends Network (NATTS)
+> •
+> Interagency Monitoring of Protected Visual Environments
 > (IMPROVE)
-> • Clean Air Status and Trends Network (CASTNET) 
-> • National Atmospheric Deposition Network (NADP)
-> • Other non-regulatory or industrial monitors such as Special Purpose 
-> Monitors (SPM) 
-> • Tribal air monitoring programs
+> •
+> Clean Air Status and Trends Network (CASTNET)
+> •
+> National Atmospheric Deposition Network (NADP)
+> •
+> Other non-regulatory or industrial monitors such as Special Purpose
+> Monitors (SPM)
+> •
+> Tribal air monitoring programs
 > FLDEP: https://floridadep.gov/air/air-monitoring/documents/2026-ambient-air-monitoring-network-plan
 > Source: National Air Quality Monitoring Program Fact Sheets
 
@@ -113,27 +124,33 @@ Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 4.
 
 Printed slide number candidate: 4 (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions, Monitoring networks and siting, Policy and management context
+Generated navigation topics: Monitoring networks and siting, Measurement methods and instruments, Policy and management context
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> State or Local Air Monitoring Stations 
+> State or Local Air Monitoring Stations
 > (SLAMS)
 > 4
-> • Biggest network
-> • Operated by state or local agencies
-> • Primary purpose: comparison to NAAQS
-> – Must use Federal reference method (FRM), Federal equivalent method 
-> (FEM), or Approved Regional Method (ARM) monitors 
-> • Additional purposes may also include:
+> •
+> Biggest network
+> •
+> Operated by state or local agencies
+> •
+> Primary purpose: comparison to NAAQS
+> – Must use Federal reference method (FRM), Federal equivalent method
+> (FEM), or Approved Regional Method (ARM) monitors
+> •
+> Additional purposes may also include:
 > – Provide air pollution data to the general public in a timely manner
-> – Support compliance with air quality standards and emissions strategy 
+> – Support compliance with air quality standards and emissions strategy
 > development
 > – Support air pollution research studies
-> • SLAMS network include NCore, PAMS, and CSN networks
-> • Details in CFR Title 40, Parts 50, 53 and 58
+> •
+> SLAMS network include NCore, PAMS, and CSN networks
+> •
+> Details in CFR Title 40, Parts 50, 53 and 58
 
 
 ### Original page appearance
@@ -148,7 +165,7 @@ Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 5.
 
 Printed slide number candidate: 5 (use PDF page as canonical locator).
 
-Generated navigation topics: Monitoring networks and siting, Climate and environmental effects, Policy and management context
+Generated navigation topics: Monitoring networks and siting, Climate and environmental effects
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -156,16 +173,22 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > SLAMS location considerations
 > 5
-> • The highest concentrations expected to occur in the area 
-> covered by the network; 
-> • Typical concentrations in areas of high population density;
-> • The impact on ambient pollution levels of significant sources 
-> or source categories; 
-> • The general background concentration levels;
-> • The extent of regional pollutant transport among populated 
+> •
+> The highest concentrations expected to occur in the area
+> covered by the network;
+> •
+> Typical concentrations in areas of high population density;
+> •
+> The impact on ambient pollution levels of significant sources
+> or source categories;
+> •
+> The general background concentration levels;
+> •
+> The extent of regional pollutant transport among populated
 > areas, and in support of secondary standards; and
-> • Air pollution impacts on visibility, vegetation damage, or other  
-> welfare- based impacts. 
+> •
+> Air pollution impacts on visibility, vegetation damage, or other
+> welfare- based impacts.
 
 
 ### Original page appearance
@@ -180,22 +203,22 @@ Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 6.
 
 Printed slide number candidate: 6 (use PDF page as canonical locator).
 
-Generated navigation topics: Transport and meteorology, Monitoring networks and siting, Measurement methods and instruments, Policy and management context
+Generated navigation topics: Monitoring networks and siting, Measurement methods and instruments, Particles and aerosols
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> National Core (NCore) 
+> National Core (NCore)
 > 6
 > • Part of SLAMS network
 > • Characterize regional and urban patterns of air pollution
 > • Comprehensive multi-pollutant measurement
-> – PM2.5, speciated PM2.5, PM10-2.5, speciated PM10-2.5, O3, 
+> – PM2.5, speciated PM2.5, PM10-2.5, speciated PM10-2.5, O3,
 > SO2, CO, NO/NO2/NOy, basic meteorology
-> • Monitors for all gases (except for O3) needs to be more 
+> • Monitors for all gases (except for O3) needs to be more
 > sensitive than standard FRM/FEM monitors
-> – Likely some pollutant concentrations are low 
+> – Likely some pollutant concentrations are low
 > Website: https://www.epa.gov/amtic/ncore-monitoring-network
 
 
@@ -211,20 +234,20 @@ Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 7.
 
 Printed slide number candidate: 7 (use PDF page as canonical locator).
 
-Generated navigation topics: Monitoring networks and siting, Ozone and atmospheric chemistry
+Generated navigation topics: Monitoring networks and siting, Ozone and atmospheric chemistry, Policy and management context
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> Photochemical Assessment Monitoring 
+> Photochemical Assessment Monitoring
 > Stations (PAMS)
 > 7
 > • Part of SLAMS network
-> • For evaluating, tracking the progress and refining control 
+> • For evaluating, tracking the progress and refining control
 > strategies for ozone control
-> • Monitor ozone, NOx, and VOC to obtain more 
-> comprehensive and representative data on ozone air 
+> • Monitor ozone, NOx, and VOC to obtain more
+> comprehensive and representative data on ozone air
 > pollution
 > – Recall ozone isopleth plot and how ozone control works
 > Website: https://www.epa.gov/amtic/photochemical-assessment-
@@ -253,9 +276,9 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > • Part of SLAMS network
 > • Provide PM chemical composition data
 > – Filter collection → chemical analysis
-> • Mostly located near larger Metropolitan Statistical Areas, 
+> • Mostly located near larger Metropolitan Statistical Areas,
 > some co-located with PAMS network
-> • A subset called Speciation Trends Network (STN) 
+> • A subset called Speciation Trends Network (STN)
 > provide long-term chemical trend of PM composition
 > – Annual and seasonal spatial characterization of aerosols
 > – Air quality trends and control progress tracking
@@ -276,23 +299,23 @@ Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 9.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions, Exposure and health
+Generated navigation topics: Pollution sources and emissions, Exposure and health, Monitoring networks and siting
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> National Toxics Trends Network 
+> National Toxics Trends Network
 > (NATTS)
-> • Main goal: Tracking ambient trends, facilitate tracking 
+> • Main goal: Tracking ambient trends, facilitate tracking
 > progress toward emission and risk reduction goals
-> • Evaluate public exposure & environmental impacts in the 
+> • Evaluate public exposure & environmental impacts in the
 > near monitors
-> • Provide quality assured air toxic data for risk 
+> • Provide quality assured air toxic data for risk
 > characterization
-> • Assess effectiveness of specific emission reduction 
+> • Assess effectiveness of specific emission reduction
 > activities
-> • Evaluate and improve air toxics emission inventories and 
+> • Evaluate and improve air toxics emission inventories and
 > model performance
 > • Recall Air toxic screening / NATA
 > Website: https://www.epa.gov/amtic/air-toxics-ambient-monitoring
@@ -310,24 +333,24 @@ Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 10.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions, Particles and aerosols, Climate and environmental effects
+Generated navigation topics: Pollution sources and emissions, Monitoring networks and siting, Climate and environmental effects
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> Interagency Monitoring of Protected Visual 
+> Interagency Monitoring of Protected Visual
 > Environments (IMPROVE)
 > • Help protection of visibility in Class I areas
 > • Goals:
-> – Establish current visibility and aerosol conditions in 
-> mandatory class I areas 
-> – Identify chemical species and emission sources 
-> responsible for existing visibility impairment 
-> – Document long-term trends for assessing progress 
-> towards the national visibility goal 
-> – Provide regional haze monitoring representing all 
-> visibility-protected class I areas where practical 
+> – Establish current visibility and aerosol conditions in
+> mandatory class I areas
+> – Identify chemical species and emission sources
+> responsible for existing visibility impairment
+> – Document long-term trends for assessing progress
+> towards the national visibility goal
+> – Provide regional haze monitoring representing all
+> visibility-protected class I areas where practical
 > IMPROVE site: https://vista.cira.colostate.edu/improve/
 
 
@@ -343,21 +366,21 @@ Source locator: `ENV5128-02-monitoringnetwork`, PDF p. 11.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions, Policy and management context
+Generated navigation topics: Pollution sources and emissions, Monitoring networks and siting, Policy and management context
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> Clean Air Status and Trends Network 
-> (CASTNET) 
+> Clean Air Status and Trends Network
+> (CASTNET)
 > • Long-term multipollutant air quality network in rural area
 > – 35 years of continuous data
 > • Main goals
 > – Assess the effectiveness of emission reduction programs
 > – Support the assessment of the primary and secondary NAAQS
 > – Assessing air pollution impacts to sensitive ecosystems
-> • Many co-locate with National Atmospheric Deposition 
+> • Many co-locate with National Atmospheric Deposition
 > Program (NADP) monitors
 > Website: https://www.epa.gov/castnet
 
@@ -380,19 +403,19 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> National Atmospheric Deposition 
+> National Atmospheric Deposition
 > Network (NADP)
 > • NADP operates several networks
-> – National Trends Network (NTN): provides a long-term record of 
+> – National Trends Network (NTN): provides a long-term record of
 > the acids, nutrients, and base cations in U.S. precipitation.
-> – Mercury Deposition Network (MDN): provides data on the 
+> – Mercury Deposition Network (MDN): provides data on the
 > geographic distributions and trends of mercury in precipitation.
-> – Ammonia Monitoring Network (AMoN): measures air 
+> – Ammonia Monitoring Network (AMoN): measures air
 > concentration of ammonia using passive monitors
-> – Atmospheric Mercury Network (AMNet): reports atmospheric 
+> – Atmospheric Mercury Network (AMNet): reports atmospheric
 > mercury for determination of mercury dry deposition
-> – Mercury Litterfall Network (MLN): provides an estimate of an 
-> important component of mercury dry deposition to a forested 
+> – Mercury Litterfall Network (MLN): provides an estimate of an
+> important component of mercury dry deposition to a forested
 > landscape
 > Website: https://nadp.slh.wisc.edu/
 
@@ -400,3 +423,4 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 ### Original page appearance
 
 ![ENV5128-02-monitoringnetwork, PDF page 12](../../pages/ENV5128-02-monitoringnetwork/page-0012.jpg)
+

@@ -6,6 +6,8 @@ Course ownership was reported by the PI. Individual contributor and third-party 
 
 Original library build time (UTC): 2026-09-16T02:15:27.908944+00:00.
 
+ENV 5128 rebuilt from the course owner's updated slides on 2026-11-15; its fingerprints below are for those files.
+
 Original v4 archive SHA-256: `f296f37fdb8a88165de35989c850fc6edc36cab04ca8402c96f80218c0a961aa`.
 
 File fingerprints below allow future maintainers to identify the exact imported version. They do not need to be interpreted to use the library. Page text, visual references, navigation tags, and extraction flags remain in the individual Markdown references.
@@ -389,7 +391,8 @@ These are file metadata fields, not independently confirmed author or creation i
 | Authorship status | User supplied as their teaching materials; individual authorship is not inferred from PDF metadata. Preserve visible credits. |
 | Verification | not independently verified |
 | Rights | Original course and third-party rights retained; no new redistribution license granted. |
-| Original import location | C:\Users\Haofe\OneDrive\Desktop\Temp\EOP\5128\01_AirPollutionBasics_1.pdf |
+| Original import location | C:\Users\Haofe\OneDrive - University of Central Florida\80_Teaching\ENV 5128\01_Introduction\01_AirPollutionBasics_1.pdf |
+| Imported | 2026-11-15 |
 
 ### Extracted cover text
 > ENV 5128
@@ -425,7 +428,8 @@ These are file metadata fields, not independently confirmed author or creation i
 | Authorship status | User supplied as their teaching materials; individual authorship is not inferred from PDF metadata. Preserve visible credits. |
 | Verification | not independently verified |
 | Rights | Original course and third-party rights retained; no new redistribution license granted. |
-| Original import location | C:\Users\Haofe\OneDrive\Desktop\Temp\EOP\5128\01_AirPollutionBasics_2.pdf |
+| Original import location | C:\Users\Haofe\OneDrive - University of Central Florida\80_Teaching\ENV 5128\01_Introduction\01_AirPollutionBasics_2.pdf |
+| Imported | 2026-11-15 |
 
 ### Extracted cover text
 > ENV 5128
@@ -454,14 +458,15 @@ These are file metadata fields, not independently confirmed author or creation i
 | Displayed course number | 5128 |
 | Original filename | 01_AirPollutionBasics_3.pdf |
 | PDF pages | 36 |
-| SHA-256 | 50587a157247725d42f989b8479504d5a604edbfbd5b2e2d52ba47f74b2781d5 |
+| SHA-256 | 4af20acc5f3d472e8e7ddec9e5f08a7bcd4ca95cb034dee0cc32fe76124ad573 |
 | Visible cover dates | Not identified |
 | Visible cover contacts | Not identified |
 | Number discrepancy | None recorded |
 | Authorship status | User supplied as their teaching materials; individual authorship is not inferred from PDF metadata. Preserve visible credits. |
 | Verification | not independently verified |
 | Rights | Original course and third-party rights retained; no new redistribution license granted. |
-| Original import location | C:\Users\Haofe\OneDrive\Desktop\Temp\EOP\5128\01_AirPollutionBasics_3.pdf |
+| Original import location | C:\Users\Haofe\OneDrive - University of Central Florida\80_Teaching\ENV 5128\01_Introduction\01_AirPollutionBasics_3.pptx (exported to PDF on 2026-11-15 because the .pptx was newer than the course folder's PDF) |
+| Imported | 2026-11-15 |
 
 ### Extracted cover text
 > ENV 5128
@@ -474,8 +479,8 @@ These are file metadata fields, not independently confirmed author or creation i
 |---|---|
 | /Title | Water Quality/ Water & Waste Treatment |
 | /Author | jmulholl |
-| /CreationDate | D:20260831204656-04'00' |
-| /ModDate | D:20260831204656-04'00' |
+| /CreationDate | D:20261115163251-05'00' |
+| /ModDate | D:20261115163251-05'00' |
 | /Producer | Microsoft® PowerPoint® for Microsoft 365 |
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
@@ -487,20 +492,21 @@ These are file metadata fields, not independently confirmed author or creation i
 | Course folder | 5128 |
 | Audience | graduate |
 | Course title | Smart Air Quality Monitoring and Air Pollution Control |
-| Displayed course number | 6128 |
+| Displayed course number | 5128 |
 | Original filename | 02_MonitoringNetwork.pdf |
 | PDF pages | 12 |
-| SHA-256 | 56fcf7abc90e8661f6b3e417e97f9faa4bce18a8e9fab6b6c5f87840dcdbd413 |
+| SHA-256 | 4d1398af68ebbdea57047e6d3bea60aeca3b06666c56490ca12efe2933c18810 |
 | Visible cover dates | Not identified |
 | Visible cover contacts | Not identified |
-| Number discrepancy | Folder and cover differ; preserve both labels. |
+| Number discrepancy | None recorded |
 | Authorship status | User supplied as their teaching materials; individual authorship is not inferred from PDF metadata. Preserve visible credits. |
 | Verification | not independently verified |
 | Rights | Original course and third-party rights retained; no new redistribution license granted. |
-| Original import location | C:\Users\Haofe\OneDrive\Desktop\Temp\EOP\5128\02_MonitoringNetwork.pdf |
+| Original import location | C:\Users\Haofe\OneDrive - University of Central Florida\80_Teaching\ENV 5128\02_MonitoringNetwork\02_MonitoringNetwork.pdf |
+| Imported | 2026-11-15 |
 
 ### Extracted cover text
-> ENV 6128
+> ENV 5128
 > Smart Air Quality Monitoring &
 > Air Pollution Control
 
@@ -510,8 +516,8 @@ These are file metadata fields, not independently confirmed author or creation i
 |---|---|
 | /Title | Water Quality/ Water & Waste Treatment |
 | /Author | jmulholl |
-| /CreationDate | D:20260909191243-04'00' |
-| /ModDate | D:20260909191243-04'00' |
+| /CreationDate | D:20261006130251-04'00' |
+| /ModDate | D:20261006130251-04'00' |
 | /Producer | Microsoft® PowerPoint® for Microsoft 365 |
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
@@ -523,20 +529,21 @@ These are file metadata fields, not independently confirmed author or creation i
 | Course folder | 5128 |
 | Audience | graduate |
 | Course title | Smart Air Quality Monitoring and Air Pollution Control |
-| Displayed course number | 6128 |
+| Displayed course number | 5128 |
 | Original filename | 03_Intro2Aerosol.pdf |
 | PDF pages | 51 |
-| SHA-256 | 13d96508645a02716dec045ed7c0e9896e1b73f58eae73a6882a0068e9ea5599 |
+| SHA-256 | 7e6fe7acb0a09b30b63e358ff09d9e8ab0a641946446a50c18649b19f752f6bd |
 | Visible cover dates | Not identified |
 | Visible cover contacts | Not identified |
-| Number discrepancy | Folder and cover differ; preserve both labels. |
+| Number discrepancy | None recorded |
 | Authorship status | User supplied as their teaching materials; individual authorship is not inferred from PDF metadata. Preserve visible credits. |
 | Verification | not independently verified |
 | Rights | Original course and third-party rights retained; no new redistribution license granted. |
-| Original import location | C:\Users\Haofe\OneDrive\Desktop\Temp\EOP\5128\03_Intro2Aerosol.pdf |
+| Original import location | C:\Users\Haofe\OneDrive - University of Central Florida\80_Teaching\ENV 5128\03_AerosolMeasurement\03_Intro2Aerosol.pdf |
+| Imported | 2026-11-15 |
 
 ### Extracted cover text
-> ENV 6128
+> ENV 5128
 > Smart Air Quality Monitoring &
 > Air Pollution Control
 
@@ -546,33 +553,34 @@ These are file metadata fields, not independently confirmed author or creation i
 |---|---|
 | /Title | Water Quality/ Water & Waste Treatment |
 | /Author | jmulholl |
-| /CreationDate | D:20260909191603-04'00' |
-| /ModDate | D:20260909191603-04'00' |
+| /CreationDate | D:20261006130552-04'00' |
+| /ModDate | D:20261006130552-04'00' |
 | /Producer | Microsoft® PowerPoint® for Microsoft 365 |
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
-## ENV5128-04-aerosolmeasurement-1
-[Read reference](text/5128/04-aerosolmeasurement-1.md) · Original PDF held by the course owner (not included)
+## ENV5128-03-aerosolmeasurement-1
+[Read reference](text/5128/03-aerosolmeasurement-1.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
-| Source ID | ENV5128-04-aerosolmeasurement-1 |
+| Source ID | ENV5128-03-aerosolmeasurement-1 |
 | Course folder | 5128 |
 | Audience | graduate |
 | Course title | Smart Air Quality Monitoring and Air Pollution Control |
-| Displayed course number | 6128 |
-| Original filename | 04_AerosolMeasurement_1.pdf |
+| Displayed course number | 5128 |
+| Original filename | 03_AerosolMeasurement_1.pdf |
 | PDF pages | 36 |
-| SHA-256 | 35c5eecbe00961af31e159da11761c4cbc1e7603672496b0a7b135e5be45453b |
+| SHA-256 | 7001500a3c8cc27e1d56a686ece0a3f775724bedd0c1e99f94368cad94ef4b4c |
 | Visible cover dates | Not identified |
 | Visible cover contacts | Not identified |
-| Number discrepancy | Folder and cover differ; preserve both labels. |
+| Number discrepancy | None recorded |
 | Authorship status | User supplied as their teaching materials; individual authorship is not inferred from PDF metadata. Preserve visible credits. |
 | Verification | not independently verified |
 | Rights | Original course and third-party rights retained; no new redistribution license granted. |
-| Original import location | C:\Users\Haofe\OneDrive\Desktop\Temp\EOP\5128\04_AerosolMeasurement_1.pdf |
+| Original import location | C:\Users\Haofe\OneDrive - University of Central Florida\80_Teaching\ENV 5128\03_AerosolMeasurement\03_AerosolMeasurement_1.pptx (exported to PDF on 2026-11-15 because the .pptx was newer than the course folder's PDF) |
+| Imported | 2026-11-15 |
 
 ### Extracted cover text
-> ENV 6128
+> ENV 5128
 > Smart Air Quality Monitoring &
 > Air Pollution Control
 > 1
@@ -583,33 +591,34 @@ These are file metadata fields, not independently confirmed author or creation i
 |---|---|
 | /Title | Water Quality/ Water & Waste Treatment |
 | /Author | jmulholl |
-| /CreationDate | D:20260909191701-04'00' |
-| /ModDate | D:20260909191701-04'00' |
+| /CreationDate | D:20261115163252-05'00' |
+| /ModDate | D:20261115163252-05'00' |
 | /Producer | Microsoft® PowerPoint® for Microsoft 365 |
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
-## ENV5128-05-aerosolmeasurement-2
-[Read reference](text/5128/05-aerosolmeasurement-2.md) · Original PDF held by the course owner (not included)
+## ENV5128-03-aerosolmeasurement-2
+[Read reference](text/5128/03-aerosolmeasurement-2.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
-| Source ID | ENV5128-05-aerosolmeasurement-2 |
+| Source ID | ENV5128-03-aerosolmeasurement-2 |
 | Course folder | 5128 |
 | Audience | graduate |
 | Course title | Smart Air Quality Monitoring and Air Pollution Control |
-| Displayed course number | 6128 |
-| Original filename | 05_AerosolMeasurement_2.pdf |
+| Displayed course number | 5128 |
+| Original filename | 03_AerosolMeasurement_2.pdf |
 | PDF pages | 39 |
-| SHA-256 | 5ca496925f80281e15752313b366b5f02e5727df48bc968c53afd55389eee3a1 |
+| SHA-256 | 80a170b69d599385091689fa9a67ceb2c2ea7c865dc210af763ccfc8ed1eb533 |
 | Visible cover dates | Not identified |
 | Visible cover contacts | Not identified |
-| Number discrepancy | Folder and cover differ; preserve both labels. |
+| Number discrepancy | None recorded |
 | Authorship status | User supplied as their teaching materials; individual authorship is not inferred from PDF metadata. Preserve visible credits. |
 | Verification | not independently verified |
 | Rights | Original course and third-party rights retained; no new redistribution license granted. |
-| Original import location | C:\Users\Haofe\OneDrive\Desktop\Temp\EOP\5128\05_AerosolMeasurement_2.pdf |
+| Original import location | C:\Users\Haofe\OneDrive - University of Central Florida\80_Teaching\ENV 5128\03_AerosolMeasurement\03_AerosolMeasurement_2.pptx (exported to PDF on 2026-11-15 because the .pptx was newer than the course folder's PDF) |
+| Imported | 2026-11-15 |
 
 ### Extracted cover text
-> ENV 6128
+> ENV 5128
 > Smart Air Quality Monitoring &
 > Air Pollution Control
 > 1
@@ -620,33 +629,34 @@ These are file metadata fields, not independently confirmed author or creation i
 |---|---|
 | /Title | Water Quality/ Water & Waste Treatment |
 | /Author | jmulholl |
-| /CreationDate | D:20260909191736-04'00' |
-| /ModDate | D:20260909191736-04'00' |
+| /CreationDate | D:20261115163254-05'00' |
+| /ModDate | D:20261115163254-05'00' |
 | /Producer | Microsoft® PowerPoint® for Microsoft 365 |
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
-## ENV5128-06-aerosolmeasurement-3
-[Read reference](text/5128/06-aerosolmeasurement-3.md) · Original PDF held by the course owner (not included)
+## ENV5128-03-aerosolmeasurement-3
+[Read reference](text/5128/03-aerosolmeasurement-3.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
-| Source ID | ENV5128-06-aerosolmeasurement-3 |
+| Source ID | ENV5128-03-aerosolmeasurement-3 |
 | Course folder | 5128 |
 | Audience | graduate |
 | Course title | Smart Air Quality Monitoring and Air Pollution Control |
-| Displayed course number | 6128 |
-| Original filename | 06_AerosolMeasurement_3.pdf |
+| Displayed course number | 5128 |
+| Original filename | 03_AerosolMeasurement_3.pdf |
 | PDF pages | 34 |
-| SHA-256 | ddb1cfb6873f3372559d75d92a0f0c2518ebad9c365b186af787282f28f540a0 |
+| SHA-256 | c73650bc08276ff62bc09ef252677145ab42ac6a589ffc3bec3f98523ae228c2 |
 | Visible cover dates | Not identified |
 | Visible cover contacts | Not identified |
-| Number discrepancy | Folder and cover differ; preserve both labels. |
+| Number discrepancy | None recorded |
 | Authorship status | User supplied as their teaching materials; individual authorship is not inferred from PDF metadata. Preserve visible credits. |
 | Verification | not independently verified |
 | Rights | Original course and third-party rights retained; no new redistribution license granted. |
-| Original import location | C:\Users\Haofe\OneDrive\Desktop\Temp\EOP\5128\06_AerosolMeasurement_3.pdf |
+| Original import location | C:\Users\Haofe\OneDrive - University of Central Florida\80_Teaching\ENV 5128\03_AerosolMeasurement\03_AerosolMeasurement_3.pptx (exported to PDF on 2026-11-15 because the .pptx was newer than the course folder's PDF) |
+| Imported | 2026-11-15 |
 
 ### Extracted cover text
-> ENV 6128
+> ENV 5128
 > Smart Air Quality Monitoring &
 > Air Pollution Control
 > 1
@@ -657,33 +667,34 @@ These are file metadata fields, not independently confirmed author or creation i
 |---|---|
 | /Title | Water Quality/ Water & Waste Treatment |
 | /Author | jmulholl |
-| /CreationDate | D:20260909193032-04'00' |
-| /ModDate | D:20260909193032-04'00' |
+| /CreationDate | D:20261115163255-05'00' |
+| /ModDate | D:20261115163255-05'00' |
 | /Producer | Microsoft® PowerPoint® for Microsoft 365 |
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
-## ENV5128-07-ambient-gas-measurement
-[Read reference](text/5128/07-ambient-gas-measurement.md) · Original PDF held by the course owner (not included)
+## ENV5128-04-ambientgasmeasurement-lowcostsensor
+[Read reference](text/5128/04-ambientgasmeasurement-lowcostsensor.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
-| Source ID | ENV5128-07-ambient-gas-measurement |
+| Source ID | ENV5128-04-ambientgasmeasurement-lowcostsensor |
 | Course folder | 5128 |
 | Audience | graduate |
 | Course title | Smart Air Quality Monitoring and Air Pollution Control |
-| Displayed course number | 6128 |
-| Original filename | 07_Ambient gas measurement.pdf |
+| Displayed course number | 5128 |
+| Original filename | 04_AmbientGasMeasurement&LowCostSensor.pdf |
 | PDF pages | 22 |
-| SHA-256 | 137e5dcaf552ab1be8f53959ef4b62973ae72dcdb099b5e690fe8381a43e5467 |
+| SHA-256 | ecccac98d053c40f6acbc188bfdc5a80e5d5209c4276eda9ea90d35691da38f5 |
 | Visible cover dates | Not identified |
 | Visible cover contacts | Not identified |
-| Number discrepancy | Folder and cover differ; preserve both labels. |
+| Number discrepancy | None recorded |
 | Authorship status | User supplied as their teaching materials; individual authorship is not inferred from PDF metadata. Preserve visible credits. |
 | Verification | not independently verified |
 | Rights | Original course and third-party rights retained; no new redistribution license granted. |
-| Original import location | C:\Users\Haofe\OneDrive\Desktop\Temp\EOP\5128\07_Ambient gas measurement.pdf |
+| Original import location | C:\Users\Haofe\OneDrive - University of Central Florida\80_Teaching\ENV 5128\04_AmbientGasMeasurement&LowCostSensor\04_AmbientGasMeasurement&LowCostSensor.pdf |
+| Imported | 2026-11-15 |
 
 ### Extracted cover text
-> ENV 6128
+> ENV 5128
 > Smart Air Quality Monitoring &
 > Air Pollution Control
 
@@ -693,33 +704,108 @@ These are file metadata fields, not independently confirmed author or creation i
 |---|---|
 | /Title | Water Quality/ Water & Waste Treatment |
 | /Author | jmulholl |
-| /CreationDate | D:20260909193206-04'00' |
-| /ModDate | D:20260909193206-04'00' |
+| /CreationDate | D:20261006130928-04'00' |
+| /ModDate | D:20261006130928-04'00' |
 | /Producer | Microsoft® PowerPoint® for Microsoft 365 |
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
-## ENV5128-08-visability
-[Read reference](text/5128/08-visability.md) · Original PDF held by the course owner (not included)
+## ENV5128-05-llm
+[Read reference](text/5128/05-llm.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
-| Source ID | ENV5128-08-visability |
+| Source ID | ENV5128-05-llm |
 | Course folder | 5128 |
 | Audience | graduate |
 | Course title | Smart Air Quality Monitoring and Air Pollution Control |
-| Displayed course number | 6128 |
-| Original filename | 08_Visability.pdf |
+| Displayed course number | 5128 |
+| Original filename | 05_LLM_100.1.pdf |
+| PDF pages | 16 |
+| SHA-256 | 55dd463315ff33c4ffccd4853ae1e9288346030c010de67912a670d8c872ca52 |
+| Visible cover dates | Not identified |
+| Visible cover contacts | Not identified |
+| Number discrepancy | None recorded |
+| Authorship status | User supplied as their teaching materials; individual authorship is not inferred from PDF metadata. Preserve visible credits. |
+| Verification | not independently verified |
+| Rights | Original course and third-party rights retained; no new redistribution license granted. |
+| Original import location | C:\Users\Haofe\OneDrive - University of Central Florida\80_Teaching\ENV 5128\05_LLM\05_LLM_100.1.pptx (exported to PDF on 2026-11-15 because the .pptx was newer than the course folder's PDF) |
+| Imported | 2026-11-15 |
+
+### Extracted cover text
+> ENV 5128
+> Smart Air Quality Monitoring &
+> Air Pollution Control
+
+### Original PDF metadata
+These are file metadata fields, not independently confirmed author or creation information.
+| Field | Recorded value |
+|---|---|
+| /Title | Water Quality/ Water & Waste Treatment |
+| /Author | jmulholl |
+| /CreationDate | D:20261115163256-05'00' |
+| /ModDate | D:20261115163256-05'00' |
+| /Producer | Microsoft® PowerPoint® for Microsoft 365 |
+| /Creator | Microsoft® PowerPoint® for Microsoft 365 |
+
+## ENV5128-06-arduino
+[Read reference](text/5128/06-arduino.md) · Original PDF held by the course owner (not included)
+| Record | Value |
+|---|---|
+| Source ID | ENV5128-06-arduino |
+| Course folder | 5128 |
+| Audience | graduate |
+| Course title | Smart Air Quality Monitoring and Air Pollution Control |
+| Displayed course number | 5128 |
+| Original filename | 06_Arduino.pdf |
+| PDF pages | 32 |
+| SHA-256 | 9190aee84f19d06b220911ce26623780264fe22d069e3b259b2c9bb1b987575e |
+| Visible cover dates | Not identified |
+| Visible cover contacts | Not identified |
+| Number discrepancy | None recorded |
+| Authorship status | User supplied as their teaching materials; individual authorship is not inferred from PDF metadata. Preserve visible credits. |
+| Verification | not independently verified |
+| Rights | Original course and third-party rights retained; no new redistribution license granted. |
+| Original import location | C:\Users\Haofe\OneDrive - University of Central Florida\80_Teaching\ENV 5128\06_Arduino\06_Arduino.pdf |
+| Imported | 2026-11-15 |
+
+### Extracted cover text
+> ENV 5128
+> Smart Air Quality Monitoring &
+> Air Pollution Control
+
+### Original PDF metadata
+These are file metadata fields, not independently confirmed author or creation information.
+| Field | Recorded value |
+|---|---|
+| /Title | Water Quality/ Water & Waste Treatment |
+| /Author | jmulholl |
+| /CreationDate | D:20261006131122-04'00' |
+| /ModDate | D:20261006131122-04'00' |
+| /Producer | Microsoft® PowerPoint® for Microsoft 365 |
+| /Creator | Microsoft® PowerPoint® for Microsoft 365 |
+
+## ENV5128-07-visability
+[Read reference](text/5128/07-visability.md) · Original PDF held by the course owner (not included)
+| Record | Value |
+|---|---|
+| Source ID | ENV5128-07-visability |
+| Course folder | 5128 |
+| Audience | graduate |
+| Course title | Smart Air Quality Monitoring and Air Pollution Control |
+| Displayed course number | 5128 |
+| Original filename | 07_Visability.pdf |
 | PDF pages | 40 |
-| SHA-256 | b8a1044a6f8ba501eb4a727fbcbaebfbb1bc1aeecc0d1750ebf1fffbcff19616 |
+| SHA-256 | 0f1e2060f23b76155e7825f21163803e335f9666775abd8a128d7eae5a694482 |
 | Visible cover dates | Not identified |
 | Visible cover contacts | Not identified |
-| Number discrepancy | Folder and cover differ; preserve both labels. |
+| Number discrepancy | None recorded |
 | Authorship status | User supplied as their teaching materials; individual authorship is not inferred from PDF metadata. Preserve visible credits. |
 | Verification | not independently verified |
 | Rights | Original course and third-party rights retained; no new redistribution license granted. |
-| Original import location | C:\Users\Haofe\OneDrive\Desktop\Temp\EOP\5128\08_Visability.pdf |
+| Original import location | C:\Users\Haofe\OneDrive - University of Central Florida\80_Teaching\ENV 5128\07_Visability\07_Visability.pptx (exported to PDF on 2026-11-15 because the .pptx was newer than the course folder's PDF) |
+| Imported | 2026-11-15 |
 
 ### Extracted cover text
-> ENV 6128
+> ENV 5128
 > Smart Air Quality Monitoring &
 > Air Pollution Control
 
@@ -729,47 +815,82 @@ These are file metadata fields, not independently confirmed author or creation i
 |---|---|
 | /Title | Water Quality/ Water & Waste Treatment |
 | /Author | jmulholl |
-| /CreationDate | D:20260909191804-04'00' |
-| /ModDate | D:20260909191804-04'00' |
+| /CreationDate | D:20261115163257-05'00' |
+| /ModDate | D:20261115163257-05'00' |
 | /Producer | Microsoft® PowerPoint® for Microsoft 365 |
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 
-## ENV5128-env-6128-iot-in-air-quality-monitoring-10222024
-[Read reference](text/5128/env-6128-iot-in-air-quality-monitoring-10222024.md) · Original PDF held by the course owner (not included)
+## ENV5128-08-bigdataairquality
+[Read reference](text/5128/08-bigdataairquality.md) · Original PDF held by the course owner (not included)
 | Record | Value |
 |---|---|
-| Source ID | ENV5128-env-6128-iot-in-air-quality-monitoring-10222024 |
+| Source ID | ENV5128-08-bigdataairquality |
 | Course folder | 5128 |
 | Audience | graduate |
 | Course title | Smart Air Quality Monitoring and Air Pollution Control |
-| Displayed course number | 6128 |
-| Original filename | ENV_6128_IoT_in_Air_Quality_Monitoring_10222024.pdf |
+| Displayed course number | 5128 |
+| Original filename | 10_BigDataAirQuality_v3.pdf |
 | PDF pages | 30 |
-| SHA-256 | 871b5e1ba7a0583731cbc36c92cd7c90533942a9a367f04e771ae46edf36f373 |
-| Visible cover dates | Fall 2024 |
-| Visible cover contacts | md.hasibul.hasan@ucf.edu |
-| Number discrepancy | Folder and cover differ; preserve both labels. |
+| SHA-256 | 217a8d605cc51a2960b7385385ffe44e689cac73dc3d718828a5223c86e83c16 |
+| Visible cover dates | Not identified |
+| Visible cover contacts | Not identified |
+| Number discrepancy | None recorded |
 | Authorship status | User supplied as their teaching materials; individual authorship is not inferred from PDF metadata. Preserve visible credits. |
 | Verification | not independently verified |
 | Rights | Original course and third-party rights retained; no new redistribution license granted. |
-| Original import location | C:\Users\Haofe\OneDrive\Desktop\Temp\EOP\5128\ENV_6128_IoT_in_Air_Quality_Monitoring_10222024.pdf |
+| Original import location | C:\Users\Haofe\OneDrive - University of Central Florida\80_Teaching\ENV 5128\08_BigData\10_BigDataAirQuality_v3.pdf |
+| Imported | 2026-11-15 |
 
 ### Extracted cover text
-> md.hasibul.hasan@ucf.edu
-> Smart Air Quality Monitoring and Air Pollution Control
-> Fall 2024
-> BA1-216A & online
-> TuTh 3:00 – 4:15 PM
-> ENV 6128
+> ENV 5128
+> Smart Air Quality Monitoring &
+> Air Pollution Control
 
 ### Original PDF metadata
 These are file metadata fields, not independently confirmed author or creation information.
 | Field | Recorded value |
 |---|---|
-| /Title | ENV 6128 |
-| /Author | Md Hasibul |
-| /CreationDate | D:20260913182629-04'00' |
-| /ModDate | D:20260913182629-04'00' |
+| /Title | Water Quality/ Water & Waste Treatment |
+| /Author | jmulholl |
+| /CreationDate | D:20261112133213-05'00' |
+| /ModDate | D:20261112133213-05'00' |
+| /Producer | Microsoft® PowerPoint® for Microsoft 365 |
+| /Creator | Microsoft® PowerPoint® for Microsoft 365 |
+
+## ENV5128-09-airqualitymodels
+[Read reference](text/5128/09-airqualitymodels.md) · Original PDF held by the course owner (not included)
+| Record | Value |
+|---|---|
+| Source ID | ENV5128-09-airqualitymodels |
+| Course folder | 5128 |
+| Audience | graduate |
+| Course title | Smart Air Quality Monitoring and Air Pollution Control |
+| Displayed course number | 5128 |
+| Original filename | 09_AirQualityModels.pdf |
+| PDF pages | 34 |
+| SHA-256 | 3e51f9c0e4b0f1fc927ff92f5b83983d6aec02a60d6a1234f95e7ee1d2abd834 |
+| Visible cover dates | Not identified |
+| Visible cover contacts | Not identified |
+| Number discrepancy | None recorded |
+| Authorship status | User supplied as their teaching materials; individual authorship is not inferred from PDF metadata. Preserve visible credits. |
+| Verification | not independently verified |
+| Rights | Original course and third-party rights retained; no new redistribution license granted. |
+| Original import location | C:\Users\Haofe\OneDrive - University of Central Florida\80_Teaching\ENV 5128\09_AirQualityMdl\09_AirQualityModels.pdf |
+| Imported | 2026-11-15 |
+
+### Extracted cover text
+> ENV 5128
+> Smart Air Quality Monitoring &
+> Air Pollution Control
+
+### Original PDF metadata
+These are file metadata fields, not independently confirmed author or creation information.
+| Field | Recorded value |
+|---|---|
+| /Title | Water Quality/ Water & Waste Treatment |
+| /Author | jmulholl |
+| /CreationDate | D:20261112132930-05'00' |
+| /ModDate | D:20261112132930-05'00' |
 | /Producer | Microsoft® PowerPoint® for Microsoft 365 |
 | /Creator | Microsoft® PowerPoint® for Microsoft 365 |
 

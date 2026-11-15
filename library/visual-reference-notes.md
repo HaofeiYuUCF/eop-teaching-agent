@@ -1,6 +1,6 @@
 # Pages needing visual reference
 
-The initial extraction flagged 245 pages with sparse text, including 10 with no extracted text. Many are covers, section dividers, photographs, charts or scanned tables. All pages retain image references. No flag is a guarantee of perfect extraction.
+The initial extraction flagged 294 pages with sparse text, including 11 with no extracted text. Many are covers, section dividers, photographs, charts or scanned tables. All pages retain image references. No flag is a guarantee of perfect extraction.
 
 Read the linked page and its image before using figure-dependent information. The implementing assistant reviewed flagged pages in contact sheets; this was not exhaustive transcription.
 
@@ -73,114 +73,163 @@ Read the linked page and its image before using figure-dependent information. Th
 | [ENV5128-01-airpollutionbasics-1, p. 40](text/5128/01-airpollutionbasics-1.md#pdf-page-40) | Sparse extracted text; inspect original page image. |
 | [ENV5128-01-airpollutionbasics-1, p. 42](text/5128/01-airpollutionbasics-1.md#pdf-page-42) | Sparse extracted text; inspect original page image. |
 | [ENV5128-01-airpollutionbasics-1, p. 43](text/5128/01-airpollutionbasics-1.md#pdf-page-43) | Sparse extracted text; inspect original page image. |
+| [ENV5128-01-airpollutionbasics-1, p. 46](text/5128/01-airpollutionbasics-1.md#pdf-page-46) | Sparse extracted text; inspect original page image. |
 | [ENV5128-01-airpollutionbasics-1, p. 47](text/5128/01-airpollutionbasics-1.md#pdf-page-47) | Sparse extracted text; inspect original page image. |
 | [ENV5128-01-airpollutionbasics-1, p. 50](text/5128/01-airpollutionbasics-1.md#pdf-page-50) | Sparse extracted text; inspect original page image. |
+| [ENV5128-01-airpollutionbasics-1, p. 55](text/5128/01-airpollutionbasics-1.md#pdf-page-55) | Sparse extracted text; inspect original page image. |
+| [ENV5128-01-airpollutionbasics-1, p. 56](text/5128/01-airpollutionbasics-1.md#pdf-page-56) | Sparse extracted text; inspect original page image. |
+| [ENV5128-01-airpollutionbasics-1, p. 57](text/5128/01-airpollutionbasics-1.md#pdf-page-57) | Sparse extracted text; inspect original page image. |
 | [ENV5128-01-airpollutionbasics-1, p. 59](text/5128/01-airpollutionbasics-1.md#pdf-page-59) | Sparse extracted text; inspect original page image. |
 | [ENV5128-01-airpollutionbasics-2, p. 1](text/5128/01-airpollutionbasics-2.md#pdf-page-1) | Sparse extracted text; inspect original page image. |
 | [ENV5128-01-airpollutionbasics-2, p. 3](text/5128/01-airpollutionbasics-2.md#pdf-page-3) | Sparse extracted text; inspect original page image. |
 | [ENV5128-01-airpollutionbasics-2, p. 4](text/5128/01-airpollutionbasics-2.md#pdf-page-4) | Sparse extracted text; inspect original page image. |
 | [ENV5128-01-airpollutionbasics-2, p. 5](text/5128/01-airpollutionbasics-2.md#pdf-page-5) | Sparse extracted text; inspect original page image. |
+| [ENV5128-01-airpollutionbasics-2, p. 7](text/5128/01-airpollutionbasics-2.md#pdf-page-7) | Sparse extracted text; inspect original page image. |
 | [ENV5128-01-airpollutionbasics-2, p. 20](text/5128/01-airpollutionbasics-2.md#pdf-page-20) | Sparse extracted text; inspect original page image. |
 | [ENV5128-01-airpollutionbasics-2, p. 26](text/5128/01-airpollutionbasics-2.md#pdf-page-26) | Sparse extracted text; inspect original page image. |
 | [ENV5128-01-airpollutionbasics-2, p. 35](text/5128/01-airpollutionbasics-2.md#pdf-page-35) | Sparse extracted text; inspect original page image. |
 | [ENV5128-01-airpollutionbasics-2, p. 40](text/5128/01-airpollutionbasics-2.md#pdf-page-40) | Sparse extracted text; inspect original page image. |
+| [ENV5128-01-airpollutionbasics-2, p. 44](text/5128/01-airpollutionbasics-2.md#pdf-page-44) | Sparse extracted text; inspect original page image. |
 | [ENV5128-01-airpollutionbasics-2, p. 52](text/5128/01-airpollutionbasics-2.md#pdf-page-52) | Sparse extracted text; inspect original page image. |
+| [ENV5128-01-airpollutionbasics-2, p. 54](text/5128/01-airpollutionbasics-2.md#pdf-page-54) | Sparse extracted text; inspect original page image. |
 | [ENV5128-01-airpollutionbasics-3, p. 1](text/5128/01-airpollutionbasics-3.md#pdf-page-1) | Sparse extracted text; inspect original page image. |
+| [ENV5128-01-airpollutionbasics-3, p. 2](text/5128/01-airpollutionbasics-3.md#pdf-page-2) | Sparse extracted text; inspect original page image. |
 | [ENV5128-01-airpollutionbasics-3, p. 3](text/5128/01-airpollutionbasics-3.md#pdf-page-3) | Sparse extracted text; inspect original page image. |
+| [ENV5128-01-airpollutionbasics-3, p. 5](text/5128/01-airpollutionbasics-3.md#pdf-page-5) | Sparse extracted text; inspect original page image. |
 | [ENV5128-01-airpollutionbasics-3, p. 18](text/5128/01-airpollutionbasics-3.md#pdf-page-18) | Sparse extracted text; inspect original page image. |
 | [ENV5128-01-airpollutionbasics-3, p. 23](text/5128/01-airpollutionbasics-3.md#pdf-page-23) | Sparse extracted text; inspect original page image. |
+| [ENV5128-01-airpollutionbasics-3, p. 24](text/5128/01-airpollutionbasics-3.md#pdf-page-24) | Sparse extracted text; inspect original page image. |
+| [ENV5128-01-airpollutionbasics-3, p. 26](text/5128/01-airpollutionbasics-3.md#pdf-page-26) | Sparse extracted text; inspect original page image. |
 | [ENV5128-02-monitoringnetwork, p. 1](text/5128/02-monitoringnetwork.md#pdf-page-1) | Sparse extracted text; inspect original page image. |
+| [ENV5128-02-monitoringnetwork, p. 2](text/5128/02-monitoringnetwork.md#pdf-page-2) | Sparse extracted text; inspect original page image. |
 | [ENV5128-03-intro2aerosol, p. 1](text/5128/03-intro2aerosol.md#pdf-page-1) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-intro2aerosol, p. 3](text/5128/03-intro2aerosol.md#pdf-page-3) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-intro2aerosol, p. 11](text/5128/03-intro2aerosol.md#pdf-page-11) | Sparse extracted text; inspect original page image. |
 | [ENV5128-03-intro2aerosol, p. 21](text/5128/03-intro2aerosol.md#pdf-page-21) | Sparse extracted text; inspect original page image. |
 | [ENV5128-03-intro2aerosol, p. 22](text/5128/03-intro2aerosol.md#pdf-page-22) | Sparse extracted text; inspect original page image. |
 | [ENV5128-03-intro2aerosol, p. 23](text/5128/03-intro2aerosol.md#pdf-page-23) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-intro2aerosol, p. 26](text/5128/03-intro2aerosol.md#pdf-page-26) | Sparse extracted text; inspect original page image. |
 | [ENV5128-03-intro2aerosol, p. 27](text/5128/03-intro2aerosol.md#pdf-page-27) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-intro2aerosol, p. 33](text/5128/03-intro2aerosol.md#pdf-page-33) | Sparse extracted text; inspect original page image. |
 | [ENV5128-03-intro2aerosol, p. 41](text/5128/03-intro2aerosol.md#pdf-page-41) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-intro2aerosol, p. 42](text/5128/03-intro2aerosol.md#pdf-page-42) | Sparse extracted text; inspect original page image. |
 | [ENV5128-03-intro2aerosol, p. 44](text/5128/03-intro2aerosol.md#pdf-page-44) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-intro2aerosol, p. 46](text/5128/03-intro2aerosol.md#pdf-page-46) | Sparse extracted text; inspect original page image. |
 | [ENV5128-03-intro2aerosol, p. 49](text/5128/03-intro2aerosol.md#pdf-page-49) | Sparse extracted text; inspect original page image. |
-| [ENV5128-04-aerosolmeasurement-1, p. 1](text/5128/04-aerosolmeasurement-1.md#pdf-page-1) | Sparse extracted text; inspect original page image. |
-| [ENV5128-04-aerosolmeasurement-1, p. 3](text/5128/04-aerosolmeasurement-1.md#pdf-page-3) | Sparse extracted text; inspect original page image. |
-| [ENV5128-04-aerosolmeasurement-1, p. 4](text/5128/04-aerosolmeasurement-1.md#pdf-page-4) | Sparse extracted text; inspect original page image. |
-| [ENV5128-04-aerosolmeasurement-1, p. 5](text/5128/04-aerosolmeasurement-1.md#pdf-page-5) | No extracted text; use page image and generated visual navigation. |
-| [ENV5128-04-aerosolmeasurement-1, p. 6](text/5128/04-aerosolmeasurement-1.md#pdf-page-6) | Sparse extracted text; inspect original page image. |
-| [ENV5128-04-aerosolmeasurement-1, p. 7](text/5128/04-aerosolmeasurement-1.md#pdf-page-7) | No extracted text; use page image and generated visual navigation. |
-| [ENV5128-04-aerosolmeasurement-1, p. 8](text/5128/04-aerosolmeasurement-1.md#pdf-page-8) | Sparse extracted text; inspect original page image. |
-| [ENV5128-04-aerosolmeasurement-1, p. 12](text/5128/04-aerosolmeasurement-1.md#pdf-page-12) | Sparse extracted text; inspect original page image. |
-| [ENV5128-04-aerosolmeasurement-1, p. 20](text/5128/04-aerosolmeasurement-1.md#pdf-page-20) | Sparse extracted text; inspect original page image. |
-| [ENV5128-04-aerosolmeasurement-1, p. 22](text/5128/04-aerosolmeasurement-1.md#pdf-page-22) | Sparse extracted text; inspect original page image. |
-| [ENV5128-04-aerosolmeasurement-1, p. 25](text/5128/04-aerosolmeasurement-1.md#pdf-page-25) | Sparse extracted text; inspect original page image. |
-| [ENV5128-04-aerosolmeasurement-1, p. 30](text/5128/04-aerosolmeasurement-1.md#pdf-page-30) | Sparse extracted text; inspect original page image. |
-| [ENV5128-04-aerosolmeasurement-1, p. 32](text/5128/04-aerosolmeasurement-1.md#pdf-page-32) | Sparse extracted text; inspect original page image. |
-| [ENV5128-04-aerosolmeasurement-1, p. 33](text/5128/04-aerosolmeasurement-1.md#pdf-page-33) | Sparse extracted text; inspect original page image. |
-| [ENV5128-04-aerosolmeasurement-1, p. 34](text/5128/04-aerosolmeasurement-1.md#pdf-page-34) | Sparse extracted text; inspect original page image. |
-| [ENV5128-04-aerosolmeasurement-1, p. 36](text/5128/04-aerosolmeasurement-1.md#pdf-page-36) | Sparse extracted text; inspect original page image. |
-| [ENV5128-05-aerosolmeasurement-2, p. 1](text/5128/05-aerosolmeasurement-2.md#pdf-page-1) | Sparse extracted text; inspect original page image. |
-| [ENV5128-05-aerosolmeasurement-2, p. 7](text/5128/05-aerosolmeasurement-2.md#pdf-page-7) | Sparse extracted text; inspect original page image. |
-| [ENV5128-05-aerosolmeasurement-2, p. 10](text/5128/05-aerosolmeasurement-2.md#pdf-page-10) | Sparse extracted text; inspect original page image. |
-| [ENV5128-05-aerosolmeasurement-2, p. 12](text/5128/05-aerosolmeasurement-2.md#pdf-page-12) | Sparse extracted text; inspect original page image. |
-| [ENV5128-05-aerosolmeasurement-2, p. 14](text/5128/05-aerosolmeasurement-2.md#pdf-page-14) | No extracted text; use page image and generated visual navigation. |
-| [ENV5128-05-aerosolmeasurement-2, p. 15](text/5128/05-aerosolmeasurement-2.md#pdf-page-15) | Sparse extracted text; inspect original page image. |
-| [ENV5128-05-aerosolmeasurement-2, p. 19](text/5128/05-aerosolmeasurement-2.md#pdf-page-19) | Sparse extracted text; inspect original page image. |
-| [ENV5128-05-aerosolmeasurement-2, p. 20](text/5128/05-aerosolmeasurement-2.md#pdf-page-20) | Sparse extracted text; inspect original page image. |
-| [ENV5128-05-aerosolmeasurement-2, p. 21](text/5128/05-aerosolmeasurement-2.md#pdf-page-21) | Sparse extracted text; inspect original page image. |
-| [ENV5128-05-aerosolmeasurement-2, p. 23](text/5128/05-aerosolmeasurement-2.md#pdf-page-23) | No extracted text; use page image and generated visual navigation. |
-| [ENV5128-05-aerosolmeasurement-2, p. 24](text/5128/05-aerosolmeasurement-2.md#pdf-page-24) | No extracted text; use page image and generated visual navigation. |
-| [ENV5128-05-aerosolmeasurement-2, p. 25](text/5128/05-aerosolmeasurement-2.md#pdf-page-25) | No extracted text; use page image and generated visual navigation. |
-| [ENV5128-05-aerosolmeasurement-2, p. 26](text/5128/05-aerosolmeasurement-2.md#pdf-page-26) | No extracted text; use page image and generated visual navigation. |
-| [ENV5128-05-aerosolmeasurement-2, p. 28](text/5128/05-aerosolmeasurement-2.md#pdf-page-28) | Sparse extracted text; inspect original page image. |
-| [ENV5128-05-aerosolmeasurement-2, p. 31](text/5128/05-aerosolmeasurement-2.md#pdf-page-31) | Sparse extracted text; inspect original page image. |
-| [ENV5128-05-aerosolmeasurement-2, p. 34](text/5128/05-aerosolmeasurement-2.md#pdf-page-34) | No extracted text; use page image and generated visual navigation. |
-| [ENV5128-05-aerosolmeasurement-2, p. 37](text/5128/05-aerosolmeasurement-2.md#pdf-page-37) | Sparse extracted text; inspect original page image. |
-| [ENV5128-05-aerosolmeasurement-2, p. 39](text/5128/05-aerosolmeasurement-2.md#pdf-page-39) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 1](text/5128/06-aerosolmeasurement-3.md#pdf-page-1) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 3](text/5128/06-aerosolmeasurement-3.md#pdf-page-3) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 6](text/5128/06-aerosolmeasurement-3.md#pdf-page-6) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 7](text/5128/06-aerosolmeasurement-3.md#pdf-page-7) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 8](text/5128/06-aerosolmeasurement-3.md#pdf-page-8) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 9](text/5128/06-aerosolmeasurement-3.md#pdf-page-9) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 10](text/5128/06-aerosolmeasurement-3.md#pdf-page-10) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 11](text/5128/06-aerosolmeasurement-3.md#pdf-page-11) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 12](text/5128/06-aerosolmeasurement-3.md#pdf-page-12) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 13](text/5128/06-aerosolmeasurement-3.md#pdf-page-13) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 14](text/5128/06-aerosolmeasurement-3.md#pdf-page-14) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 18](text/5128/06-aerosolmeasurement-3.md#pdf-page-18) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 19](text/5128/06-aerosolmeasurement-3.md#pdf-page-19) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 20](text/5128/06-aerosolmeasurement-3.md#pdf-page-20) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 21](text/5128/06-aerosolmeasurement-3.md#pdf-page-21) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 22](text/5128/06-aerosolmeasurement-3.md#pdf-page-22) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 24](text/5128/06-aerosolmeasurement-3.md#pdf-page-24) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 25](text/5128/06-aerosolmeasurement-3.md#pdf-page-25) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 26](text/5128/06-aerosolmeasurement-3.md#pdf-page-26) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 27](text/5128/06-aerosolmeasurement-3.md#pdf-page-27) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 28](text/5128/06-aerosolmeasurement-3.md#pdf-page-28) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 29](text/5128/06-aerosolmeasurement-3.md#pdf-page-29) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 30](text/5128/06-aerosolmeasurement-3.md#pdf-page-30) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 31](text/5128/06-aerosolmeasurement-3.md#pdf-page-31) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 32](text/5128/06-aerosolmeasurement-3.md#pdf-page-32) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 33](text/5128/06-aerosolmeasurement-3.md#pdf-page-33) | Sparse extracted text; inspect original page image. |
-| [ENV5128-06-aerosolmeasurement-3, p. 34](text/5128/06-aerosolmeasurement-3.md#pdf-page-34) | Sparse extracted text; inspect original page image. |
-| [ENV5128-07-ambient-gas-measurement, p. 1](text/5128/07-ambient-gas-measurement.md#pdf-page-1) | Sparse extracted text; inspect original page image. |
-| [ENV5128-07-ambient-gas-measurement, p. 3](text/5128/07-ambient-gas-measurement.md#pdf-page-3) | Sparse extracted text; inspect original page image. |
-| [ENV5128-07-ambient-gas-measurement, p. 8](text/5128/07-ambient-gas-measurement.md#pdf-page-8) | Sparse extracted text; inspect original page image. |
-| [ENV5128-07-ambient-gas-measurement, p. 10](text/5128/07-ambient-gas-measurement.md#pdf-page-10) | No extracted text; use page image and generated visual navigation. |
-| [ENV5128-07-ambient-gas-measurement, p. 12](text/5128/07-ambient-gas-measurement.md#pdf-page-12) | Sparse extracted text; inspect original page image. |
-| [ENV5128-07-ambient-gas-measurement, p. 14](text/5128/07-ambient-gas-measurement.md#pdf-page-14) | Sparse extracted text; inspect original page image. |
-| [ENV5128-08-visability, p. 1](text/5128/08-visability.md#pdf-page-1) | Sparse extracted text; inspect original page image. |
-| [ENV5128-08-visability, p. 3](text/5128/08-visability.md#pdf-page-3) | Sparse extracted text; inspect original page image. |
-| [ENV5128-08-visability, p. 6](text/5128/08-visability.md#pdf-page-6) | Sparse extracted text; inspect original page image. |
-| [ENV5128-08-visability, p. 8](text/5128/08-visability.md#pdf-page-8) | Sparse extracted text; inspect original page image. |
-| [ENV5128-08-visability, p. 17](text/5128/08-visability.md#pdf-page-17) | Sparse extracted text; inspect original page image. |
-| [ENV5128-08-visability, p. 20](text/5128/08-visability.md#pdf-page-20) | Sparse extracted text; inspect original page image. |
-| [ENV5128-08-visability, p. 27](text/5128/08-visability.md#pdf-page-27) | Sparse extracted text; inspect original page image. |
-| [ENV5128-08-visability, p. 29](text/5128/08-visability.md#pdf-page-29) | Sparse extracted text; inspect original page image. |
-| [ENV5128-08-visability, p. 30](text/5128/08-visability.md#pdf-page-30) | Sparse extracted text; inspect original page image. |
-| [ENV5128-08-visability, p. 31](text/5128/08-visability.md#pdf-page-31) | Sparse extracted text; inspect original page image. |
-| [ENV5128-08-visability, p. 32](text/5128/08-visability.md#pdf-page-32) | Sparse extracted text; inspect original page image. |
-| [ENV5128-08-visability, p. 33](text/5128/08-visability.md#pdf-page-33) | Sparse extracted text; inspect original page image. |
-| [ENV5128-08-visability, p. 40](text/5128/08-visability.md#pdf-page-40) | Sparse extracted text; inspect original page image. |
-| [ENV5128-env-6128-iot-in-air-quality-monitoring-10222024, p. 6](text/5128/env-6128-iot-in-air-quality-monitoring-10222024.md#pdf-page-6) | Sparse extracted text; inspect original page image. |
-| [ENV5128-env-6128-iot-in-air-quality-monitoring-10222024, p. 8](text/5128/env-6128-iot-in-air-quality-monitoring-10222024.md#pdf-page-8) | Sparse extracted text; inspect original page image. |
-| [ENV5128-env-6128-iot-in-air-quality-monitoring-10222024, p. 14](text/5128/env-6128-iot-in-air-quality-monitoring-10222024.md#pdf-page-14) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 1](text/5128/03-aerosolmeasurement-1.md#pdf-page-1) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 3](text/5128/03-aerosolmeasurement-1.md#pdf-page-3) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 4](text/5128/03-aerosolmeasurement-1.md#pdf-page-4) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 5](text/5128/03-aerosolmeasurement-1.md#pdf-page-5) | No extracted text; use page image and generated visual navigation. |
+| [ENV5128-03-aerosolmeasurement-1, p. 6](text/5128/03-aerosolmeasurement-1.md#pdf-page-6) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 7](text/5128/03-aerosolmeasurement-1.md#pdf-page-7) | No extracted text; use page image and generated visual navigation. |
+| [ENV5128-03-aerosolmeasurement-1, p. 8](text/5128/03-aerosolmeasurement-1.md#pdf-page-8) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 9](text/5128/03-aerosolmeasurement-1.md#pdf-page-9) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 10](text/5128/03-aerosolmeasurement-1.md#pdf-page-10) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 12](text/5128/03-aerosolmeasurement-1.md#pdf-page-12) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 13](text/5128/03-aerosolmeasurement-1.md#pdf-page-13) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 14](text/5128/03-aerosolmeasurement-1.md#pdf-page-14) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 18](text/5128/03-aerosolmeasurement-1.md#pdf-page-18) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 20](text/5128/03-aerosolmeasurement-1.md#pdf-page-20) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 21](text/5128/03-aerosolmeasurement-1.md#pdf-page-21) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 22](text/5128/03-aerosolmeasurement-1.md#pdf-page-22) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 25](text/5128/03-aerosolmeasurement-1.md#pdf-page-25) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 28](text/5128/03-aerosolmeasurement-1.md#pdf-page-28) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 29](text/5128/03-aerosolmeasurement-1.md#pdf-page-29) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 30](text/5128/03-aerosolmeasurement-1.md#pdf-page-30) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 32](text/5128/03-aerosolmeasurement-1.md#pdf-page-32) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 33](text/5128/03-aerosolmeasurement-1.md#pdf-page-33) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 34](text/5128/03-aerosolmeasurement-1.md#pdf-page-34) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-1, p. 36](text/5128/03-aerosolmeasurement-1.md#pdf-page-36) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-2, p. 1](text/5128/03-aerosolmeasurement-2.md#pdf-page-1) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-2, p. 6](text/5128/03-aerosolmeasurement-2.md#pdf-page-6) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-2, p. 7](text/5128/03-aerosolmeasurement-2.md#pdf-page-7) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-2, p. 8](text/5128/03-aerosolmeasurement-2.md#pdf-page-8) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-2, p. 10](text/5128/03-aerosolmeasurement-2.md#pdf-page-10) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-2, p. 12](text/5128/03-aerosolmeasurement-2.md#pdf-page-12) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-2, p. 13](text/5128/03-aerosolmeasurement-2.md#pdf-page-13) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-2, p. 14](text/5128/03-aerosolmeasurement-2.md#pdf-page-14) | No extracted text; use page image and generated visual navigation. |
+| [ENV5128-03-aerosolmeasurement-2, p. 15](text/5128/03-aerosolmeasurement-2.md#pdf-page-15) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-2, p. 17](text/5128/03-aerosolmeasurement-2.md#pdf-page-17) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-2, p. 18](text/5128/03-aerosolmeasurement-2.md#pdf-page-18) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-2, p. 19](text/5128/03-aerosolmeasurement-2.md#pdf-page-19) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-2, p. 20](text/5128/03-aerosolmeasurement-2.md#pdf-page-20) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-2, p. 21](text/5128/03-aerosolmeasurement-2.md#pdf-page-21) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-2, p. 23](text/5128/03-aerosolmeasurement-2.md#pdf-page-23) | No extracted text; use page image and generated visual navigation. |
+| [ENV5128-03-aerosolmeasurement-2, p. 24](text/5128/03-aerosolmeasurement-2.md#pdf-page-24) | No extracted text; use page image and generated visual navigation. |
+| [ENV5128-03-aerosolmeasurement-2, p. 25](text/5128/03-aerosolmeasurement-2.md#pdf-page-25) | No extracted text; use page image and generated visual navigation. |
+| [ENV5128-03-aerosolmeasurement-2, p. 26](text/5128/03-aerosolmeasurement-2.md#pdf-page-26) | No extracted text; use page image and generated visual navigation. |
+| [ENV5128-03-aerosolmeasurement-2, p. 28](text/5128/03-aerosolmeasurement-2.md#pdf-page-28) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-2, p. 31](text/5128/03-aerosolmeasurement-2.md#pdf-page-31) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-2, p. 34](text/5128/03-aerosolmeasurement-2.md#pdf-page-34) | No extracted text; use page image and generated visual navigation. |
+| [ENV5128-03-aerosolmeasurement-2, p. 36](text/5128/03-aerosolmeasurement-2.md#pdf-page-36) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-2, p. 37](text/5128/03-aerosolmeasurement-2.md#pdf-page-37) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-2, p. 38](text/5128/03-aerosolmeasurement-2.md#pdf-page-38) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-2, p. 39](text/5128/03-aerosolmeasurement-2.md#pdf-page-39) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 1](text/5128/03-aerosolmeasurement-3.md#pdf-page-1) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 3](text/5128/03-aerosolmeasurement-3.md#pdf-page-3) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 4](text/5128/03-aerosolmeasurement-3.md#pdf-page-4) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 6](text/5128/03-aerosolmeasurement-3.md#pdf-page-6) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 7](text/5128/03-aerosolmeasurement-3.md#pdf-page-7) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 8](text/5128/03-aerosolmeasurement-3.md#pdf-page-8) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 9](text/5128/03-aerosolmeasurement-3.md#pdf-page-9) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 10](text/5128/03-aerosolmeasurement-3.md#pdf-page-10) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 11](text/5128/03-aerosolmeasurement-3.md#pdf-page-11) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 12](text/5128/03-aerosolmeasurement-3.md#pdf-page-12) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 13](text/5128/03-aerosolmeasurement-3.md#pdf-page-13) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 14](text/5128/03-aerosolmeasurement-3.md#pdf-page-14) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 18](text/5128/03-aerosolmeasurement-3.md#pdf-page-18) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 19](text/5128/03-aerosolmeasurement-3.md#pdf-page-19) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 20](text/5128/03-aerosolmeasurement-3.md#pdf-page-20) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 21](text/5128/03-aerosolmeasurement-3.md#pdf-page-21) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 22](text/5128/03-aerosolmeasurement-3.md#pdf-page-22) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 24](text/5128/03-aerosolmeasurement-3.md#pdf-page-24) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 25](text/5128/03-aerosolmeasurement-3.md#pdf-page-25) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 26](text/5128/03-aerosolmeasurement-3.md#pdf-page-26) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 27](text/5128/03-aerosolmeasurement-3.md#pdf-page-27) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 28](text/5128/03-aerosolmeasurement-3.md#pdf-page-28) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 29](text/5128/03-aerosolmeasurement-3.md#pdf-page-29) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 30](text/5128/03-aerosolmeasurement-3.md#pdf-page-30) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 31](text/5128/03-aerosolmeasurement-3.md#pdf-page-31) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 32](text/5128/03-aerosolmeasurement-3.md#pdf-page-32) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 33](text/5128/03-aerosolmeasurement-3.md#pdf-page-33) | Sparse extracted text; inspect original page image. |
+| [ENV5128-03-aerosolmeasurement-3, p. 34](text/5128/03-aerosolmeasurement-3.md#pdf-page-34) | Sparse extracted text; inspect original page image. |
+| [ENV5128-04-ambientgasmeasurement-lowcostsensor, p. 1](text/5128/04-ambientgasmeasurement-lowcostsensor.md#pdf-page-1) | Sparse extracted text; inspect original page image. |
+| [ENV5128-04-ambientgasmeasurement-lowcostsensor, p. 3](text/5128/04-ambientgasmeasurement-lowcostsensor.md#pdf-page-3) | Sparse extracted text; inspect original page image. |
+| [ENV5128-04-ambientgasmeasurement-lowcostsensor, p. 8](text/5128/04-ambientgasmeasurement-lowcostsensor.md#pdf-page-8) | Sparse extracted text; inspect original page image. |
+| [ENV5128-04-ambientgasmeasurement-lowcostsensor, p. 10](text/5128/04-ambientgasmeasurement-lowcostsensor.md#pdf-page-10) | No extracted text; use page image and generated visual navigation. |
+| [ENV5128-04-ambientgasmeasurement-lowcostsensor, p. 12](text/5128/04-ambientgasmeasurement-lowcostsensor.md#pdf-page-12) | Sparse extracted text; inspect original page image. |
+| [ENV5128-04-ambientgasmeasurement-lowcostsensor, p. 14](text/5128/04-ambientgasmeasurement-lowcostsensor.md#pdf-page-14) | Sparse extracted text; inspect original page image. |
+| [ENV5128-04-ambientgasmeasurement-lowcostsensor, p. 21](text/5128/04-ambientgasmeasurement-lowcostsensor.md#pdf-page-21) | Sparse extracted text; inspect original page image. |
+| [ENV5128-05-llm, p. 1](text/5128/05-llm.md#pdf-page-1) | Sparse extracted text; inspect original page image. |
+| [ENV5128-05-llm, p. 3](text/5128/05-llm.md#pdf-page-3) | Sparse extracted text; inspect original page image. |
+| [ENV5128-05-llm, p. 10](text/5128/05-llm.md#pdf-page-10) | Sparse extracted text; inspect original page image. |
+| [ENV5128-06-arduino, p. 1](text/5128/06-arduino.md#pdf-page-1) | Sparse extracted text; inspect original page image. |
+| [ENV5128-07-visability, p. 1](text/5128/07-visability.md#pdf-page-1) | Sparse extracted text; inspect original page image. |
+| [ENV5128-07-visability, p. 3](text/5128/07-visability.md#pdf-page-3) | Sparse extracted text; inspect original page image. |
+| [ENV5128-07-visability, p. 5](text/5128/07-visability.md#pdf-page-5) | Sparse extracted text; inspect original page image. |
+| [ENV5128-07-visability, p. 6](text/5128/07-visability.md#pdf-page-6) | Sparse extracted text; inspect original page image. |
+| [ENV5128-07-visability, p. 8](text/5128/07-visability.md#pdf-page-8) | Sparse extracted text; inspect original page image. |
+| [ENV5128-07-visability, p. 12](text/5128/07-visability.md#pdf-page-12) | Sparse extracted text; inspect original page image. |
+| [ENV5128-07-visability, p. 17](text/5128/07-visability.md#pdf-page-17) | Sparse extracted text; inspect original page image. |
+| [ENV5128-07-visability, p. 20](text/5128/07-visability.md#pdf-page-20) | Sparse extracted text; inspect original page image. |
+| [ENV5128-07-visability, p. 21](text/5128/07-visability.md#pdf-page-21) | Sparse extracted text; inspect original page image. |
+| [ENV5128-07-visability, p. 27](text/5128/07-visability.md#pdf-page-27) | Sparse extracted text; inspect original page image. |
+| [ENV5128-07-visability, p. 29](text/5128/07-visability.md#pdf-page-29) | Sparse extracted text; inspect original page image. |
+| [ENV5128-07-visability, p. 30](text/5128/07-visability.md#pdf-page-30) | Sparse extracted text; inspect original page image. |
+| [ENV5128-07-visability, p. 31](text/5128/07-visability.md#pdf-page-31) | Sparse extracted text; inspect original page image. |
+| [ENV5128-07-visability, p. 32](text/5128/07-visability.md#pdf-page-32) | Sparse extracted text; inspect original page image. |
+| [ENV5128-07-visability, p. 33](text/5128/07-visability.md#pdf-page-33) | Sparse extracted text; inspect original page image. |
+| [ENV5128-07-visability, p. 40](text/5128/07-visability.md#pdf-page-40) | Sparse extracted text; inspect original page image. |
+| [ENV5128-08-bigdataairquality, p. 1](text/5128/08-bigdataairquality.md#pdf-page-1) | Sparse extracted text; inspect original page image. |
+| [ENV5128-08-bigdataairquality, p. 5](text/5128/08-bigdataairquality.md#pdf-page-5) | No extracted text; use page image and generated visual navigation. |
+| [ENV5128-08-bigdataairquality, p. 14](text/5128/08-bigdataairquality.md#pdf-page-14) | Sparse extracted text; inspect original page image. |
+| [ENV5128-08-bigdataairquality, p. 20](text/5128/08-bigdataairquality.md#pdf-page-20) | Sparse extracted text; inspect original page image. |
+| [ENV5128-08-bigdataairquality, p. 24](text/5128/08-bigdataairquality.md#pdf-page-24) | Sparse extracted text; inspect original page image. |
+| [ENV5128-08-bigdataairquality, p. 25](text/5128/08-bigdataairquality.md#pdf-page-25) | Sparse extracted text; inspect original page image. |
+| [ENV5128-08-bigdataairquality, p. 27](text/5128/08-bigdataairquality.md#pdf-page-27) | Sparse extracted text; inspect original page image. |
+| [ENV5128-08-bigdataairquality, p. 29](text/5128/08-bigdataairquality.md#pdf-page-29) | Sparse extracted text; inspect original page image. |
+| [ENV5128-09-airqualitymodels, p. 1](text/5128/09-airqualitymodels.md#pdf-page-1) | Sparse extracted text; inspect original page image. |
+| [ENV5128-09-airqualitymodels, p. 6](text/5128/09-airqualitymodels.md#pdf-page-6) | Sparse extracted text; inspect original page image. |
 | [ENV6106-01-introduction, p. 1](text/6106/01-introduction.md#pdf-page-1) | Sparse extracted text; inspect original page image. |
 | [ENV6106-01-introduction, p. 3](text/6106/01-introduction.md#pdf-page-3) | Sparse extracted text; inspect original page image. |
 | [ENV6106-01-introduction, p. 16](text/6106/01-introduction.md#pdf-page-16) | Sparse extracted text; inspect original page image. |

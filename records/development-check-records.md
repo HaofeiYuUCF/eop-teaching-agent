@@ -18,11 +18,11 @@ These were literal lookup checks, not a semantic retrieval benchmark or independ
 | Gaussian assumptions | 4120 | Passed; 1 hits | [ENV4120-10-gaussiandispersionmodel, PDF p. 19](../library/text/4120/10-gaussiandispersionmodel.md#pdf-page-19) |
 | Gaussian assumptions | 6106 | Passed; 1 hits | [ENV6106-03-gaussian-model, PDF p. 19](../library/text/6106/03-gaussian-model.md#pdf-page-19) |
 | Max conc example | 4120 | Passed; 1 hits | [ENV4120-10-gaussiandispersionmodel, PDF p. 23](../library/text/4120/10-gaussiandispersionmodel.md#pdf-page-23) |
-| cross-sensitivity | 5128 | Passed; 3 hits | [ENV5128-07-ambient-gas-measurement, PDF p. 19](../library/text/5128/07-ambient-gas-measurement.md#pdf-page-19) |
-| Calibration requirement | 5128 | Passed; 2 hits | [ENV5128-07-ambient-gas-measurement, PDF p. 21](../library/text/5128/07-ambient-gas-measurement.md#pdf-page-21) |
+| cross-sensitivity | 5128 | Passed; 3 hits | [ENV5128-04-ambientgasmeasurement-lowcostsensor, PDF p. 19](../library/text/5128/04-ambientgasmeasurement-lowcostsensor.md#pdf-page-19) |
+| Calibration requirement | 5128 | Passed; 2 hits | [ENV5128-04-ambientgasmeasurement-lowcostsensor, PDF p. 21](../library/text/5128/04-ambientgasmeasurement-lowcostsensor.md#pdf-page-21) |
 | receptor | ENV6106-10-cal3qhc | Passed; 5 hits | [ENV6106-10-cal3qhc, PDF p. 19](../library/text/6106/10-cal3qhc.md#pdf-page-19) |
 | Sunshine Corridor measured 2026 | All courses | Passed; 0 hits | No text match; no answer generated. |
-| "membrane sampling filters" | 5128 | Passed; 1 hits | [ENV5128-05-aerosolmeasurement-2, PDF p. 26](../library/text/5128/05-aerosolmeasurement-2.md#pdf-page-26) |
+| "membrane sampling filters" | 5128 | Passed; 1 hits | [ENV5128-03-aerosolmeasurement-2, PDF p. 26](../library/text/5128/03-aerosolmeasurement-2.md#pdf-page-26) |
 
 ## Original skill format validation
 

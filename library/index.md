@@ -1,6 +1,6 @@
 # Course reference library
 
-38 course lectures, 1,050 pages, as page text and page images. The original PDF files are held by the course owner and are not included; PDF page numbers remain the citation unit. Navigation descriptions are generated, not instructor-approved learning objectives.
+41 course lectures, 1,132 pages, as page text and page images. The original PDF files are held by the course owner and are not included; PDF page numbers remain the citation unit. Navigation descriptions are generated, not instructor-approved learning objectives.
 
 Start with the [library guide](../reference/library-guide.md), [topic index](topics.md), or a course below. Page text and page images are preserved unchanged.
 
@@ -23,23 +23,26 @@ Air Pollution and Hazardous Waste Control. 10 documents, 280 pages.
 | ENV4120-10-gaussiandispersionmodel | [10_GaussianDispersionModel.pdf](text/4120/10-gaussiandispersionmodel.md) | 23 | 4120 |
 | ENV4120-11-introductiontoairqualitymodel | [11_IntroductionToAirQualityModel.pdf](text/4120/11-introductiontoairqualitymodel.md) | 37 | 4120 |
 
-## ENV 5128 (formerly ENV 6128; some slides still show the old number)
+## ENV 5128 (formerly ENV 6128)
 
-Smart Air Quality Monitoring and Air Pollution Control. 11 documents, 415 pages.
+Smart Air Quality Monitoring and Air Pollution Control. 14 documents, 497 pages. Updated from the course owner's current slides on 2026-11-15.
 
 | Source ID | File | Pages | Displayed course |
 |---|---|---:|---|
 | ENV5128-01-airpollutionbasics-1 | [01_AirPollutionBasics_1.pdf](text/5128/01-airpollutionbasics-1.md) | 59 | 5128 |
 | ENV5128-01-airpollutionbasics-2 | [01_AirPollutionBasics_2.pdf](text/5128/01-airpollutionbasics-2.md) | 56 | 5128 |
 | ENV5128-01-airpollutionbasics-3 | [01_AirPollutionBasics_3.pdf](text/5128/01-airpollutionbasics-3.md) | 36 | 5128 |
-| ENV5128-02-monitoringnetwork | [02_MonitoringNetwork.pdf](text/5128/02-monitoringnetwork.md) | 12 | 6128 |
-| ENV5128-03-intro2aerosol | [03_Intro2Aerosol.pdf](text/5128/03-intro2aerosol.md) | 51 | 6128 |
-| ENV5128-04-aerosolmeasurement-1 | [04_AerosolMeasurement_1.pdf](text/5128/04-aerosolmeasurement-1.md) | 36 | 6128 |
-| ENV5128-05-aerosolmeasurement-2 | [05_AerosolMeasurement_2.pdf](text/5128/05-aerosolmeasurement-2.md) | 39 | 6128 |
-| ENV5128-06-aerosolmeasurement-3 | [06_AerosolMeasurement_3.pdf](text/5128/06-aerosolmeasurement-3.md) | 34 | 6128 |
-| ENV5128-07-ambient-gas-measurement | [07_Ambient gas measurement.pdf](text/5128/07-ambient-gas-measurement.md) | 22 | 6128 |
-| ENV5128-08-visability | [08_Visability.pdf](text/5128/08-visability.md) | 40 | 6128 |
-| ENV5128-env-6128-iot-in-air-quality-monitoring-10222024 | [ENV_6128_IoT_in_Air_Quality_Monitoring_10222024.pdf](text/5128/env-6128-iot-in-air-quality-monitoring-10222024.md) | 30 | 6128 |
+| ENV5128-02-monitoringnetwork | [02_MonitoringNetwork.pdf](text/5128/02-monitoringnetwork.md) | 12 | 5128 |
+| ENV5128-03-intro2aerosol | [03_Intro2Aerosol.pdf](text/5128/03-intro2aerosol.md) | 51 | 5128 |
+| ENV5128-03-aerosolmeasurement-1 | [03_AerosolMeasurement_1.pdf](text/5128/03-aerosolmeasurement-1.md) | 36 | 5128 |
+| ENV5128-03-aerosolmeasurement-2 | [03_AerosolMeasurement_2.pdf](text/5128/03-aerosolmeasurement-2.md) | 39 | 5128 |
+| ENV5128-03-aerosolmeasurement-3 | [03_AerosolMeasurement_3.pdf](text/5128/03-aerosolmeasurement-3.md) | 34 | 5128 |
+| ENV5128-04-ambientgasmeasurement-lowcostsensor | [04_AmbientGasMeasurement&LowCostSensor.pdf](text/5128/04-ambientgasmeasurement-lowcostsensor.md) | 22 | 5128 |
+| ENV5128-05-llm | [05_LLM_100.1.pdf](text/5128/05-llm.md) | 16 | 5128 |
+| ENV5128-06-arduino | [06_Arduino.pdf](text/5128/06-arduino.md) | 32 | 5128 |
+| ENV5128-07-visability | [07_Visability.pdf](text/5128/07-visability.md) | 40 | 5128 |
+| ENV5128-08-bigdataairquality | [10_BigDataAirQuality_v3.pdf](text/5128/08-bigdataairquality.md) | 30 | 5128 |
+| ENV5128-09-airqualitymodels | [09_AirQualityModels.pdf](text/5128/09-airqualitymodels.md) | 34 | 5128 |
 
 ## ENV 6106
 

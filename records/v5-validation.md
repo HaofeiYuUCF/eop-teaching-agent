@@ -1,5 +1,9 @@
 # Version 5 validation report
 
+Historical record. The ENV 5128 part of the library was rebuilt from the course owner's updated slides on
+2026-11-15 (fourteen documents, 497 pages); the 5128 counts and source identifiers below describe the
+library as it was before that update. See the [course index](../library/index.md) for the current set.
+
 ## Scope and status
 
 Version 5 imports the supplied courses as traceable reference resources. This report distinguishes

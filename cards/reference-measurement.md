@@ -138,7 +138,7 @@ check date or a comparison of unverified counts does not establish present oblig
 
 ## Sources
 
-- ENV 5128, Monitoring Network; Aerosol Measurement 1-3; Ambient gas measurement
+- ENV 5128, Monitoring Network; Aerosol Measurement 1-3; Ambient Gas Measurement and Low-Cost Sensors
 - Florida DEP ambient air monitoring network plan
 - EPA AMTIC
 
@@ -146,5 +146,5 @@ check date or a comparison of unverified counts does not establish present oblig
 
 The following passages provide topic-specific reference material. They do not verify all card claims or establish observed student difficulties, teacher endorsement, or completed field/model work.
 - `ENV5128-02-monitoringnetwork`, PDF pages [3](../library/text/5128/02-monitoringnetwork.md#pdf-page-3), [4](../library/text/5128/02-monitoringnetwork.md#pdf-page-4), [5](../library/text/5128/02-monitoringnetwork.md#pdf-page-5), [6](../library/text/5128/02-monitoringnetwork.md#pdf-page-6), [7](../library/text/5128/02-monitoringnetwork.md#pdf-page-7), [8](../library/text/5128/02-monitoringnetwork.md#pdf-page-8). Monitoring network purposes and siting considerations; not a current regulatory verification.
-- `ENV5128-04-aerosolmeasurement-1`, PDF pages [8](../library/text/5128/04-aerosolmeasurement-1.md#pdf-page-8), [11](../library/text/5128/04-aerosolmeasurement-1.md#pdf-page-11), [15](../library/text/5128/04-aerosolmeasurement-1.md#pdf-page-15), [19](../library/text/5128/04-aerosolmeasurement-1.md#pdf-page-19). Sampling loss, calibration, inlet design and sample drying.
-- `ENV5128-07-ambient-gas-measurement`, PDF pages [4](../library/text/5128/07-ambient-gas-measurement.md#pdf-page-4), [5](../library/text/5128/07-ambient-gas-measurement.md#pdf-page-5), [6](../library/text/5128/07-ambient-gas-measurement.md#pdf-page-6), [7](../library/text/5128/07-ambient-gas-measurement.md#pdf-page-7). Gas measurement methods; figures require visual inspection.
+- `ENV5128-03-aerosolmeasurement-1`, PDF pages [8](../library/text/5128/03-aerosolmeasurement-1.md#pdf-page-8), [11](../library/text/5128/03-aerosolmeasurement-1.md#pdf-page-11), [15](../library/text/5128/03-aerosolmeasurement-1.md#pdf-page-15), [19](../library/text/5128/03-aerosolmeasurement-1.md#pdf-page-19). Sampling loss, calibration, inlet design and sample drying.
+- `ENV5128-04-ambientgasmeasurement-lowcostsensor`, PDF pages [4](../library/text/5128/04-ambientgasmeasurement-lowcostsensor.md#pdf-page-4), [5](../library/text/5128/04-ambientgasmeasurement-lowcostsensor.md#pdf-page-5), [6](../library/text/5128/04-ambientgasmeasurement-lowcostsensor.md#pdf-page-6), [7](../library/text/5128/04-ambientgasmeasurement-lowcostsensor.md#pdf-page-7). Gas measurement methods; figures require visual inspection.

@@ -19,7 +19,7 @@ Scientific verification: not independently verified. Original credits and third-
 - [PDF page 8](#pdf-page-8): Beijing smog / Smog in 20 minutes. Beijing, China. Jan 2nd, 2017
 - [PDF page 9](#pdf-page-9): Regional air pollution (haze) / 9
 - [PDF page 10](#pdf-page-10): Acid deposition / 10
-- [PDF page 11](#pdf-page-11): Stratospheric ozone depletion / 11Antarctic September ozone hole from 1979 to 2022
+- [PDF page 11](#pdf-page-11): Stratospheric ozone depletion / 11
 - [PDF page 12](#pdf-page-12): Wildfires / 2017 Hurricanes and Aerosols Simulation from NASA
 - [PDF page 13](#pdf-page-13): Brief U.S. Federal Legislative / History
 - [PDF page 14](#pdf-page-14): Brief U.S. Federal Legislative History / 14
@@ -54,7 +54,7 @@ Scientific verification: not independently verified. Original credits and third-
 - [PDF page 43](#pdf-page-43): Transport of air pollution / 43
 - [PDF page 44](#pdf-page-44): Pollution transport / • After emitted/formed, pollutants need to be
 - [PDF page 45](#pdf-page-45): Gone with the wind – Wind Rose / Horizontal mean flow
-- [PDF page 46](#pdf-page-46): Gone with the wind / 46Klyuchevskaya Sopka volcano, Russia. 9/30/1994 eruption. Taken by Endeavour
+- [PDF page 46](#pdf-page-46): Gone with the wind / 46
 - [PDF page 47](#pdf-page-47): Large Scale Motion: / General Circulation pattern
 - [PDF page 48](#pdf-page-48): Smaller scale motion / 48
 - [PDF page 49](#pdf-page-49): Even smaller scale / 49
@@ -62,12 +62,13 @@ Scientific verification: not independently verified. Original credits and third-
 - [PDF page 51](#pdf-page-51): Air Pollution Health Effects / • Effects on human
 - [PDF page 52](#pdf-page-52): Air Pollution Health Effects / Respiratory
 - [PDF page 53](#pdf-page-53): Air pollution kills / 53
-- [PDF page 54](#pdf-page-54): Ozone damaged crops / 54Dr. Gerald Brust. University of Maryland
+- [PDF page 54](#pdf-page-54): Ozone damaged crops / 54
 - [PDF page 55](#pdf-page-55): PM deposition on building / 55
 - [PDF page 56](#pdf-page-56): Effect of acid deposition / 56
 - [PDF page 57](#pdf-page-57): Effect of acid deposition / 57
 - [PDF page 58](#pdf-page-58): Effects of eutrophication / Effects of eutrophication
 - [PDF page 59](#pdf-page-59): UV damage skin / 59
+
 
 <a id="pdf-page-1"></a>
 ## PDF page 1
@@ -99,7 +100,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 2.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions, Transport and meteorology, Exposure and health, Policy and management context
+Generated navigation topics: Transport and meteorology, Exposure and health, Policy and management context
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -110,10 +111,10 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > • Expectation
 > – Familiar with air pollution issues at different scales
 > – Familiar with source types of air pollution
-> – Familiar with the wide range of adverse health and 
+> – Familiar with the wide range of adverse health and
 > environmental effects of air pollution
-> – Understand CAA, NAAQS, CAP, HAP, NESHAPS, 
-> SIP, NSR, PSD 
+> – Understand CAA, NAAQS, CAP, HAP, NESHAPS,
+> SIP, NSR, PSD
 > – Know the six CAPs and their major sources
 > – Understand and be able to interpret wind rose map
 
@@ -136,7 +137,7 @@ Extraction flags: sparse-text
 
 ### Extracted source text
 
-> Air pollution issues at 
+> Air pollution issues at
 > different scales
 
 
@@ -160,12 +161,13 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > What is air pollution
 > • As defined in Florida Administrative Code:
-> • “Air pollution is the presence in the outside 
-> atmosphere … of any one or more substances 
-> or pollutants in quantities which are or may be 
-> harmful or injurious to human health or welfare, 
-> animal or plant life, or property, or unreasonably 
-> interfere with the enjoyment of life or property, 
+> •
+> “Air pollution is the presence in the outside
+> atmosphere … of any one or more substances
+> or pollutants in quantities which are or may be
+> harmful or injurious to human health or welfare,
+> animal or plant life, or property, or unreasonably
+> interfere with the enjoyment of life or property,
 > including outdoor recreation.”
 
 
@@ -190,13 +192,13 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > Scales of air pollution problems
 > 5
 > • Personal
-> • Micro-environmental (meters) – indoor air pollution 
+> • Micro-environmental (meters) – indoor air pollution
 > • Local (< 5 km) – hot spots, near source
 > • Urban (~ 50 km) – urban smog
 > • Regional (50 – 500 km) – acid deposition, visibility
-> • Continental (500 – 1000 km) – long-range 
+> • Continental (500 – 1000 km) – long-range
 > transport, stratospheric ozone depletion
-> • Global – stratospheric ozone depletion, long range 
+> • Global – stratospheric ozone depletion, long range
 > transport, climate change
 
 
@@ -210,21 +212,25 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 6.
 
-Printed slide number candidate: not identified (use PDF page as canonical locator).
+Printed slide number candidate: 7 (use PDF page as canonical locator).
 
-Generated navigation topics: Exposure and health
+Generated navigation topics: Transport and meteorology, Exposure and health, Particles and aerosols
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> London smog, 
+> London smog,
 > 1952
-> • December temperature inversion 
-> • air pollution levels (PM, SO2) 5x 
+> •
+> December temperature inversion
+> •
+> air pollution levels (PM, SO2) 5x
 > higher than normal
-> • 4,000 excess deaths attributed to fog
-> • 80% of deaths due to 
+> •
+> 4,000 excess deaths attributed to fog
+> •
+> 80% of deaths due to
 > cardiorespiratory disease (30% typ)
 > 0
 > 100
@@ -237,7 +243,19 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > 800
 > 900
 > deaths
-> 1 2 74 6 128 95 1310 11 14 153
+> 1
+> 2
+> 7
+> 4
+> 6
+> 12
+> 8
+> 9
+> 5
+> 13
+> 10 11
+> 14 15
+> 3
 > date in December, 1952
 > Air pollution episode
 > 0
@@ -251,7 +269,32 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > 800
 > 900
 > deaths
-> 1 2 74 6 128 95 1310 11 14 1531 2 74 6 128 95 1310 11 14 153
+> 1
+> 2
+> 7
+> 4
+> 6
+> 12
+> 8
+> 9
+> 5
+> 13
+> 10 11
+> 14 15
+> 3
+> 1
+> 2
+> 7
+> 4
+> 6
+> 12
+> 8
+> 9
+> 5
+> 13
+> 10 11
+> 14 15
+> 3
 > date in December, 1952
 > Air pollution episode
 
@@ -268,7 +311,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 7.
 
 Printed slide number candidate: 7 (use PDF page as canonical locator).
 
-Generated navigation topics: Unclassified; inspect source.
+Generated navigation topics: Ozone and atmospheric chemistry
 
 Extraction flags: sparse-text
 
@@ -290,7 +333,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 8.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
-Generated navigation topics: Unclassified; inspect source.
+Generated navigation topics: Ozone and atmospheric chemistry
 
 Extraction flags: sparse-text
 
@@ -313,7 +356,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 9.
 
 Printed slide number candidate: 9 (use PDF page as canonical locator).
 
-Generated navigation topics: Unclassified; inspect source.
+Generated navigation topics: Climate and environmental effects
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -337,7 +380,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 10.
 
 Printed slide number candidate: 10 (use PDF page as canonical locator).
 
-Generated navigation topics: Ozone and atmospheric chemistry
+Generated navigation topics: Climate and environmental effects
 
 Extraction flags: sparse-text
 
@@ -358,7 +401,7 @@ Extraction flags: sparse-text
 
 Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 11.
 
-Printed slide number candidate: not identified (use PDF page as canonical locator).
+Printed slide number candidate: 11 (use PDF page as canonical locator).
 
 Generated navigation topics: Ozone and atmospheric chemistry
 
@@ -367,7 +410,8 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 ### Extracted source text
 
 > Stratospheric ozone depletion
-> 11Antarctic September ozone hole from 1979 to 2022
+> 11
+> Antarctic September ozone hole from 1979 to 2022
 > (NASA Ozone watch http://ozonewatch.gsfc.nasa.gov/monthly/SH.html)
 
 
@@ -383,7 +427,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 12.
 
 Printed slide number candidate: not identified (use PDF page as canonical locator).
 
-Generated navigation topics: Particles and aerosols
+Generated navigation topics: Pollution sources and emissions, Particles and aerosols
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -413,8 +457,8 @@ Extraction flags: sparse-text
 
 ### Extracted source text
 
-> Brief U.S. Federal Legislative 
-> History 
+> Brief U.S. Federal Legislative
+> History
 
 
 ### Original page appearance
@@ -435,10 +479,10 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> Brief U.S. Federal Legislative History 
+> Brief U.S. Federal Legislative History
 > 14
-> • Mid 1800s: industrialized cities were well 
-> established as very dirty places 
+> • Mid 1800s: industrialized cities were well
+> established as very dirty places
 > – New York, Chicago, Pittsburgh etc…
 > Pittsburgh from the Salt Works at Saw Mill, by William T. Russell, 1843
 > (http://explorepahistory.com/displayimage.php?imgId=1-2-D44)
@@ -456,21 +500,21 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 15.
 
 Printed slide number candidate: 15 (use PDF page as canonical locator).
 
-Generated navigation topics: Exposure and health
+Generated navigation topics: Pollution sources and emissions, Exposure and health
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> Brief U.S. Federal Legislative History 
+> Brief U.S. Federal Legislative History
 > 15
-> • By turn of the century, air pollution becoming 
+> • By turn of the century, air pollution becoming
 > recognized as a local health problem
-> • 1907: The International Association for the 
+> • 1907: The International Association for the
 > Prevention of Smoke established
-> – Later the Air Pollution Control Association, now the 
+> – Later the Air Pollution Control Association, now the
 > Air & Waste Management Association
-> • Automobile revolution and beginnings of 
+> • Automobile revolution and beginnings of
 > American consumer culture
 
 
@@ -486,27 +530,27 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 16.
 
 Printed slide number candidate: 16 (use PDF page as canonical locator).
 
-Generated navigation topics: Exposure and health, Policy and management context
+Generated navigation topics: Exposure and health, Ozone and atmospheric chemistry, Climate and environmental effects
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> Brief U.S. Federal Legislative History 
+> Brief U.S. Federal Legislative History
 > 16
 > • 1940s: LA haze; Donora (PA) smog (20 deaths)
 > • 1952: London smog (4000 deaths)
 > • 1955: Clean Air Legislation (1st Fed. regulation)
-> – Authorized Public Health Service (Dept. of Health, 
+> – Authorized Public Health Service (Dept. of Health,
 > Education, and Welfare: DHEW) to:
 > • Conduct air pollution research and training programs
 > • Provide technical assistance to state and local governments
-> Donora, PA at noon on 
+> Donora, PA at noon on
 > October 29, 1948
 > http://pabook.libraries.psu.
 > edu/palitmap/DonoraSmo
 > g.html
-> London smog 
+> London smog
 > (www.klimaforschung.ne)
 > t
 
@@ -529,15 +573,15 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> Brief U.S. Federal Legislative History 
+> Brief U.S. Federal Legislative History
 > 17
-> • 1960s: Social change and significant national 
+> • 1960s: Social change and significant national
 > environmental movements
 > – Sierra Club, Wilderness Society
-> – 1962: Rachel Carson’s ‘Silent Spring’ 
+> – 1962: Rachel Carson’s ‘Silent Spring’
 > • 1963: Clean Air Act (CAA)
 > – Broadened federal role in air quality management
-> • Grants for program development/improvement of state and local air 
+> • Grants for program development/improvement of state and local air
 > pollution control
 > • Research, training, and technical assistance
 > • Federal enforcement authority for interstate air pollution problems
@@ -557,19 +601,19 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 18.
 
 Printed slide number candidate: 18 (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions, Policy and management context
+Generated navigation topics: Pollution sources and emissions
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> Brief U.S. Federal Legislative History 
+> Brief U.S. Federal Legislative History
 > 18
 > • 1965: Motor Vehicle Air Pollution Control Act
 > – Amendment to 1963 CAA
-> – Established the National Air Pollution Control 
+> – Established the National Air Pollution Control
 > Administration (NAPCA)
-> – Authorized DHEW/NAPCA to promulgate motor 
+> – Authorized DHEW/NAPCA to promulgate motor
 > vehicle emissions standards
 
 
@@ -591,15 +635,15 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> Brief U.S. Federal Legislative History 
+> Brief U.S. Federal Legislative History
 > 19
 > • 1967: Air Quality Act (Amendment to CAA)
-> – Institution of a regional approach to air pollution 
+> – Institution of a regional approach to air pollution
 > control and standard setting
 > – Air Quality Control Regions (AQCR)
-> – NAPCA to develop/issue air quality criteria and 
+> – NAPCA to develop/issue air quality criteria and
 > control technique info
-> – States to develop state air quality standards, state 
+> – States to develop state air quality standards, state
 > implementation plan (SIP)
 
 
@@ -621,9 +665,9 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> Brief U.S. Federal Legislative History 
+> Brief U.S. Federal Legislative History
 > 20
->  1970: USEPA established (NAPCA eliminated)
+> 1970: USEPA established (NAPCA eliminated)
 > • 1970: Clean Air Act Amendments
 > – Provided for federal enforcement authority
 > – Stringent auto emissions and fuel standards
@@ -647,22 +691,22 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 21.
 
 Printed slide number candidate: 21 (use PDF page as canonical locator).
 
-Generated navigation topics: Ozone and atmospheric chemistry, Policy and management context
+Generated navigation topics: Monitoring networks and siting, Ozone and atmospheric chemistry, Policy and management context
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> Brief U.S. Federal Legislative History 
+> Brief U.S. Federal Legislative History
 > 21
 > • 1977: Clean Air Act Amendments
 > – Required review of NAAQS every 5 years
 > – Non-compliance penalties
 > – New Source Review (NSR) for major sources
 > – Prevention of Significant Deterioration (PSD)
-> – Grant USEPA authority to regulate ozone destroying 
+> – Grant USEPA authority to regulate ozone destroying
 > chemicals
-> • 1977: National Atmospheric Deposition Program 
+> • 1977: National Atmospheric Deposition Program
 > (NADP) established
 > – Monitoring trends of acidity in precipitation
 
@@ -679,18 +723,18 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 22.
 
 Printed slide number candidate: 22 (use PDF page as canonical locator).
 
-Generated navigation topics: Policy and management context
+Generated navigation topics: Monitoring networks and siting, Policy and management context
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> Brief U.S. Federal Legislative History 
+> Brief U.S. Federal Legislative History
 > 22
-> • 1978: US ban manufacture and sale of CFCs for 
+> • 1978: US ban manufacture and sale of CFCs for
 > spray cans
 > • 1980: Acid Precipitation Act
-> – National Acid Precipitation Assessment Program 
+> – National Acid Precipitation Assessment Program
 > (NAPA)
 > – Enlarged NADP to National Trends Network (NTN)
 > • 1980: Election of Ronald Reagan
@@ -709,23 +753,23 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 23.
 
 Printed slide number candidate: 23 (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions, Ozone and atmospheric chemistry, Policy and management context
+Generated navigation topics: Ozone and atmospheric chemistry, Policy and management context
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> Brief U.S. Federal Legislative History 
+> Brief U.S. Federal Legislative History
 > 23
 > • 1990: Clean Air Act Amendments
 > – Reauthorization and update of CAA
 > – Strengthen measures for attaining air quality standards
-> – Boundaries of non-attainment areas to include all areas in 
+> – Boundaries of non-attainment areas to include all areas in
 > metropolitan area
 > – Expanded regulation of HAPs
 > • Max achievable control technology (MACT)
-> • Establish program for prevention of accidental releases 
-> – Updated authority and specific requirements for stratospheric 
+> • Establish program for prevention of accidental releases
+> – Updated authority and specific requirements for stratospheric
 > ozone depletion
 > – Expanded enforcement powers and penalties
 > – Criminal sanctions for negligent violations
@@ -743,21 +787,21 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 24.
 
 Printed slide number candidate: 24 (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions
+Generated navigation topics: Pollution sources and emissions, Particles and aerosols, Policy and management context
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> Brief U.S. Federal Legislative History 
+> Brief U.S. Federal Legislative History
 > 24
 > • 2005: Clean Air Interstate Rule (CAIR)
 > – Cap and trade for O3 and PM
 > – Replaced by Cross-State Air Pollution Rule (CSAPR) in 2011
-> • 2007: Supreme court ruling providing EPA authority over 
+> • 2007: Supreme court ruling providing EPA authority over
 > CO2
 > • 2015: Volkswagen emissions scandal ($2.8B fine)
-> • 2015: Clean Power Plan: reduce carbon emissions from 
+> • 2015: Clean Power Plan: reduce carbon emissions from
 > power plants
 > • 2016: 1st Trump presidency
 > – Many environmental policy changes followed
@@ -781,7 +825,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
-> Brief U.S. Federal Legislative History 
+> Brief U.S. Federal Legislative History
 > 25
 > • 2017: Dismantle of Clean Power Plan
 > – Held by supreme court in 2016
@@ -858,7 +902,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 28.
 
 Printed slide number candidate: 28 (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions
+Generated navigation topics: Unclassified; inspect source.
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -867,23 +911,24 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > Natural Sources
 > 28
 > USGS image by C. Newhall - September, 1984  (www.geology.com)
-> Satellite image for June 14, 1996, at 1545 EST 
+> Satellite image for June 14, 1996, at 1545 EST
 > (www.radar.mcgill.ca/forest_fire.html)
 > NOAA Photo Library, Historic NWS collection
-> Credit: Photo by Michele Hogan 
+> Credit: Photo by Michele Hogan
 > http://www.sciencedaily.com/releases/
 > 2007/09/070919175542.htm
 > www.ivm.vu.nl/en/projects/Departments/econo
 > mics/Reduced_Emission_from_Deforestation_
 > and_Degradation_in_the_Southern_Cardamo
-> m_Ecosystem_Cambodia/index.aspForest 
+> m_Ecosystem_Cambodia/index.aspForest
 > www.phase2.net/claygraphics/Images/br
 > yce%20images/Tahcharian%20Hot%20
 > Springs.jpg
 > Volcano
 > Dust storm
 > Forest fire
-> Sea Forest
+> Sea
+> Forest
 > Hot springs
 
 
@@ -907,7 +952,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Anthropogenic Sources
 > 29
-> (David Klobucar/Associated Press) 
+> (David Klobucar/Associated Press)
 > http://www.cbc.ca/news/canadavotes/story/200
 > 8/09/19/f-carbontaxprimer.html
 > Power plants
@@ -939,7 +984,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 30.
 
 Printed slide number candidate: 30 (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions
+Generated navigation topics: Unclassified; inspect source.
 
 Extraction flags: sparse-text
 
@@ -961,7 +1006,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 31.
 
 Printed slide number candidate: 31 (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions, Exposure and health, Policy and management context
+Generated navigation topics: Pollution sources and emissions, Exposure and health, Particles and aerosols
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -974,7 +1019,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > – Ubiquitous, most harmful to health and environment
 > • 189 Hazardous Air Pollutants (HAPs)
 > – A.K.A. toxic air pollutants or air toxics
-> – Known/suspected to cause cancer, or other serious 
+> – Known/suspected to cause cancer, or other serious
 > health or environmental effects
 > – Goal: reduce emissions (NESHAPS)
 > – Primary, man-made emissions dominates
@@ -1004,7 +1049,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > • PM10 & PM2.5
 > – PMs with aerodynamic diameter < 10 or 2.5 µm
 > • 1 µm =  1x10-6 m
-> – Can lodge in airway once inhaled. 
+> – Can lodge in airway once inhaled.
 > – PM2.5 penetrate deep into lungs (alveoli region)
 > • Many emission sources
 > – Fire, dust, agriculture, fuel combustion, cars etc…
@@ -1023,9 +1068,9 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 33.
 
-Printed slide number candidate: not identified (use PDF page as canonical locator).
+Printed slide number candidate: 33 (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions
+Generated navigation topics: Pollution sources and emissions, Ozone and atmospheric chemistry
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -1037,12 +1082,13 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > – NO + NO2 = NOx (different from NOy and NOz!)
 > • NOz = a combination of several reactive nitrogen species
 > • NOy = NOx + NOz
-> • Mostly man-made, primary emissions (fuel 
+> • Mostly man-made, primary emissions (fuel
 > combustion at high temperatures)
 > – Mobile source, power plants dominates
 > • Some natural sources
 > – Lighting generate NOx
-> – Some plants also emit NOx 33
+> – Some plants also emit NOx
+> 33
 
 
 ### Original page appearance
@@ -1057,7 +1103,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 34.
 
 Printed slide number candidate: 34 (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions, Transport and meteorology, Exposure and health, Ozone and atmospheric chemistry
+Generated navigation topics: Pollution sources and emissions, Exposure and health, Ozone and atmospheric chemistry
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -1068,13 +1114,13 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > • Ground-level O3 BAD; stratospheric O3 GOOD.
 > – Health effect when exposed near ground
 > – Stratospheric O3 layer absorbs harmful UV
-> • Secondary pollutants, negligible direct emissions 
+> • Secondary pollutants, negligible direct emissions
 > – Primarily from NOX and VOC, mixing with sunlight
 > – VOC: Volatile Organic Compounds
 > • From evaporation of organic solvents, incomplete combustion etc…
 > • Trees emits VOC (biogenic): mostly isoprene
 > • Globally, trees emits more VOC than man-made sources
-> • Ronald Reagan (1981): Trees cause more pollution than 
+> • Ronald Reagan (1981): Trees cause more pollution than
 > automobiles do
 > 34
 
@@ -1091,7 +1137,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 35.
 
 Printed slide number candidate: 35 (use PDF page as canonical locator).
 
-Generated navigation topics: Unclassified; inspect source.
+Generated navigation topics: Pollution sources and emissions, Climate and environmental effects
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -1103,7 +1149,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > – Coal fire power plants is the biggest source
 > – Also industry, mobile, fire (wild + prescribed)
 > – Some natural source: sulfur springs
-> • Major contributor to acid rain, especially 
+> • Major contributor to acid rain, especially
 > northeastern US
 > 35
 
@@ -1131,7 +1177,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > • Mostly primary, from incomplete fuel combustion
 > – Mobile source, fire are the biggest ones
 > • Some plants emits CO (biogenic)
-> • CO binds with hemoglobin, reduce oxygen 
+> • CO binds with hemoglobin, reduce oxygen
 > carrying capacity of blood
 > 36
 
@@ -1148,7 +1194,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 37.
 
 Printed slide number candidate: 37 (use PDF page as canonical locator).
 
-Generated navigation topics: Particles and aerosols
+Generated navigation topics: Pollution sources and emissions, Particles and aerosols
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -1157,9 +1203,9 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > Lead (Pb)
 > • Particulate lead
 > • Combustion of fuels with lead additives
-> • Leaded gas phased out → lead in ambient air 
+> • Leaded gas phased out → lead in ambient air
 > decreased by 99%
-> – Leaded gas invented by Thomas Midgley Jr. who also 
+> – Leaded gas invented by Thomas Midgley Jr. who also
 > brought us Freon (CFC)
 > • Lead particularly toxic to children
 > • Houses built before 1978 has lead paint
@@ -1178,7 +1224,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 38.
 
 Printed slide number candidate: 38 (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions
+Generated navigation topics: Pollution sources and emissions, Policy and management context
 
 Extraction flags: sparse-text
 
@@ -1201,7 +1247,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 39.
 
 Printed slide number candidate: 39 (use PDF page as canonical locator).
 
-Generated navigation topics: Unclassified; inspect source.
+Generated navigation topics: Policy and management context
 
 Extraction flags: sparse-text
 
@@ -1224,7 +1270,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 40.
 
 Printed slide number candidate: 40 (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions
+Generated navigation topics: Pollution sources and emissions, Policy and management context
 
 Extraction flags: sparse-text
 
@@ -1247,7 +1293,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 41.
 
 Printed slide number candidate: 41 (use PDF page as canonical locator).
 
-Generated navigation topics: Pollution sources and emissions
+Generated navigation topics: Policy and management context
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -1255,7 +1301,7 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > NASA satellite NO2 concentration
 > 41
-> More information on trend of CAPs see: 
+> More information on trend of CAPs see:
 > https://gispub.epa.gov/air/trendsreport/2024
 > Also see here: https://airquality.gsfc.nasa.gov/
 
@@ -1272,7 +1318,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 42.
 
 Printed slide number candidate: 42 (use PDF page as canonical locator).
 
-Generated navigation topics: Unclassified; inspect source.
+Generated navigation topics: Policy and management context
 
 Extraction flags: sparse-text
 
@@ -1295,7 +1341,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 43.
 
 Printed slide number candidate: 43 (use PDF page as canonical locator).
 
-Generated navigation topics: Transport and meteorology
+Generated navigation topics: Unclassified; inspect source.
 
 Extraction flags: sparse-text
 
@@ -1317,21 +1363,21 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 44.
 
 Printed slide number candidate: 44 (use PDF page as canonical locator).
 
-Generated navigation topics: Transport and meteorology, Monitoring networks and siting
+Generated navigation topics: Transport and meteorology, Model inputs preprocessing and operation
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
 > Pollution transport
-> • After emitted/formed, pollutants need to be 
+> • After emitted/formed, pollutants need to be
 > transported to get in contact with “receptor”
 > – Human, certain part of eco-system etc..
 > • Pollution transport depends on meteorology
-> • Pollutants can be removed or formed during the 
+> • Pollutants can be removed or formed during the
 > process
-> • The distance of transport differ drastically 
-> depends on pollutant characteristics 
+> • The distance of transport differ drastically
+> depends on pollutant characteristics
 > 44
 
 
@@ -1356,8 +1402,8 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > Gone with the wind – Wind Rose
 > Horizontal mean flow
 > Direction
-> Where wind is coming from 
-> (angle in degrees clockwise 
+> Where wind is coming from
+> (angle in degrees clockwise
 > from the north)
 > Direction of pollutant transport
 > Speed
@@ -1379,16 +1425,17 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 46.
 
-Printed slide number candidate: not identified (use PDF page as canonical locator).
+Printed slide number candidate: 46 (use PDF page as canonical locator).
 
 Generated navigation topics: Transport and meteorology
 
-Extraction flags: none detected automatically; this is not a fidelity guarantee
+Extraction flags: sparse-text
 
 ### Extracted source text
 
 > Gone with the wind
-> 46Klyuchevskaya Sopka volcano, Russia. 9/30/1994 eruption. Taken by Endeavour
+> 46
+> Klyuchevskaya Sopka volcano, Russia. 9/30/1994 eruption. Taken by Endeavour
 > Credit: NASA
 
 
@@ -1454,7 +1501,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 49.
 
 Printed slide number candidate: 49 (use PDF page as canonical locator).
 
-Generated navigation topics: Transport and meteorology
+Generated navigation topics: Unclassified; inspect source.
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -1465,8 +1512,8 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 > • Turbulence
 > – Random / irregular fluctuations on top of mean flow
 > – Circular eddies at smaller scale than mean flow
-> • Important to 
-> – mixing 
+> • Important to
+> – mixing
 > – dilution
 > • Pollution hot spot
 > (Cooper and Alley, 2002, Air Pollution Control, Waveland Press.)
@@ -1514,8 +1561,8 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 > Air Pollution Health Effects
 > • Effects on human
-> – Numerous adverse health effects, ranging from minor 
-> irritation, discomfort, to chest pain, asthma, birth 
+> – Numerous adverse health effects, ranging from minor
+> irritation, discomfort, to chest pain, asthma, birth
 > defect, cancer and death
 > • Effects on the environment
 > – Damage property/crops/plants (ozone, acid rain etc..)
@@ -1545,26 +1592,26 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 ### Extracted source text
 
 > Air Pollution Health Effects
-> Respiratory 
-> Coughing, wheezing, 
+> Respiratory
+> Coughing, wheezing,
 > reduced lung function
-> Exacerbation of asthma, 
+> Exacerbation of asthma,
 > COPD
 > Lung cancer
-> Respiratory mortality 
-> Cardiovascular 
+> Respiratory mortality
+> Cardiovascular
 > HRV reduction, dysrhythmias
 > Systemic inflammation
 > Atherosclerosis
 > Myocardial infarctions (Heart Attacks)
-> CV mortality 
+> CV mortality
 > Central Nervous
 > Stroke (?)
 > Cognitive effects(?)
-> Reproductive 
+> Reproductive
 > Low birth weight
-> Preterm births and 
-> intrauterine growth 
+> Preterm births and
+> intrauterine growth
 > retardation (?)
 > Birth defects (?)
 > 52
@@ -1604,16 +1651,17 @@ Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 54.
 
-Printed slide number candidate: not identified (use PDF page as canonical locator).
+Printed slide number candidate: 54 (use PDF page as canonical locator).
 
-Generated navigation topics: Ozone and atmospheric chemistry, Climate and environmental effects
+Generated navigation topics: Ozone and atmospheric chemistry
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
 ### Extracted source text
 
 > Ozone damaged crops
-> 54Dr. Gerald Brust. University of Maryland
+> 54
+> Dr. Gerald Brust. University of Maryland
 > (https://extension.umd.edu/learn/air-pollution-effects-vegetables)
 
 
@@ -1629,9 +1677,9 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 55.
 
 Printed slide number candidate: 55 (use PDF page as canonical locator).
 
-Generated navigation topics: Unclassified; inspect source.
+Generated navigation topics: Particles and aerosols
 
-Extraction flags: none detected automatically; this is not a fidelity guarantee
+Extraction flags: sparse-text
 
 ### Extracted source text
 
@@ -1652,9 +1700,9 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 56.
 
 Printed slide number candidate: 56 (use PDF page as canonical locator).
 
-Generated navigation topics: Ozone and atmospheric chemistry
+Generated navigation topics: Climate and environmental effects
 
-Extraction flags: none detected automatically; this is not a fidelity guarantee
+Extraction flags: sparse-text
 
 ### Extracted source text
 
@@ -1676,9 +1724,9 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 57.
 
 Printed slide number candidate: 57 (use PDF page as canonical locator).
 
-Generated navigation topics: Ozone and atmospheric chemistry
+Generated navigation topics: Climate and environmental effects
 
-Extraction flags: none detected automatically; this is not a fidelity guarantee
+Extraction flags: sparse-text
 
 ### Extracted source text
 
@@ -1699,7 +1747,7 @@ Source locator: `ENV5128-01-airpollutionbasics-1`, PDF p. 58.
 
 Printed slide number candidate: 58 (use PDF page as canonical locator).
 
-Generated navigation topics: Climate and environmental effects
+Generated navigation topics: Unclassified; inspect source.
 
 Extraction flags: none detected automatically; this is not a fidelity guarantee
 
@@ -1738,3 +1786,4 @@ Extraction flags: sparse-text
 ### Original page appearance
 
 ![ENV5128-01-airpollutionbasics-1, PDF page 59](../../pages/ENV5128-01-airpollutionbasics-1/page-0059.jpg)
+
