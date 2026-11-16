@@ -63,6 +63,13 @@ labeled; missing actual data must not be presented as measurements or model outp
 EOP ID and the specific student activity/evidence that could support it. No fixed count; leave empty
 where the topic is preparatory. Keep published wording/level separate from adapted objectives.
 
+### Decisions from practice
+
+Three to five kinds of real decision in which this card's content is used, each one sentence, such as a
+siting, permitting, purchasing or scheduling decision. They are prompts for the Intake interview, not
+facts: name the kind of decision, give no numbers, places or outcomes. A specific case belongs in a
+scenario with its sources, or comes from the instructor during intake.
+
 ## Gaps, conflicts, and review
 
 Unresolved claims, competing sources/card references, usage/asset permissions, author acceptance

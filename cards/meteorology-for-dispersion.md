@@ -114,6 +114,17 @@ case.
 *A contributor should check whether a climate-adaptation outcome belongs here, given that the
 meteorological conditions that produce worst cases are themselves shifting.*
 
+### Decisions from practice
+
+Prompts for the Intake interview, not facts. Each names a kind of real decision in which this card's
+content is used. Ask the instructor whether one resembles a case they know from practice, consulting,
+review work or local news; build on the case they describe, never on details invented here.
+
+- A treatment plant, landfill or industrial stack cannot be raised because of a height limit, cost or neighbors' objections, and the owner asks how much it can emit before the nearest homes exceed a limit under worst-case weather.
+- A facility must choose its location or stack position relative to the prevailing wind and nearby homes.
+- An operator schedules odorous work, flaring or a prescribed burn around wind and stability.
+- Residents report odor or smoke mainly on calm early mornings and ask why.
+
 ## Worked example
 
 *Not yet written.* Intended shape: given a local wind rose and a source location, identify which

@@ -123,6 +123,17 @@ analysis can be different things.
 - **SR-C5** (High) — evaluating the role of social responsibility and environmental justice in
   the profession, through policy and law.
 
+### Decisions from practice
+
+Prompts for the Intake interview, not facts. Each names a kind of real decision in which this card's
+content is used. Ask the instructor whether one resembles a case they know from practice, consulting,
+review work or local news; build on the case they describe, never on details invented here.
+
+- A facility asks how much it may emit before a nearby neighborhood exceeds a limit, and which limit applies: an ambient standard, an occupational limit, a state guideline or an odor threshold.
+- A county close to nonattainment chooses which control measures to adopt first.
+- A road or transit project needs a conformity determination before it can receive federal funds.
+- Residents ask whether a complaint about a permitted source can lead to enforcement when the source meets its permit.
+
 ## Worked example
 
 For an actual regulatory analysis, supply verified designation, project details, and applicable

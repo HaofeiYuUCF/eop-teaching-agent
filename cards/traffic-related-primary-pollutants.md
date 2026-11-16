@@ -126,6 +126,17 @@ exercise may use a stipulated factor; do not present that value as an observed o
 - **CT-C1** (Low, rescalable to Medium) — defining the problem with attention to unintended
   consequences.
 
+### Decisions from practice
+
+Prompts for the Intake interview, not facts. Each names a kind of real decision in which this card's
+content is used. Ask the instructor whether one resembles a case they know from practice, consulting,
+review work or local news; build on the case they describe, never on details invented here.
+
+- A school district writes an idling policy for buses and parent pick-up lines.
+- A transit agency or city fleet chooses between diesel, hybrid, natural gas and battery vehicles.
+- A city restricts trucks or older vehicles on certain streets or at certain hours.
+- A drive-through, parking structure or loading dock seeks approval near homes.
+
 ## Worked example
 
 Two scenarios for the same roadway link: before, congested at a low average speed; after,

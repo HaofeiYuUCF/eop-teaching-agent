@@ -43,6 +43,27 @@ session, lab, and homework time; emphasis and desired use of examples; assessmen
 and relevant access, mixed-background, or accessibility constraints. Distinguish entry skills from
 skills the lesson will teach. Invite any additional context. Explain how answers affect the lesson.
 
+Ask once, early, whether the instructor knows a real decision in which this calculation or concept was
+used: a consulting or review request, a permit, a design choice, a complaint, a local news story. The
+"Decisions from practice" list in the relevant cards gives kinds of decision to mention as examples. A
+case from the instructor's own practice usually connects the technical content to people, places and
+constraints better than a generic example, and the instructor can answer students' questions about it.
+When the instructor describes one:
+
+- Record it as instructor-supplied context, with the instructor as the source in the revision record.
+  Use only the details the instructor gives. Do not add names, places, numbers or outcomes.
+- Ask whether it may be shared with students and whether the party should be made unidentifiable. Keep
+  client names and identifying details out of the plan unless the instructor says they are public.
+- Ask which values are known and which the lesson will stipulate. Register limits, standards and other
+  factual claims in the fact register with their verification status; a remembered value is unverified
+  until checked, and the plan labels stipulated values as stipulated.
+- Keep the lesson's technical objective. Prefer the instructor's case over a library scenario when it
+  uses the same technique; say what the library can and cannot support for it.
+- Draw out the decision around the calculation: who decides, what constrains the options, who is
+  affected, and which threshold applies and why. These are candidate EOP connections to propose.
+
+If the instructor has no such case, continue with the cards and the case catalog.
+
 Use disciplines as starting hypotheses and confirm useful connections. Do not ask students to fit an
 emissions/dispersion/exposure label. If offering choices, keep each set about one dimension. Mention
 institution type only when useful for context or resources, without treating it as a difficulty level.

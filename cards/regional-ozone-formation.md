@@ -118,6 +118,17 @@ answer the question. Those three carry the entire pedagogical payload.
 - **CT-C1** (Low, rescalable to Medium) — defining problems with attention to uncertainties and
   unintended consequences, which here means recognizing that the problem boundary was drawn wrong.
 
+### Decisions from practice
+
+Prompts for the Intake interview, not facts. Each names a kind of real decision in which this card's
+content is used. Ask the instructor whether one resembles a case they know from practice, consulting,
+review work or local news; build on the case they describe, never on details invented here.
+
+- A region chooses between reducing nitrogen oxides and reducing volatile organic compounds.
+- An agency decides when to issue an ozone action day and what it asks residents and employers to do.
+- A large new source of traffic or electricity demand, such as a resort, arena or data center, is proposed during ozone season.
+- A downwind county asks an upwind county to share the cost of controls.
+
 ## Worked example
 
 Take the scenario project's estimated change in nitrogen oxide emissions. Ask two questions: what

@@ -117,6 +117,17 @@ estimate.** A qualitative treatment is acceptable; a fabricated quantitative one
 - **EIA-C3** (Medium) — interpreting assessment metrics and their broader implications
 - **EL-C5** (Medium) — data literacy, applied to health and exposure data
 
+### Decisions from practice
+
+Prompts for the Intake interview, not facts. Each names a kind of real decision in which this card's
+content is used. Ask the instructor whether one resembles a case they know from practice, consulting,
+review work or local news; build on the case they describe, never on details invented here.
+
+- A school, daycare or senior housing site is proposed beside a freeway or truck route.
+- A city weighs a truck route or warehouse district that would pass through a residential area.
+- A planning board sets a buffer distance between new housing and a major road.
+- An agency is asked to state the health effects of a road widening, not only its emissions.
+
 ## Worked example
 
 *Not written.*

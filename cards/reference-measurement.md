@@ -122,6 +122,17 @@ rather than perfects the measurement.
 - **SR-C4** (Medium, optional) — whether a network represents the populations most affected is a
   real and answerable question about siting.
 
+### Decisions from practice
+
+Prompts for the Intake interview, not facts. Each names a kind of real decision in which this card's
+content is used. Ask the instructor whether one resembles a case they know from practice, consulting,
+review work or local news; build on the case they describe, never on details invented here.
+
+- An agency decides where to place a regulatory monitor, and which neighborhoods it will and will not represent.
+- A consultant's short measurement is compared with a standard that has a different averaging time.
+- A permit requires a specific measurement method, and the applicant proposes a cheaper one.
+- Monitored values near a standard raise the question of whether the difference exceeds the method's uncertainty.
+
 ## Worked example
 
 Given the scenario corridor, decide where you would site a monitor to answer each of three

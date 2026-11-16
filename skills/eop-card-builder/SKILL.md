@@ -37,6 +37,10 @@ by evidence, but preserve unresolved differences. Verify external claims when to
 otherwise mark them unverified. Do not silently overwrite the instructor's original materials.
 Register new teaching-relevant factual claims and their applicability in the fact register.
 
+Under the card's EOP connections, list three to five decisions from practice as the
+[card template](../../reference/card-template.md) describes. Take them from the contributor's material or
+ask the contributor; write kinds of decision, not specific cases, and add no facts through this list.
+
 For project sources, preserve the study date, forecast horizon and geographic/system boundary.
 Keep project findings separate from advocacy context and synthetic activity data. Maintain the
 selected case's source records and [catalog entry](../../scenario/catalog.md) when coverage or

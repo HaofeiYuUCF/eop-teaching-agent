@@ -132,6 +132,17 @@ number they should not, which is worse than not teaching the topic.
   community-data scenario is used.
 - **SR-C2** (Low) — recognizing the justice implications of who gets measured and who does not.
 
+### Decisions from practice
+
+Prompts for the Intake interview, not facts. Each names a kind of real decision in which this card's
+content is used. Ask the instructor whether one resembles a case they know from practice, consulting,
+review work or local news; build on the case they describe, never on details invented here.
+
+- A neighborhood group installs sensors to document a complaint, and an agency must decide how much weight the data carry.
+- A school district chooses monitors to decide when to keep students indoors during smoke events.
+- A facility offers fence-line sensors as a condition of its permit or as a community commitment.
+- A city buys a sensor network and must decide how to calibrate it and what to publish.
+
 ## Worked example
 
 Two parts.

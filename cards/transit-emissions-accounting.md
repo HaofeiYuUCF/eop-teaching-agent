@@ -98,3 +98,15 @@ and checks the [outcome catalog](../reference/eop-outcomes.md). Evidence apprais
 boundary choices may support outcomes; multiplication alone does not establish systems feedback,
 teamwork or attainment. This card's complete teaching coverage does not establish instructor
 endorsement or classroom effectiveness. See [validation](../records/v4-validation.md).
+
+### Decisions from practice
+
+Prompts for the Intake interview, not facts. Each names a kind of real decision in which this card's
+content is used. Ask the instructor whether one resembles a case they know from practice, consulting,
+review work or local news; build on the case they describe, never on details invented here.
+
+- A transit investment claims an emissions benefit in a grant application or an environmental document.
+- An agency trades service frequency against ridership and wants the emissions result per passenger.
+- A region compares a rail extension with bus rapid transit or road capacity for the same corridor.
+- A board asks how long a new line takes to repay the emissions of its construction.
+

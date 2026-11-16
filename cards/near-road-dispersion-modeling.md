@@ -128,6 +128,17 @@ objectives, use a bounded demonstration or selected steps and identify what is o
   assumptions institutionalize.
 - **EL-C5** (Medium) — data literacy, including knowing what a number's provenance is.
 
+### Decisions from practice
+
+Prompts for the Intake interview, not facts. Each names a kind of real decision in which this card's
+content is used. Ask the instructor whether one resembles a case they know from practice, consulting,
+review work or local news; build on the case they describe, never on details invented here.
+
+- A road widening, new interchange or managed lane is planned beside homes or a school.
+- A signalized intersection needs a hot-spot analysis for a development approval.
+- A community asks for a sound wall or vegetation barrier and wants to know what it does to concentrations.
+- A bus depot, drive-through or distribution center is proposed next to a residence.
+
 ## Worked example
 
 **Source-course walkthrough option.** A complete example was used because the
