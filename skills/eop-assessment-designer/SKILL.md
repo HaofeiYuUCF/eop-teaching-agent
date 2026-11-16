@@ -28,8 +28,9 @@ the entire set to multiple choice or require an extra justification item indepen
 Assess newly taught skills only after adequate support. Keep homework/project tasks separate from
 in-class questions and provide resource/setup instructions for model-based work.
 
-Every item maps to a lesson objective. Attach EOP IDs only where its evidence supports that connection;
-technical practice may have no separate EOP mapping. Match actual cognitive demand, not just the verb
+Every item maps to a lesson objective. Outcome identifiers stay in the alignment memo, not in
+student-facing items; if an item as built supports a mapped outcome differently from what the memo
+says, report the difference to the coordinating assistant. Technical practice may have no EOP mapping. Match actual cognitive demand, not just the verb
 in the prompt. For design or creation, specify the product and criteria. For open recommendations,
 state acceptable reasoning and alternatives rather than inventing one uniquely correct conclusion.
 

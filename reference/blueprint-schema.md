@@ -1,7 +1,8 @@
 # Lecture Plan Schema
 
 Use [workflow-policy.md](workflow-policy.md) for shared rules. Write a readable Markdown lecture plan
-with structured fields below. Explain decisions in ordinary language and expose identifiers when useful.
+with structured fields below. Explain decisions in ordinary language. The plan the instructor reads
+carries no EOP outcome identifiers; those belong to the alignment memo (section 8).
 Fields can be concise; do not collect information that does not change this lesson.
 
 ```yaml
@@ -13,7 +14,6 @@ execution:
   mode: plan-only # plan-only | teaching-package; derive from the actual request
   requested_outputs: [lecture-plan, plan-review] # replace with the requested deliverables/formats
   request_basis: null # actual request or concise reference; never invent authorization
-framework_edition: EOP 2026, as cataloged in reference/eop-outcomes.md
 revision_objective: null # one sentence from the instructor, recorded before any card, scenario, or suggestion is shown: what this revision should resolve
 acceptance:
   status: draft  # draft | accepted | changes-pending
@@ -52,10 +52,10 @@ and its consequences before rebuilding affected assessments and exports.
 
 Do not infer proficiency from a major. Record unresolved assumptions and their consequences.
 
-## 2. Lesson objectives and EOP connections
+## 2. Lesson objectives and connections
 
 Each objective describes an observable action, its conditions, and adequate performance. Include
-technical objectives whether or not they independently map to EOP. The example below is illustrative.
+technical objectives whether or not they relate to EOP. The example below is illustrative.
 
 ```yaml
 lesson_objectives:
@@ -65,19 +65,19 @@ lesson_objectives:
     cognitive_demand: analyze
     prerequisite_support: Worked example plus guided practice.
     assessed_by: [P1]
-eop_connections:
-  - id: EIA-C3
-    published_wording: Copy the selected outcome exactly from the catalog.
-    published_level: Medium
-    adapted_objective_ids: [LO-1]
-    scope: State which part of the published outcome this lesson supports.
-    evidence_items: [P1]
-    attainment_claim: not evaluated
+connections:
+  - id: C-1
+    question: Which of two project options leaves nearby residents with lower concentrations, and why?
+    eop_topic: Environmental Impact Assessment # topic area in plain words; no outcome identifier here
+    objective_ids: [LO-1]
+    activity: Pairs compare the two scenarios and explain the difference to a non-specialist.
+    assessed_by: [P1] # empty when the connection is taught but not assessed
+    decision: pending # pending | selected | adapted | deferred | declined
 ```
 
-EOP mappings are optional per objective, and there is no fixed number. Use exact cognitive demand
-(remember, understand, apply, analyze, evaluate, create), rather than relying only on the catalog's
-Low/Medium/High grouping. Do not equate a technical exercise with evidence of an entire broad outcome.
+Connections are optional per objective, and there is no fixed number. Use exact cognitive demand
+(remember, understand, apply, analyze, evaluate, create) for objectives. Do not equate a technical
+exercise with evidence of an entire broad outcome.
 
 ### Connection rationale
 
@@ -87,7 +87,8 @@ Explain the teaching value, supporting source locations, assumptions, and limits
 the instructor selected, adapted, deferred, or declined it; leave unresolved choices pending rather
 than inferring acceptance. For selected connections, identify where the explanation and activity
 will appear and whether the objective is assessed, with the relevant assessment item if applicable.
-EOP identifiers supplement this explanation rather than replace it.
+Name the EOP topic area a connection draws on when that helps the instructor see where the idea
+comes from. Outcome identifiers and published wording are added after acceptance, in section 8.
 
 For example, a dispersion-model lesson could connect predicted concentrations at different receptor
 locations to a monitoring-site decision, using a comparison activity to support an objective about
@@ -149,14 +150,17 @@ preference to reconcile with objectives and time, not a reason to fabricate alig
 ## 6. Revision record
 
 Record every suggestion the instructor receives while this plan and its materials are developed,
-whether it comes from a partner in a co-design session, from the assistant, or from a facilitator.
-Write one entry per suggestion at the time the decision is made; do not reconstruct the record later.
+whether it comes from a partner in a co-design session, from the assistant, from the framework, or
+from a facilitator. Source `framework` marks a "one step further" suggestion that the assistant or
+the Reviewer drew from an EOP outcome (shared policy); `assistant` marks every other suggestion of
+theirs. Write one entry per suggestion when the decision is made. An entry has a decision or does
+not exist yet: an undecided suggestion stays in the plan's list of open decisions and is not applied.
 
 ```yaml
 revision_record:
   - id: S-01
     stage: plan # plan | assessment | materials
-    source: assistant # partner | assistant | facilitator
+    source: assistant # partner | assistant | framework | facilitator
     suggestion: Add a receptor-distance comparison before the averaging-time discussion.
     decision: modified # adopted as given | modified | rejected
     reason: Kept the comparison but limited it to two distances to fit the session budget.
@@ -165,9 +169,27 @@ revision_record:
 ```
 
 Changes the instructor introduces on their own are recorded as plan changes, not as entries here.
-Later roles append entries when they propose changes to accepted content. The record travels with the
-plan at every handoff. Reviewer checks that the record exists, that the plan reflects each recorded
-decision, and that no adopted or modified suggestion is missing from it.
+Later roles report proposed changes to accepted content to the coordinating assistant, which appends
+the entries and keeps the record complete. The record travels with the plan at every handoff.
+Reviewer notes any gap it sees for the coordinating assistant to repair; a gap does not block.
+
+Corrections of errors are kept apart from suggestions, because they are not teaching choices and do
+not wait for a decision (shared policy, "Corrections are not suggestions"):
+
+```yaml
+corrections:
+  - id: K-01
+    found_by: reviewer # reviewer | assistant | instructor
+    kind: draft-error # draft-error | source-error | changes-teaching
+    where: P2 instructor solution
+    was: The draft answer was 176 µg/m³.
+    why_wrong: Recalculating with the stated inputs gives 167 µg/m³; the draft used the wrong stability class.
+    now: The solution and the comparison with the limit use 167 µg/m³.
+    told_instructor: yes # every correction is reported in the review summary
+```
+
+A `source-error` leaves the source unchanged and records what the instructor decided the lesson will
+say. A `changes-teaching` correction also has a revision-record entry for the instructor's decision.
 
 ## 7. Deliverables and handoff
 
@@ -187,3 +209,35 @@ fields in an older plan do not invalidate unchanged acceptance or authorize addi
 Specify requested formats, student and instructor versions, accessible alternatives as needed, and
 assessment package location. Record downstream artifact revisions and review status in the final
 handoff. Follow the acceptance and revision rules in the shared policy.
+
+## 8. Alignment memo (written after acceptance)
+
+After the instructor accepts the plan, the coordinating assistant maps the selected and adapted
+connections to published EOP outcomes and saves the result as `alignment-memo.md` beside the plan
+(or presents it after the plan where files cannot be written). This is documentation, not a
+decision: do not ask the instructor to choose between outcomes or to approve the memo.
+
+```yaml
+framework_edition: EOP 2026, as cataloged in reference/eop-outcomes.md
+plan_revision: 3
+eop_connections:
+  - connection_id: C-1
+    outcome_id: EIA-C3
+    published_wording: Copy the outcome exactly from the catalog.
+    published_level: Medium
+    adapted_objective_ids: [LO-1]
+    covered: State which part of the published outcome the lesson's items actually ask for.
+    not_covered: State the part no item asks for, or "none".
+    evidence_items: [P1]
+    attainment_claim: not evaluated
+framework_suggestions: # each revision-record entry with source framework
+  - record_id: S-04
+    outcome_id: ST-S1
+    decision: rejected
+```
+
+Map a connection only to an outcome its activity or item actually develops; a connection with no
+defensible outcome is listed as unmapped with one sentence of reason. When an item asks for less
+than the outcome's wording, write the difference under `not_covered`; do not go back and change the
+lesson. Keep the catalog's Low/Medium/High level separate from the objective's cognitive demand.
+In a teaching-package request the Reviewer completes the memo in material review (reviewer role).

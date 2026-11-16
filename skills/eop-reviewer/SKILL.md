@@ -37,18 +37,30 @@ Reject actual-project emissions or health conclusions unsupported by the inputs.
 change, check that affected old inputs, geometry, solutions and review results were replaced or
 marked stale, while unchanged accepted decisions were retained.
 
-Check that the plan records a revision objective and a revision record (schema section 6), that the
-plan reflects each recorded decision, and that no adopted or modified suggestion is missing from the
-record. A missing record is a blocking defect for a plan developed with partner or assistant input.
+Check that the plan records a revision objective, a revision record, and a corrections list (schema
+section 6), and that the plan reflects each recorded decision. Report gaps or inconsistencies as a
+note for the coordinating assistant to repair. They are not failed checks and do not block: the
+record is the assistant's bookkeeping, not the instructor's task. Do flag, as a correction, any
+suggestion that was written into the plan before the instructor decided on it.
 
 Check that plan review considered relevant environmental or societal connections and documented the
 instructor's choices or reasons for deferral. In material review, locate the accepted connections in
 actual explanations and activities, and in tasks and scoring criteria when assessed. Apply the rubric's
 EOP-alignment checks; do not accept labels alone or penalize a justified preparatory-only lesson.
 
+In plan review, judge the connections as teaching: is the question real, is the activity feasible,
+does an item ask for what the objective claims. Do not compare a connection with published outcome
+wording clause by clause and do not fail a plan for covering only part of an outcome. If the lesson
+is one step away from more of an outcome, you may offer that step as a suggestion in plain language,
+without identifiers; at most two such suggestions per round together with Intake's (shared policy).
+
 Use the rubric's verdicts, severity, and release rules. Execute/recalculate quantitative work and
 perform applicable independent checks. Inspect the final rendered/opened files and student/instructor
 separation. Record unavailable sources/tools as unverified with their consequences.
+
+Classify every finding as the rubric describes: a correction (draft-error, source-error, or
+changes-teaching) or a suggestion. Blocking severity is for what would make the lesson wrong or
+unusable; suggestions, connection-to-outcome fit, and record gaps are never blocking.
 
 Write specific defect records with stable IDs, location, evidence, target, severity, and a clear
 condition for resolution. Suggestions may include a proposed correction. Route failures to their
@@ -72,11 +84,17 @@ its requested findings unless repairs were also authorized; it does not launch m
 
 Produce a review report with checked revisions, mode, verdicts, defects, verification evidence,
 remaining limits, and package status. Always provide the concise instructor-facing review summary
-required by shared policy alongside the detailed record. For plan review, return it to Intake with
+required by shared policy alongside the detailed record. Write that summary in plain language with
+no defect or register identifiers, corrections first, and no more than three decisions for the
+instructor; put everything else in the detailed record. For plan review, return it to Intake with
 the reviewed plan revision so the instructor sees it before any needed acceptance.
 Do not report a draft or unverified package as ready.
 
-For material review, write an alignment memo (draft if release is blocked) with:
+The coordinating assistant drafts the alignment memo after plan acceptance (schema section 8). In
+material review, check it against the items and slides as built and complete it (draft if release is
+blocked). Where an item asks for less than an outcome's wording, correct the memo's `covered` and
+`not_covered` statements; do not reopen the lesson or block the package for that. If no memo exists,
+write it. The completed memo has:
 - Framework edition, published EOP IDs/wording/levels, and the adapted lesson objectives.
 - Exact slide and assessment item locations, with separate student/instructor slide maps.
 - What evidence the assessment is designed to elicit and criteria for adequate performance.

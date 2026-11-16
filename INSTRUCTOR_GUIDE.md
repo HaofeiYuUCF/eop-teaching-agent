@@ -50,12 +50,22 @@ files" if you want the complete package. Leave it out to stop at the plan.
 1. **Interview.** The assistant asks about your students, goals, time, and tools.
 2. **Proposals.** It proposes two to four connections between your content and an environmental or
    societal question, each with a possible student activity. You choose, adapt, defer, or decline.
+   It may also suggest, at most twice per round, one further step that the Engineering for One
+   Planet (EOP) framework points to. These are suggestions like any other: say no and the lesson
+   stays as it is. You are not asked to pick outcome codes or to meet a quota.
 3. **Plan.** It writes a lesson plan: objectives, sequence with minutes, assessment items, what to cut
    if time runs short, and the sources it relied on.
-4. **Review.** It checks its own plan against a rubric and gives you a one-page summary: what was
-   checked, what was changed, what remains open, and what it needs you to decide.
+4. **Review.** A separate reviewer that has not seen your conversation checks the plan against a
+   rubric and recalculates the numbers. You get a short summary that starts with any error that was
+   found and corrected: what the draft said, why it was wrong, and what it says now. If the error is
+   in your own material, nothing is changed; you are told and you decide. The summary then says what
+   was checked, what remains open, and asks you for at most three decisions at a time.
 5. **Your acceptance.** Nothing further is produced until you accept the plan.
-6. **Package** (if requested). Assessment items with solutions and scoring criteria, student and
+6. **Alignment memo.** After you accept, the assistant writes a one-page memo that maps the lesson
+   to published EOP outcomes and says which part of each outcome the lesson covers and which it does
+   not. It is documentation for reports and for sharing the activity. You do not need to decide
+   anything about it.
+7. **Package** (if requested). Assessment items with solutions and scoring criteria, student and
    instructor versions of the slides, teaching notes, and a final review. Student files never
    contain answers.
 
@@ -66,7 +76,9 @@ check by you of the exported files.
 
 Everything is saved in the `outputs` folder, in a subfolder named after your plan.
 
-- `plan.md`: the lesson plan, including the record of suggestions and your decisions.
+- `plan.md`: the lesson plan, including the record of suggestions and your decisions, and the list
+  of errors corrected.
+- `alignment-memo.md`: the mapping of the accepted lesson to EOP outcomes.
 - `plan-review.md`: the review summary and the detailed check record.
 - Student and instructor subfolders with the Word and PowerPoint files, if you requested a package.
 - A verification subfolder with every calculation the assistant ran.

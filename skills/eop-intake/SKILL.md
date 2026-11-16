@@ -18,15 +18,18 @@ Locate the complete library (`cards/`, `reference/`, `scenario/`). Ask for its l
 Read [shared policy](../../reference/workflow-policy.md), [plan schema](../../reference/blueprint-schema.md),
 and [fact register](../../reference/fact-register.md). Read provided course material first, then the
 relevant card content and prerequisite metadata. Read [EOP outcomes](../../reference/eop-outcomes.md)
-when selecting connections. Existing cards do not replace newly supplied instructor material.
+for the topic areas the lesson touches, as a source of ideas for connections and of "one step
+further" suggestions, and again when writing the alignment memo. Existing cards do not replace newly supplied instructor material.
 
 ## Interview and decide
 
 Before showing any card, scenario, or proposed connection, ask the instructor for one sentence that
 states what this revision should resolve, and record it as the plan's `revision_objective`. From that
 point on, record every suggestion made to the instructor, by you or by anyone else, in the plan's
-revision record (schema section 6) with the instructor's decision and reason, at the time the
-decision is made.
+revision record (schema section 6) with its source and the instructor's decision and reason, at the
+time the decision is made. You keep this record complete yourself; do not ask the instructor to fill
+gaps in it. Corrections of errors are not suggestions: handle them as shared policy's "Corrections
+are not suggestions" says and list them in the plan's corrections list.
 
 Establish plan-only or teaching-package scope from the user's actual request using the shared
 policy's continuation rules. Reuse clear prior instructions; ask once only if the desired outputs
@@ -78,10 +81,17 @@ feasible student activity. Identify evidence limits and let the instructor selec
 decline connections as part of the plan discussion, without an extra acceptance gate. If no connection
 fits, explain why and record any preparatory role instead of claiming unsupported EOP alignment.
 
+Talk about connections in plain language. Do not show outcome identifiers, quote published outcome
+wording, or ask the instructor to choose between outcomes; you may say an idea comes from EOP and
+name its topic area. Following shared policy, offer at most two "one step further" suggestions per
+round, each drawn from an EOP outcome the lesson is close to, each with what it adds, its cost in
+class time, and what students gain. Offer each once. If the instructor declines, leave the lesson as
+it is.
+
 ## Plan and hand off
 
 Follow the plan schema. Write measurable technical/professional objectives and choose only supported
-EOP connections. Define item formats, supported student tools, scaffolded new skills, time, depth,
+connections. Define item formats, supported student tools, scaffolded new skills, time, depth,
 and cut order for this lesson. Use the shared policy rather than a fixed topic balance, EOP count,
 question type, or ban on programming.
 
@@ -99,13 +109,21 @@ this lesson. Older accepted plans retain their case choice without a metadata-on
 
 Present the plan in readable form with its major choices and unresolved questions. Arrange plan
 review through eop-reviewer before assessment generation. Present the resulting plan together with
-the required instructor-facing review summary before requesting acceptance. Include what was checked,
-what was changed and rechecked, remaining issues, and any decisions needed from the instructor.
+the required instructor-facing review summary before requesting acceptance. Before presenting, apply
+the Reviewer's draft-error corrections; do not apply its suggestions or any correction that changes
+a teaching choice until the instructor decides. Open the summary with the corrections made, each in
+one or two plain sentences, then what was checked, what remains open, and the decisions needed. Ask
+for at most three decisions at a time and state the default you will take for the rest. Keep defect
+and register identifiers out of the summary; the Reviewer's full report stays available.
 Obtain instructor acceptance of the resulting revision unless already explicitly given; do not
 repeatedly ask for approval of unchanged decisions. Still provide the summary when prior acceptance
 remains valid. If a blocker remains, explain its consequence and the needed input or action rather
 than presenting acceptance as sufficient to proceed.
 Store actual acceptance and plan-review evidence. Pause dependent generation on unresolved blockers.
+
+Once the plan is accepted, write the alignment memo (schema section 8) without asking the
+instructor for any decision, and tell the instructor in one sentence that it exists and what it is.
+For plan-only scope it is delivered with the plan.
 
 When scope is teaching-package and the current plan is reviewed and accepted, continue directly
 with eop-assessment-designer, followed by eop-material-builder and eop-reviewer as specified in

@@ -35,13 +35,14 @@ Suggested disciplinary bridges require confirmation or qualification, including 
 where an analogy stops being useful.
 
 Select technical and professional lesson objectives first. Each assessed objective needs observable
-evidence; each assessment item supports at least one lesson objective. Map EOP outcomes where that
-work actually develops them. Technical practice may support a later EOP task without an independent
-EOP label. There is no mandatory EOP count. If no EOP outcome is demonstrable, say so and describe
-the lesson as preparatory rather than claiming EOP alignment.
+evidence; each assessment item supports at least one lesson objective. Mapping to published EOP
+outcomes is done in the alignment memo after the instructor accepts the plan (see "Exports and
+alignment"), and only where the work actually develops the outcome. Technical practice may support a
+later EOP task without an independent EOP label. There is no mandatory EOP count. If no EOP outcome
+is demonstrable, say so and describe the lesson as preparatory rather than claiming EOP alignment.
 
-Keep published EOP wording and its catalog level separate from the adapted lesson objective and
-actual cognitive demand. Verbs, answer length, and artifact existence alone do not establish a level.
+In the memo, keep published EOP wording and its catalog level separate from the adapted lesson
+objective and actual cognitive demand. Verbs, answer length, and artifact existence alone do not establish a level.
 Recognition items can contribute evidence of judgment; direct claims about defended reasoning need
 reasoning evidence. Creating/designing objectives need an appropriate product and evaluation criteria.
 Neither multiple choice nor written justification is mandatory for every set. Match format to evidence.
@@ -56,7 +57,11 @@ Protect required practice and assessment time as well as explanations.
 
 In lesson planning and teaching-package work, actively examine how the supplied technical content
 connects to relevant environmental or societal questions. Explain plausible connections and their
-teaching value to the instructor in ordinary language, rather than only assigning EOP identifiers.
+teaching value to the instructor in ordinary language. During planning, do not show EOP outcome
+identifiers or quote published outcome wording to the instructor, and do not argue for a change on
+the ground that an outcome would otherwise be unmet. You may say that an idea comes from EOP and name
+its topic area (for example, "EOP's systems thinking outcomes ask students to see where in a system
+one can act"). The instructor can ask to see identifiers at any time; show them then.
 For each proposed connection, relate the technical concept to a concrete question, a feasible student
 activity, and a lesson objective; identify supporting sources, assumptions, and limits. Both dimensions
 need not be present in every lesson. A named scenario is not required.
@@ -68,6 +73,15 @@ the lesson provides technical preparation for later EOP learning. Do not invent 
 stakeholder perspectives, or causal claims to create a connection. Active consideration is required;
 inclusion or a fixed number of connections is not. Reference-only and resource-contribution requests
 retain their scope and do not trigger lesson planning.
+
+Use the EOP outcomes as a source of ideas, not as a checklist. Read the outcomes for the topic areas
+the lesson touches and look for what the lesson is one step away from. Offer at most two such
+"one step further" suggestions in a round, counting the Reviewer's. Each says what would be added,
+what it costs in class time, and what students gain. When a connection covers only part of the
+outcome it came from, the missing part is one of these suggestions, offered once. If the instructor
+declines, keep the lesson as it is and state the narrower coverage in the alignment memo; do not
+raise it again and do not change the lesson to fit the outcome. Record these suggestions in the
+revision record with source `framework`.
 
 Carry accepted connections into visible explanations and learning activities, with teaching guidance
 in the instructor notes. When a connection is an assessed objective, tasks and scoring criteria must
@@ -166,12 +180,37 @@ metadata, recover scope from the actual request; absent evidence is not teaching
 ### Revision objective and revision record
 
 Before any card, scenario, or suggestion is shown, Intake records one sentence from the instructor
-stating what the revision should resolve. Every suggestion the instructor then receives, from a
-partner, the assistant, or a facilitator, is entered in the plan's revision record with the
-instructor's decision (adopted as given, modified, or rejected) and reason, at the time of the
-decision. Every role that proposes a change appends to the record. The record describes what
-happened to each suggestion; it does not rank the instructor's judgment, and adopting a suggestion
-unchanged after considering it is a legitimate decision. Reviewer checks the record with the plan.
+stating what the revision should resolve. Every suggestion the instructor then receives is entered
+in the plan's revision record with its source (a partner, the assistant, the framework, or a
+facilitator) and the instructor's decision (adopted as given, modified, or rejected) and reason, at
+the time of the decision. A suggestion is a proposal about a teaching choice: what to teach, with
+which example, in what order, how to assess it. The record describes what happened to each
+suggestion; it does not rank the instructor's judgment, and adopting a suggestion unchanged after
+considering it is a legitimate decision.
+
+The coordinating assistant keeps the record complete. Every role that proposes a change reports it
+to the coordinating assistant, which appends the entry. A gap in the record is the assistant's to
+repair from the conversation; it is not a reason to stop the instructor, and an entry is never
+recorded as applied while its decision is pending. If the instructor's decision on a suggestion is
+unknown, the suggestion is not applied.
+
+### Corrections are not suggestions
+
+A correction repairs an error: a wrong physical statement, a number that does not recalculate, a
+definition that contradicts the cited source, an inconsistency inside the plan. Corrections do not
+wait for an instructor decision and are not entries in the revision record. They are listed in the
+plan's corrections list (schema section 6), and the instructor is told about every one of them.
+Three cases:
+
+- **Error in the assistant's own draft.** Correct it. Report it at the top of the instructor-facing
+  summary in one or two sentences: what the draft said, why that was wrong, what it says now.
+- **Error in the instructor's material, or in a kit card or scenario.** Do not change the source and
+  do not silently teach around it. Tell the instructor what the source says, what the evidence says,
+  and where; the instructor decides what the lesson will say. A kit card error is also routed to
+  Card Builder.
+- **Correction that changes a teaching choice.** If repairing the error means an objective no longer
+  holds, an item must be dropped, or the time budget changes, the repair is a suggestion: put it to
+  the instructor and record the decision.
 
 When an exercise uses a labeled stipulated value in place of a real-world value that remains
 unverified, the plan can pass review; the unverified claim stays recorded as unverified and becomes
@@ -205,6 +244,13 @@ repairs distinct from completed repairs. Update the summary after revisions to r
 artifact and status. The detailed defect record remains available without requiring the instructor
 to read it in full.
 
+Write the summary for an instructor who will read nothing else. Open with the corrections made
+(see "Corrections are not suggestions"), then what was checked and its limits, then what remains
+open. Use plain language and say where in the lesson each point sits; leave defect, claim, and
+register identifiers to the detailed record. Ask for at most three decisions at a time, the ones
+the next step depends on. For the remaining open choices, state the default you will take and that
+the instructor can change it; do not present a default as accepted.
+
 For plan review, Intake presents this summary with the resulting plan before requesting acceptance.
 When prior acceptance remains valid, provide the summary without adding another approval step.
 Unresolved blockers must be explained with their consequences and required action; instructor
@@ -235,6 +281,9 @@ Check verdicts are pass, fail, unverified, or not-applicable with a reason. Seve
 blocking or suggestion. Known inaccuracies, invalid assessment evidence, answer leakage, and unverified
 claims essential to a learning objective, solution, or real-world conclusion are blocking. Optional
 unverified enrichment can be removed or isolated as a research question outside assessed content.
+Blocking is for what would make the lesson wrong or unusable. How well a connection matches an EOP
+outcome, and whether the revision record is complete, are never blocking at plan review: the first
+is a suggestion under the "one step further" rule, the second a note for the coordinating assistant.
 
 Package states:
 - **draft:** incomplete or not reviewed.
@@ -256,6 +305,13 @@ remain. Separate instructor verification files from student starter code and dat
 Open or render final PowerPoint and Word outputs and inspect them. Check readability, figures,
 equations, overflow, relevant accessibility features, and student/instructor separation. If rendering
 cannot be done, record visual review as unverified. No successful text check substitutes for export QA.
+
+The alignment memo is where the lesson is mapped to published EOP outcomes. The coordinating
+assistant writes it once, after the instructor accepts the plan, following schema section 8; the
+instructor makes no decision on it and may read it or not. In a plan-only request it is delivered
+with the accepted plan. In a teaching-package request the Reviewer checks and completes it in
+material review, adding slide and item locations. A connection that covers only part of an outcome
+is reported as partial coverage in the memo; that is an accurate memo, not a defect in the lesson.
 
 The alignment memo distinguishes planned coverage, designed assessment evidence, and observed student
 attainment. Do not claim attainment without actual evaluated student work. Keep published EOP IDs and

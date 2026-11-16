@@ -26,6 +26,16 @@ round: 0
 status: open # open | resolved
 ```
 
+Classify each finding before writing it up (shared policy, "Corrections are not suggestions"):
+
+- **correction, draft-error:** an error in the artifact under review. State what it says, why it is
+  wrong, and what it should say. The producing role repairs it without an instructor decision.
+- **correction, source-error:** an error or conflict in the instructor's material or a kit card or
+  scenario. State both versions and the evidence. The instructor decides what the lesson says.
+- **correction, changes-teaching:** the repair would change an objective, an item, or the time
+  budget. It goes to the instructor as a decision.
+- **suggestion:** a proposal about a teaching choice. Never blocking.
+
 Other targets: `eop-intake`, `eop-material-builder`, or `eop-card-builder:card-or-claim-id`.
 The card builder maintains source records; a change requiring author knowledge is reported to the
 instructor rather than treated as an executable external contact. Preserve resolved defect history.
@@ -36,7 +46,12 @@ Check the current plan revision before generation:
 - Execution mode and requested outputs match the actual user request. Plan-only acceptance does
   not authorize generation; teaching-package continuation requires review and acceptance of the
   current revision. Older missing metadata alone does not invalidate established scope or acceptance.
-- Objectives name observable actions and adequate performance; EOP mappings match the actual scope.
+- Objectives name observable actions and adequate performance.
+- Connections are written in plain language, with no outcome identifiers or quoted outcome wording
+  in the plan. Do not check connections against published outcome wording clause by clause; that
+  comparison belongs to the alignment memo. If a connection covers only part of the outcome it draws
+  on, you may offer the missing part as a "one step further" suggestion (at most two framework
+  suggestions per round in total, shared policy). It is never a failed check and never blocking.
 - Environmental or societal connections were actively considered, with a technical concept, broader
   question, feasible activity, teaching rationale, and supporting evidence or limits. Instructor choices
   are recorded or explicitly pending; none is inferred from silence. A justified decision to defer
@@ -50,6 +65,8 @@ Check the current plan revision before generation:
 - Depth and cut order protect this lesson's objectives. Single topics and equal emphasis are allowed.
 - Source cards and claim records are sufficient for essential content, or a valid stipulated example
   is explicitly planned. Unresolved critical prerequisites, evidence, and tool dependencies are blockers.
+- Revision record and corrections list: note missing or inconsistent entries for the coordinating
+  assistant to repair. This is a note, not a failed check, and it does not block acceptance.
 - Record design-review findings independently of instructor acceptance. A sound plan can pass
   design review while acceptance is pending. Before generation, require both passed design review
   and instructor acceptance of that revision; existing acceptance of an unchanged revision counts.
@@ -63,7 +80,7 @@ Check the current plan revision before generation:
 | Technical accuracy | Definitions, formulations, assumptions, units, interpretation, and applicability hold against available evidence. Unsupported essential claims are unverified blockers. |
 | Numerical validity | Reproduce quantitative answers and perform appropriate independent checks of units, cases, magnitudes, or benchmarks. Incorrect checks fail; unavailable execution or essential checks are unverified. Qualitative items are not-applicable. |
 | Assessment validity | Items elicit the claimed actions at the stated cognitive demand, with defensible criteria and alternatives. Being above the planned level is a mismatch if it exceeds support or time. |
-| EOP alignment | Accepted environmental or societal connections are explained in student-facing content and enacted in planned activities, with purpose and guidance in instructor notes. When assessed, tasks and scoring criteria elicit the claimed understanding or reasoning. Trace to objectives and specific slide/activity/item locations; labels alone are insufficient. Flag omitted accepted connections or unsupported claims using existing severity rules. Honor justified deferrals and preparatory-only lessons; technical items without separate EOP IDs remain valid. No attainment claim without evaluated student work. |
+| EOP alignment | Accepted environmental or societal connections are explained in student-facing content and enacted in planned activities, with purpose and guidance in instructor notes. When assessed, tasks and scoring criteria elicit the claimed understanding or reasoning. Trace to objectives and specific slide/activity/item locations; labels alone are insufficient. Flag omitted accepted connections or unsupported claims using existing severity rules. Honor justified deferrals and preparatory-only lessons; technical items without separate EOP IDs remain valid. No attainment claim without evaluated student work. Check the alignment memo against the items as built: where an item asks for less than the published outcome wording, the memo must say so under `not_covered`; correct the memo, do not block the package or reopen the lesson. A memo that claims coverage no item supports is a failed check on the memo. |
 | Provenance | Inputs, claims, adaptations, and derived conclusions trace to sources/register entries; inherited limitations and assumptions remain visible. A citation or warning alone does not establish correctness. |
 | Reasoning and decisions | Evidence and uncertainty are represented fairly; examples and rubrics allow defensible recommendations. Do not require a predetermined policy answer or fabricate balance between unsupported and supported claims. |
 | Visual and access quality | Inspect actual exported/rendered slides and documents for legibility, equations, overflow, units/legends, contrast, non-color cues, relevant text alternatives, and practical access constraints. |
