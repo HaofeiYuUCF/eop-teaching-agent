@@ -46,6 +46,8 @@ Check the current plan revision before generation:
 - Execution mode and requested outputs match the actual user request. Plan-only acceptance does
   not authorize generation; teaching-package continuation requires review and acceptance of the
   current revision. Older missing metadata alone does not invalidate established scope or acceptance.
+- If a course map preceded the plan, review the plan for the chosen activity only. Do not report
+  unselected rows of the map as omissions, and do not ask for more of the course to be changed.
 - Objectives name observable actions and adequate performance.
 - Connections are written in plain language, with no outcome identifiers or quoted outcome wording
   in the plan. Do not check connections against published outcome wording clause by clause; that

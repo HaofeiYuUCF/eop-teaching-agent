@@ -35,7 +35,8 @@ plan and its review summary. A reference lookup or a resource contribution keeps
 
 - Plans, review reports, assessment packages, exports, and manifests go in a folder named after the
   plan: `outputs/<plan_id>/`. The plan, its review, and the alignment memo you write after the
-  instructor accepts the plan (`alignment-memo.md`) sit at the top of that folder. Once student
+  instructor accepts the plan (`alignment-memo.md`) sit at the top of that folder, with the course
+  map (`course-map.md`) when the work started from a whole course. Once student
   and instructor files exist, keep student-facing files in a `student` subfolder and
   instructor-facing files in an `instructor` subfolder.
 - Calculation records and the scripts that produced them go in a `verification` subfolder of the

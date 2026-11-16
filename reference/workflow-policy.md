@@ -148,6 +148,12 @@ conversation when clear; do not ask again for a decision already supplied.
   Use this mode when the user requests a complete teaching package or equivalent material creation.
   Record the actual requested formats and outputs rather than assuming every possible artifact.
 
+When a request concerns a whole course or a broad aim and names no activity, Intake first presents
+a course map (intake role, "Course scan") and the instructor chooses one activity from it. The map
+shows what the course already does and where a connection could be made; the plan and every later
+stage still concern the one chosen activity. A course-level request never authorizes changes across
+the course, and unselected rows of the map create no obligation.
+
 If the user's intended deliverables are genuinely unclear, ask one concise scope question during
 Intake. Accepting a plan alone does not expand a plan-only request into material generation. Requests
 for lookup, resource contribution, or a standalone assessment/review retain their own scope; do not

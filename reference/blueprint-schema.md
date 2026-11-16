@@ -25,6 +25,7 @@ plan_review:
 source_cards:
   - id: near-road-dispersion-modeling
     revision: source date or revision
+course_map: null # optional; path of the course map this activity was chosen from, and the row chosen
 scenario: null # optional; identify file and revision when selected
 scenario_selection: # optional v4 metadata; omission is valid for older plans
   mode: recommend-with-override # recommend-with-override | lecturer-selected | none
@@ -38,6 +39,32 @@ selection or null remains valid. For a Sunshine plan, identify `scenario/sunshin
 revision 1. The case choice is reviewed with the whole plan; there is no separate acceptance gate.
 When adapting a plan, follow the [catalog](../scenario/catalog.md), and record any changed case
 and its consequences before rebuilding affected assessments and exports.
+
+## Course map (optional, precedes the plan)
+
+When the request was about a course and not one activity, Intake writes a one-page course map before
+the plan (intake role, "Course scan") and saves it as `course-map.md`.
+
+```yaml
+course: ENV 4120
+basis: kit library copy, lecture titles and index only # or: instructor's syllabus, dated ...
+confirmed_current_by_instructor: no # yes | no | partly, with a note
+units:
+  - unit: Gaussian dispersion model
+    already_there: Students calculate downwind concentrations and the maximum ground-level value.
+    nearest_connection: Who lives where the maximum falls, and what could the source change?
+    eop_topic: Environmental Impact Assessment # topic area in plain words; no outcome identifier
+    size: small # small | medium | large
+recommendation:
+  start_with: Gaussian dispersion model
+  reasons: Fits the stated revision objective; small change; the kit has a topic card for it.
+  alternatives: [Air pollution sources]
+  thread: null # optional; one case returning briefly in three or more units
+chosen_by_instructor: null # the unit and activity the instructor chose
+```
+
+The map is drawn from titles and summaries unless `basis` says otherwise; say so on the page. Rows
+are possibilities for the instructor, not defects to repair, and only the chosen activity is planned.
 
 ## 1. Audience and instructor
 

@@ -31,6 +31,46 @@ time the decision is made. You keep this record complete yourself; do not ask th
 gaps in it. Corrections of errors are not suggestions: handle them as shared policy's "Corrections
 are not suggestions" says and list them in the plan's corrections list.
 
+### Course scan: look wide before choosing where to work
+
+Do this step when the instructor names a course, a unit of several lectures, or a broad aim such as
+"align this course with EOP" without naming one activity. Skip it when the instructor has already
+chosen the activity. Its purpose is to let the instructor see the whole course before one place is
+chosen. It widens what the instructor sees; it does not widen what gets changed. The plan that
+follows is still for one activity.
+
+1. Establish what you are reading. If the instructor supplied a syllabus or materials, use those. If
+   the course is in the kit's library, say that you are reading the kit's copy and its date, and ask
+   whether the course is still taught that way. If you have only a course name, ask for the syllabus
+   or a list of topics. Do not build a map from what such a course usually covers.
+2. Read at the level of the syllabus: lecture titles, the library index and topic index, the
+   course-card map, and stated objectives. Do not read every lecture in full for the scan. Say that
+   the map is drawn from titles and summaries and will be checked against the actual pages for the
+   unit that is chosen.
+3. Present a course map of one page, one row per unit (group units if there are more than about
+   fifteen), with three things per row:
+   - **Already there:** what the unit already teaches that EOP cares about, in plain words. Lead
+     with this. Many courses already do part of it, and saying so costs the instructor nothing.
+   - **Nearest connection:** one environmental or societal question the unit could open, in plain
+     language. You may name the EOP topic area; give no outcome identifiers (shared policy).
+   - **Size of the change:** small (an example or a question, a few minutes), medium (an activity
+     within a session), or large (new content or more than a session).
+   Rows are possibilities, not gaps. Do not describe a unit as missing, unaligned, or deficient, and
+   leave a row's connection empty when none is defensible.
+4. Recommend one place to start and name at least one alternative. Choose by the instructor's
+   revision objective, the instructor's own interest, and the smallest change that would matter to
+   students. Give your reasons, and when the kit's own cards or scenarios are one of them, say so:
+   the place where the kit has most material is not thereby the best place for this course.
+5. When one real case or question fits three or more units, you may also offer a thread: the same
+   case returning for a few minutes in each of those units. Offer it as an option, not as the
+   default, and plan it one unit at a time.
+6. The instructor chooses. Continue the interview for that one activity. Keep the other rows in the
+   map as possibilities for later; do not raise them again unless asked, and do not treat them as
+   work the instructor owes.
+
+Save the map as `course-map.md` beside the plan and record the choice in the plan header (schema).
+Map rows are not suggestions in the revision record; the record starts with the chosen activity.
+
 Establish plan-only or teaching-package scope from the user's actual request using the shared
 policy's continuation rules. Reuse clear prior instructions; ask once only if the desired outputs
 are unclear. Record scope in the plan and explain whether work will end with the plan or continue

@@ -45,8 +45,18 @@ Starter request:
 Add "Then produce the assessment items, slides, and teaching notes as editable Word and PowerPoint
 files" if you want the complete package. Leave it out to stop at the plan.
 
+If you have not decided which activity to work on, start with the course instead:
+
+> Here is my syllabus for [course]. Show me a map of where this course already connects to EOP and
+> where it could, and recommend one place to start. I want to change one activity, not the course.
+
 ## What happens
 
+0. **Course map** (only if you ask about a whole course). If you name a course and not one activity,
+   the assistant first gives you a one-page map: for each unit, what it already teaches that the
+   Engineering for One Planet (EOP) framework cares about, one question the unit could open, and how
+   big the change would be. It recommends a place to start and says why. You pick one. The rest of
+   the map is yours to keep; nothing else in the course is changed.
 1. **Interview.** The assistant asks about your students, goals, time, and tools.
 2. **Proposals.** It proposes two to four connections between your content and an environmental or
    societal question, each with a possible student activity. You choose, adapt, defer, or decline.
@@ -76,6 +86,7 @@ check by you of the exported files.
 
 Everything is saved in the `outputs` folder, in a subfolder named after your plan.
 
+- `course-map.md`: the course map, if you started from a whole course.
 - `plan.md`: the lesson plan, including the record of suggestions and your decisions, and the list
   of errors corrected.
 - `alignment-memo.md`: the mapping of the accepted lesson to EOP outcomes.
